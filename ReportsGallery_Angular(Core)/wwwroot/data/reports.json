@@ -1,0 +1,137 @@
+﻿[
+  {
+    "label": "Bar Code",
+    "id": "rpt1",
+    "loc": "BarCode.rdlx"
+  },
+  {
+    "label": "Delivery Slip",
+    "id": "rpt2",
+    "loc": "DeliverySlip.rdlx"
+  },
+  {
+    "label": "Cell Merging",
+    "id": "rpt3",
+    "loc": "CellMerging.rdlx"
+  },
+  {
+    "label": "Employee Sales",
+    "id": "rpt4",
+    "loc": "EmployeeSales.rdlx"
+  },
+  {
+    "label": "Invoice Grouped",
+    "id": "rpt5",
+    "loc": "InvoiceGrouped.rdlx"
+  },
+  {
+    "label": "Letter",
+    "id": "rpt6",
+    "loc": "Letter.rdlx"
+  },
+  {
+    "label": "Purchase Report",
+    "id": "rpt7",
+    "loc": "PurchaseReport.rdlx"
+  },
+  {
+    "label": "Billing Invoice",
+    "id": "rpt8",
+    "loc": "BillingInvoice.rdlx"
+  },
+  {
+    "label": "District Sales",
+    "id": "rpt9",
+    "loc": "DistrictSales.rdlx"
+  },
+  {
+    "label": "Customer Mailing List",
+    "id": "rpt10",
+    "loc": "CustomerMailingList.rdlx"
+  },
+  {
+    "label": "Call Center Dashboard",
+    "id": "rpt14",
+    "loc": "CallCenterDashboard.rdlx"
+  },
+  {
+    "label": "Market Dashboard",
+    "id": "rpt15",
+    "loc": "MarketDashboard.rdlx"
+  },
+  {
+    "label": "Team List",
+    "id": "rpt16",
+    "loc": "TeamList.rdlx"
+  },
+  {
+    "label": "Team Statistics Dashboard",
+    "id": "rpt17",
+    "loc": "TeamStatisticsDashboard.rdlx"
+  },
+  {
+    "label": "Reorder List",
+    "id": "rpt18",
+    "loc": "ReorderList.rdlx"
+  },
+  {
+    "label": "Country Facts",
+    "id": "rpt21",
+    "loc": "CountryFacts.rdlx"
+  },
+  {
+    "label": "Oil Producing Countries",
+    "id": "rpt22",
+    "loc": "OilProducingCountries.rdlx"
+  },
+  {
+    "label": "Life Expectancy",
+    "id": "rpt25",
+    "loc": "LifeExpectancy.rdlx"
+  },
+  {
+    "label": "Genre Statistics",
+    "id": "rpt27",
+    "loc": "GenreStatistics.rdlx"
+  },
+  {
+    "label": "Sales By Media Type",
+    "id": "rpt29",
+    "loc": "SalesByMediaType.rdlx"
+  },
+  {
+    "label": "Sales By Region",
+    "id": "rpt30",
+    "loc": "SalesByRegion.rdlx"
+  },
+  {
+    "label": "Store Performance",
+    "id": "rpt32",
+    "loc": "StorePerformance.rdlx"
+  },
+  {
+    "label": "Top Performers",
+    "id": "rpt34",
+    "loc": "TopPerformers.rdlx"
+  },
+  {
+    "label": "Movie Catalog",
+    "id": "rpt35",
+    "loc": "MovieCatalog.rdlx"
+  },
+  {
+    "label": "Purchase Order",
+    "id": "rpt38",
+    "loc": "PurchaseOrder.rpx"
+  },
+  {
+    "label": "Underlay Next",
+    "id": "rpt39",
+    "loc": "UnderlayNext.rpx"
+  },
+  {
+    "label": "Payment Slip",
+    "id": "rpt40",
+    "loc": "PaymentSlip.rpx"
+  }
+]

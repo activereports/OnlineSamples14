@@ -1,0 +1,23 @@
+.app-report-viewer {
+  display: flex;
+  flex-direction: row;
+  min-height: 100vh;
+  width: 100%;
+}
+
+.flag__hide-viewer-ui .gcv-header-container,
+.flag__hide-viewer-ui .gc-viewer,
+.flag__hide-viewer-ui .gcv-page {
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+.flag__hide-viewer-ui .gcv-page,
+.flag__hide-viewer-ui .gcv-page > div {
+  height: auto !important;
+}
+
+.flag__hide-viewer-ui .gcv-menu,
+.flag__hide-viewer-ui .gc-toolbar {
+  display: none;
+}

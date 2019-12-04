@@ -1,0 +1,41 @@
+/* app-nav */
+
+.app-nav {
+  max-width: 260px;
+  min-width: 200px;
+  margin: 22px 0 10px;
+  padding: 0;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+
+.app-nav__item {
+  display: inline-block;
+  margin-bottom: 12px;
+  line-height: 1.4em;
+  width: 100%;
+}
+
+.app-nav__link {
+  cursor: pointer;
+  padding: 6px 0;
+  text-decoration: none;
+  color: #1B75C5;
+  user-select: none;
+}
+
+.app-nav__link:hover {
+  color: #1792ff;
+}
+
+.app-nav__link.app-nav__link_active,
+.app-nav__link.app-nav__link_active:hover {
+  cursor: auto;
+  color: inherit;
+}
+
+.app-nav__ticker {
+  color: #bfbfbf;
+  margin-left: 4px;
+}

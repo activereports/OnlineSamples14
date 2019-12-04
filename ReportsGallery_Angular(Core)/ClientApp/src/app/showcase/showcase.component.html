@@ -1,0 +1,62 @@
+<div class="app-view">
+
+  <div class="app-nav" *ngIf="tree">
+    <div class="app-nav__section" *ngFor="let section of tree">
+      <div class="app-nav__header">{{section.label}}</div>
+      <div class="app-nav__content">
+        <div class="app-nav__row">
+          <div class="app-nav__column" *ngFor="let child of section.children">
+            <div class="app-nav__item">
+              <div (click)="selectSectionItem(child)">
+                <img class="app-nav__thumb" src="{{child.image}}" alt="{{child.label}}">
+                <div class="app-nav__caption">{{child.label}}</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div [ngClass]="{ 'instance': true, 'instance_visible': !!selectedSectionItem }">
+    <div class="instance__container" >
+
+      <div class="instance__caption" *ngIf="!!selectedSectionItem" (click)="dismissInstance()">
+        <svg class="instance__dismiss" width="26px" height="26px" viewBox="0 0 400 320" focusable="false" xmlns="http://www.w3.org/2000/svg">
+          <path d="M382.688,182.686H59.116l77.209-77.214c6.764-6.76,6.764-17.726,0-24.485c-6.764-6.764-17.73-6.764-24.484,0L5.073,187.757
+            c-6.764,6.76-6.764,17.727,0,24.485l106.768,106.775c3.381,3.383,7.812,5.072,12.242,5.072c4.43,0,8.861-1.689,12.242-5.072
+            c6.764-6.76,6.764-17.726,0-24.484l-77.209-77.218h323.572c9.562,0,17.316-7.753,17.316-17.315
+            C400.004,190.438,392.251,182.686,382.688,182.686z"
+          />
+        </svg>
+        <div>{{selectedSectionItem.label}}</div>
+      </div>
+
+      <div class="instance__row">
+          <div class="instance__content">
+            <div class="instance__viewer theme-default" id="viewerPlaceHolder"></div>
+          </div>
+          <div class="instance__sidebar" *ngIf="!!selectedSectionItem">
+            <div class="instance__similar" *ngIf="selectedSectionItem.children && selectedSectionItem.children.length > 1">
+              <div class="instance__similar-caption">
+                Take a look at the other reports in this section:
+              </div>
+              <ul class="instance__similar-list">
+                <li class="instance__similar-list-item" *ngFor="let report of selectedSectionItem.children">
+                  <div [ngClass]="{ 'active': selectedDocument.id === report.id }" (click)="selectDocument(report)">
+                    {{report.label}}
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="instance__description" *ngIf="selectedDocument.rptdeschtml">
+              <div class="instance__description-caption">About this report:</div>
+              <div [innerHTML]="selectedDocument.rptdeschtml"></div>
+            </div>
+          </div>
+        </div>
+
+    </div>
+  </div>
+
+</div>

@@ -1,0 +1,99 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net462</TargetFramework>
+    <TypeScriptCompileBlocked>true</TypeScriptCompileBlocked>
+    <TypeScriptToolsVersion>Latest</TypeScriptToolsVersion>
+    <IsPackable>false</IsPackable>
+    <SpaRoot>ClientApp\</SpaRoot>
+    <DefaultItemExcludes>$(DefaultItemExcludes);$(SpaRoot)node_modules\**</DefaultItemExcludes>
+    <!-- Set this to true if you enable server-side prerendering -->
+    <BuildServerSideRenderer>false</BuildServerSideRenderer>
+    <Prefer32bit>true</Prefer32bit>
+    <AspNetCoreHostingModelV2>InProcess</AspNetCoreHostingModelV2>
+    <PublishToIIS>false</PublishToIIS>
+    <IISVirtualDirectoryName>/ReportsGallery_Angular_Core/</IISVirtualDirectoryName>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore" Version="2.1.7" />
+    <PackageReference Include="Microsoft.AspNetCore.Hosting" Version="2.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.SpaServices.Extensions" Version="2.1.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Reports\*.*" LinkBase="Reports" />
+    <EmbeddedResource Include="wwwroot\data\*.*" LinkBase="Reports" />
+    <EmbeddedResource Include="wwwroot\img\*.*" LinkBase="Reports" />
+    <!-- Don't publish the SPA source files, but do show them in the project files list -->
+    <Content Remove="$(SpaRoot)**" />
+    <None Include="$(SpaRoot)**" Exclude="$(SpaRoot)node_modules\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\data\reports.json" />
+    <Content Remove="wwwroot\data\thumbs.json" />
+    <Content Remove="wwwroot\data\tree.json" />
+    <Content Remove="wwwroot\img\BandedListControl.jpg" />
+    <Content Remove="wwwroot\img\BarCodes.jpg" />
+    <Content Remove="wwwroot\img\CalendarControl.jpg" />
+    <Content Remove="wwwroot\img\Dashboards.jpg" />
+    <Content Remove="wwwroot\img\default.jpg" />
+    <Content Remove="wwwroot\img\DocumentMapAndTOC.jpg" />
+    <Content Remove="wwwroot\img\DrillDownReports.jpg" />
+    <Content Remove="wwwroot\img\DummyReport.jpg" />
+    <Content Remove="wwwroot\img\DuplicateCopyReport.jpg" />
+    <Content Remove="wwwroot\img\LabelsWithBarCodes.jpg" />
+    <Content Remove="wwwroot\img\MapControl.jpg" />
+    <Content Remove="wwwroot\img\MatrixControl.jpg" />
+    <Content Remove="wwwroot\img\PageReportsOther.jpg" />
+    <Content Remove="wwwroot\img\PreprintedLayouts.jpg" />
+    <Content Remove="wwwroot\img\RDLOthers.jpg" />
+    <Content Remove="wwwroot\img\SLOther.jpg" />
+    <Content Remove="wwwroot\img\SLPreprintedLayouts.jpg" />
+    <Content Remove="wwwroot\img\TOC.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="ClientApp\e2e\tsconfig.e2e.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="GrapeCity.ActiveReports.Aspnetcore.Viewer" Version="14.0.1381-beta" />
+  </ItemGroup>
+  <Target Name="DebugEnsureNodeEnv" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('$(SpaRoot)node_modules') ">
+    <!-- Ensure Node.js is installed -->
+    <Exec Command="node --version" ContinueOnError="true">
+      <Output TaskParameter="ExitCode" PropertyName="ErrorCode" />
+    </Exec>
+    <Error Condition="'$(ErrorCode)' != '0'" Text="Node.js is required to build and run this project. To continue, please install Node.js from https://nodejs.org/, and then restart your command prompt or IDE." />
+    <Message Importance="high" Text="Restoring dependencies using 'npm'. This may take several minutes..." />
+    <Exec WorkingDirectory="$(SpaRoot)" Command="npm install" />
+  </Target>
+  <Target Name="PublishRunWebpack" AfterTargets="ComputeFilesToPublish" Condition="'$(PublishToIIS)' == 'false'">
+    <!-- As part of publishing, ensure the JS resources are freshly built in production mode -->
+    <Exec WorkingDirectory="$(SpaRoot)" Command="npm install" />
+    <Exec WorkingDirectory="$(SpaRoot)" Command="npm run build -- --prod" />
+    <Exec WorkingDirectory="$(SpaRoot)" Command="npm run build:ssr -- --prod" Condition=" '$(BuildServerSideRenderer)' == 'true' " />
+    <!-- Include the newly-built files in the publish output -->
+    <ItemGroup>
+      <DistFiles Include="$(SpaRoot)dist\**; $(SpaRoot)dist-server\**" />
+      <DistFiles Include="$(SpaRoot)node_modules\**" Condition="'$(BuildServerSideRenderer)' == 'true'" />
+      <ResolvedFileToPublish Include="@(DistFiles-&gt;'%(FullPath)')" Exclude="@(ResolvedFileToPublish)">
+        <RelativePath>%(DistFiles.Identity)</RelativePath>
+        <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      </ResolvedFileToPublish>
+    </ItemGroup>
+  </Target>
+  <Target Name="PublishIISRunWebpack" AfterTargets="ComputeFilesToPublish" Condition="'$(PublishToIIS)' == 'true'">
+    <!-- As part of publishing, ensure the JS resources are freshly built in production mode -->
+    <Exec WorkingDirectory="$(SpaRoot)" Command="npm install" />
+    <Exec WorkingDirectory="$(SpaRoot)" Command="npm run build -- --base-href &quot;$(IISVirtualDirectoryName)&quot; --prod" />
+    <Exec WorkingDirectory="$(SpaRoot)" Command="npm run build:ssr -- --base-href &quot;$(IISVirtualDirectoryName)&quot; --prod" Condition=" '$(BuildServerSideRenderer)' == 'true' " />
+    <!-- Include the newly-built files in the publish output -->
+    <ItemGroup>
+      <DistFiles Include="$(SpaRoot)dist\**; $(SpaRoot)dist-server\**" />
+      <DistFiles Include="$(SpaRoot)node_modules\**" Condition="'$(BuildServerSideRenderer)' == 'true'" />
+      <ResolvedFileToPublish Include="@(DistFiles-&gt;'%(FullPath)')" Exclude="@(ResolvedFileToPublish)">
+        <RelativePath>%(DistFiles.Identity)</RelativePath>
+        <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      </ResolvedFileToPublish>
+    </ItemGroup>
+  </Target>
+</Project>

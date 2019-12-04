@@ -1,0 +1,12 @@
+<ul class="app-nav">
+  <li class="app-nav__item" *ngFor="let company of stocks">
+    <a
+      [routerLink]="['/view', company.ticker]"
+      [ngClass]="{ 'app-nav__link': true, 'app-nav__link_active': selectedTicker === company.ticker }"
+      (click)="changeSelection(company.ticker, company.name)"
+    >
+      <span class="app-nav__name">{{company.name}}</span>
+      <span class="app-nav__ticker">({{company.ticker}})</span>
+    </a>
+  </li>
+</ul>

@@ -1,0 +1,32 @@
+<Theme>
+  <Colors>
+    <Dark1>Black</Dark1>
+    <Dark2>#3184BD</Dark2>
+    <Light1>White</Light1>
+    <Light2>#F4F9FF</Light2>
+    <Accent1>#E55928</Accent1>
+    <Accent2>#c0504d</Accent2>
+    <Accent3>#9bbb59</Accent3>
+    <Accent4>#8064a2</Accent4>
+    <Accent5>#FFE87A</Accent5>
+    <Accent6>#f79646</Accent6>
+    <Hyperlink>#0000ff</Hyperlink>
+    <HyperlinkFollowed>#800080</HyperlinkFollowed>
+  </Colors>
+  <Fonts>
+    <MajorFont>
+      <Family>Verdana</Family>
+      <Style>Normal</Style>
+      <Size>18pt</Size>
+      <Weight>Bold</Weight>
+    </MajorFont>
+    <MinorFont>
+      <Family>Tahoma</Family>
+      <Style>Normal</Style>
+      <Size>10pt</Size>
+      <Weight>Normal</Weight>
+    </MinorFont>
+  </Fonts>
+  <Images />
+  <Constants />
+</Theme>

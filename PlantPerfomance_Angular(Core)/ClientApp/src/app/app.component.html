@@ -1,0 +1,47 @@
+<div [ngClass]="{ 'app-container': true, 'flag__hide-viewer-ui': true }">
+
+  <div class="header">
+    <div class="header__title">ActiveReports Demos - Manufacturing Plant Performance</div>
+    <ul class="header__list">
+    </ul>
+  </div>
+
+  <div class="main">
+
+    <div class="instance">
+      <div class="parameters">
+        <div class="parameters__label">Choose a location:</div>
+        <select class="parameters__select" (change)="changeLocation($event.target.value)">
+          <option
+            *ngFor="let place of locations"
+            label="{{place.name}}"
+            value="{{place.ticker}}"
+            [selected]="place.ticker === selectedTicker"
+          >
+            {{place.name}}
+          </option>
+        </select>
+        <span class="parameters__hint">
+          <b>Note: </b> Choose the city where the plant is located to see Plant Peformance KPIs
+        </span>
+      </div>
+
+      <router-outlet ></router-outlet>
+    
+    </div>
+
+    <div class="hr"></div>
+
+    <div class="footer">
+      <div class="footer__content">
+        <div class="footer__copyright">Copyright © 2019 GrapeCity, Inc. All rights reserved.</div>
+        <div class="footer__links">
+        </div>
+      </div>
+      <div class="footer__trademark">
+        ActiveReports® is registered trademark of GrapeCity in United States and in several other countries.
+        All product and company names herein may be trademarks of their respective owners.
+      </div>
+    </div>
+  </div>
+</div>

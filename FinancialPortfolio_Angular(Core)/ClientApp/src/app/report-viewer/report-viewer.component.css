@@ -1,0 +1,26 @@
+#viewerPlaceHolder {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  min-height: 100vh;
+}
+
+.flag__hide-viewer-ui .gcv-header-container,
+.flag__hide-viewer-ui .gc-viewer,
+.flag__hide-viewer-ui .gcv-page {
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+.flag__hide-viewer-ui #reportContainer {
+  background: transparent;
+}
+
+.flag__hide-viewer-ui .gcv-pageview {
+  padding: 0;
+}
+
+.flag__hide-viewer-ui .gcv-menu,
+.flag__hide-viewer-ui .gc-toolbar {
+  display: none;
+}

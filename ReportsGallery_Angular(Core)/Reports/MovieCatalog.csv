@@ -1,0 +1,1068 @@
+Title(String),GenreName(String),MovieID(Integer),Length(Integer),YearReleased(Integer),UserRating(Float),MPAA(String),Country(String)
+Titanic ,Drama,1,194,1997,9.1,PG-13,USA
+Titanic ,Romance,1,194,1997,9.1,PG-13,USA
+Titanic ,History,1,194,1997,9.1,PG-13,USA
+Star Wars ,Action,2,121,1977,8,PG,USA
+Star Wars ,Adventure,2,121,1977,8,PG,USA
+Star Wars ,Fantasy,2,121,1977,8,PG,USA
+Shrek 2 ,Adventure,3,92,2004,7.1,PG,USA
+Shrek 2 ,Family,3,92,2004,7.1,PG,USA
+Shrek 2 ,Animation,3,92,2004,7.1,PG,USA
+Shrek 2 ,Fantasy,3,92,2004,7.1,PG,USA
+Shrek 2 ,Comedy,3,92,2004,7.1,PG,USA
+E.T. the Extra-Terrestrial ,Family,4,120,1982,7.3,PG,USA
+E.T. the Extra-Terrestrial ,Fantasy,4,120,1982,7.3,PG,USA
+E.T. the Extra-Terrestrial ,Drama,4,120,1982,7.3,PG,USA
+Star Wars: Episode I - The Phantom Menace ,Fantasy,5,133,1999,9.1,PG,USA
+Star Wars: Episode I - The Phantom Menace ,Adventure,5,133,1999,9.1,PG,USA
+Star Wars: Episode I - The Phantom Menace ,Action,5,133,1999,9.1,PG,USA
+Spider-Man ,Action,6,121,2002,8.6,PG-13,USA
+Spider-Man ,Fantasy,6,121,2002,8.6,PG-13,USA
+Spider-Man ,Thriller,6,121,2002,8.6,PG-13,USA
+Star Wars: Episode III - Revenge of the Sith ,Action,7,140,2005,8.5,PG-13,USA
+Star Wars: Episode III - Revenge of the Sith ,Fantasy,7,140,2005,8.5,PG-13,USA
+Star Wars: Episode III - Revenge of the Sith ,Adventure,7,140,2005,8.5,PG-13,USA
+The Lord of the Rings: The Return of the King ,Fantasy,8,201,2003,6.5,PG-13,USA
+The Lord of the Rings: The Return of the King ,Action,8,201,2003,6.5,PG-13,USA
+The Lord of the Rings: The Return of the King ,Adventure,8,201,2003,6.5,PG-13,USA
+Spider-Man 2 ,Thriller,9,127,2004,8.8,PG-13,USA
+Spider-Man 2 ,Action,9,127,2004,8.8,PG-13,USA
+Spider-Man 2 ,Fantasy,9,127,2004,8.8,PG-13,USA
+The Passion of the Christ ,Drama,10,127,2004,8.8,R,USA
+The Passion of the Christ ,Biography,10,127,2004,8.8,R,USA
+Jurassic Park ,Drama,11,127,1993,6.8,PG-13,USA
+Jurassic Park ,Horror,11,127,1993,6.8,PG-13,USA
+Jurassic Park ,Action,11,127,1993,6.8,PG-13,USA
+Jurassic Park ,Adventure,11,127,1993,6.8,PG-13,USA
+The Lord of the Rings: The Two Towers ,Action,12,179,2002,8.9,PG-13,USA
+The Lord of the Rings: The Two Towers ,Fantasy,12,179,2002,8.9,PG-13,USA
+The Lord of the Rings: The Two Towers ,Adventure,12,179,2002,8.9,PG-13,USA
+Finding Nemo ,Animation,13,100,2003,7.2,G,USA
+Finding Nemo ,Adventure,13,100,2003,7.2,G,USA
+Finding Nemo ,Family,13,100,2003,7.2,G,USA
+Finding Nemo ,Drama,13,100,2003,7.2,G,USA
+Finding Nemo ,Comedy,13,100,2003,7.2,G,USA
+Forrest Gump ,Comedy,14,142,1994,5.4,PG-13,USA
+Forrest Gump ,Drama,14,142,1994,5.4,PG-13,USA
+Forrest Gump ,Romance,14,142,1994,5.4,PG-13,USA
+The Lion King ,Drama,15,89,1994,8.7,G,USA
+The Lion King ,Adventure,15,89,1994,8.7,G,USA
+The Lion King ,Musical,15,89,1994,8.7,G,USA
+The Lion King ,Animation,15,89,1994,8.7,G,USA
+The Lion King ,Family,15,89,1994,8.7,G,USA
+The Lion King ,Comedy,15,89,1994,8.7,G,USA
+Harry Potter and the Sorcerer's Stone ,Fantasy,16,152,2001,5.4,PG,USA
+Harry Potter and the Sorcerer's Stone ,Adventure,16,152,2001,5.4,PG,USA
+Harry Potter and the Sorcerer's Stone ,Family,16,152,2001,5.4,PG,USA
+The Lord of the Rings: The Fellowship of the Ring ,Adventure,17,178,2001,10,PG-13,New Zealand
+The Lord of the Rings: The Fellowship of the Ring ,Fantasy,17,178,2001,10,PG-13,New Zealand
+The Lord of the Rings: The Fellowship of the Ring ,Action,17,178,2001,10,PG-13,New Zealand
+Star Wars: Episode II - Attack of the Clones ,Action,18,120,2002,6.7,PG,USA
+Star Wars: Episode II - Attack of the Clones ,Mystery,18,120,2002,6.7,PG,USA
+Star Wars: Episode II - Attack of the Clones ,Adventure,18,120,2002,6.7,PG,USA
+Star Wars: Episode II - Attack of the Clones ,Fantasy,18,120,2002,6.7,PG,USA
+Star Wars: Episode II - Attack of the Clones ,Romance,18,120,2002,6.7,PG,USA
+Star Wars: Episode VI - Return of the Jedi ,Adventure,19,134,1983,7.6,PG,USA
+Star Wars: Episode VI - Return of the Jedi ,Action,19,134,1983,7.6,PG,USA
+Star Wars: Episode VI - Return of the Jedi ,Fantasy,19,134,1983,7.6,PG,USA
+Independence Day ,Action,20,153,1996,5.9,PG-13,USA
+Independence Day ,Thriller,20,153,1996,5.9,PG-13,USA
+Pirates of the Caribbean: The Curse of the Black Pearl ,Adventure,21,143,2003,8,PG-13,USA
+Pirates of the Caribbean: The Curse of the Black Pearl ,Action,21,143,2003,8,PG-13,USA
+Pirates of the Caribbean: The Curse of the Black Pearl ,Fantasy,21,143,2003,8,PG-13,USA
+Pirates of the Caribbean: The Curse of the Black Pearl ,Comedy,21,143,2003,8,PG-13,USA
+The Sixth Sense ,Thriller,22,107,1999,9.4,PG-13,USA
+The Sixth Sense ,Drama,22,107,1999,9.4,PG-13,USA
+The Sixth Sense ,Mystery,22,107,1999,9.4,PG-13,USA
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe ",Drama,23,140,2005,9,PG,USA
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe ",Family,23,140,2005,9,PG,USA
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe ",Adventure,23,140,2005,9,PG,USA
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe ",Action,23,140,2005,9,PG,USA
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe ",Fantasy,23,140,2005,9,PG,USA
+Star Wars: Episode V - The Empire Strikes Back ,Action,24,127,1980,5.3,PG,USA
+Star Wars: Episode V - The Empire Strikes Back ,Fantasy,24,127,1980,5.3,PG,USA
+Star Wars: Episode V - The Empire Strikes Back ,Adventure,24,127,1980,5.3,PG,USA
+Harry Potter and the Goblet of Fire ,Fantasy,25,157,2005,9.5,PG-13,UK
+Harry Potter and the Goblet of Fire ,Adventure,25,157,2005,9.5,PG-13,UK
+Harry Potter and the Goblet of Fire ,Mystery,25,157,2005,9.5,PG-13,UK
+Harry Potter and the Goblet of Fire ,Thriller,25,157,2005,9.5,PG-13,UK
+Home Alone ,Crime,26,103,1990,8.2,PG,USA
+Home Alone ,Family,26,103,1990,8.2,PG,USA
+Home Alone ,Comedy,26,103,1990,8.2,PG,USA
+The Matrix Reloaded ,Action,27,138,2003,6.6,R,USA
+The Matrix Reloaded ,Thriller,27,138,2003,6.6,R,USA
+Meet the Fockers ,Comedy,28,115,2004,7.6,PG-13,USA
+Shrek ,Family,29,90,2001,7.1,PG,USA
+Shrek ,Comedy,29,90,2001,7.1,PG,USA
+Shrek ,Fantasy,29,90,2001,7.1,PG,USA
+Shrek ,Romance,29,90,2001,7.1,PG,USA
+Shrek ,Animation,29,90,2001,7.1,PG,USA
+Shrek ,Adventure,29,90,2001,7.1,PG,USA
+Harry Potter and the Chamber of Secrets ,Fantasy,30,161,2002,7,PG,USA
+Harry Potter and the Chamber of Secrets ,Mystery,30,161,2002,7,PG,USA
+Harry Potter and the Chamber of Secrets ,Family,30,161,2002,7,PG,USA
+Harry Potter and the Chamber of Secrets ,Adventure,30,161,2002,7,PG,USA
+The Incredibles ,Adventure,31,115,2004,8.3,PG,USA
+The Incredibles ,Animation,31,115,2004,8.3,PG,USA
+The Incredibles ,Family,31,115,2004,8.3,PG,USA
+The Incredibles ,Comedy,31,115,2004,8.3,PG,USA
+The Incredibles ,Action,31,115,2004,8.3,PG,USA
+How the Grinch Stole Christmas ,Fantasy,32,104,2000,9.8,PG,USA
+How the Grinch Stole Christmas ,Comedy,32,104,2000,9.8,PG,USA
+How the Grinch Stole Christmas ,Drama,32,104,2000,9.8,PG,USA
+How the Grinch Stole Christmas ,Family,32,104,2000,9.8,PG,USA
+Jaws ,Horror,33,130,1975,9.6,PG,USA
+Jaws ,Thriller,33,130,1975,9.6,PG,USA
+Jaws ,Adventure,33,130,1975,9.6,PG,USA
+"Monsters, Inc. ",Fantasy,34,92,2001,8.6,G,USA
+"Monsters, Inc. ",Comedy,34,92,2001,8.6,G,USA
+"Monsters, Inc. ",Family,34,92,2001,8.6,G,USA
+"Monsters, Inc. ",Animation,34,92,2001,8.6,G,USA
+Batman ,Fantasy,35,126,1989,8,PG-13,USA
+Batman ,Thriller,35,126,1989,8,PG-13,USA
+Batman ,Action,35,126,1989,8,PG-13,USA
+Batman ,Crime,35,126,1989,8,PG-13,USA
+Men in Black ,Action,36,98,1997,7.8,PG-13,USA
+Men in Black ,Comedy,36,98,1997,7.8,PG-13,USA
+Harry Potter and the Prisoner of Azkaban ,Fantasy,37,141,2004,7.3,PG,UK
+Harry Potter and the Prisoner of Azkaban ,Family,37,141,2004,7.3,PG,UK
+Harry Potter and the Prisoner of Azkaban ,Adventure,37,141,2004,7.3,PG,UK
+Toy Story 2 ,Fantasy,38,92,1999,6.4,G,USA
+Toy Story 2 ,Family,38,92,1999,6.4,G,USA
+Toy Story 2 ,Animation,38,92,1999,6.4,G,USA
+Toy Story 2 ,Comedy,38,92,1999,6.4,G,USA
+Toy Story 2 ,Adventure,38,92,1999,6.4,G,USA
+Bruce Almighty ,Fantasy,39,101,2003,7.9,PG-13,USA
+Bruce Almighty ,Romance,39,101,2003,7.9,PG-13,USA
+Bruce Almighty ,Comedy,39,101,2003,7.9,PG-13,USA
+Raiders of the Lost Ark ,Action,40,115,1981,5.1,R,USA
+Raiders of the Lost Ark ,Adventure,40,115,1981,5.1,R,USA
+Raiders of the Lost Ark ,Thriller,40,115,1981,5.1,R,USA
+Twister ,Drama,41,113,1996,5.5,PG-13,USA
+Twister ,Thriller,41,113,1996,5.5,PG-13,USA
+Twister ,Action,41,113,1996,5.5,PG-13,USA
+My Big Fat Greek Wedding ,Romance,42,95,2002,9.3,PG,USA
+My Big Fat Greek Wedding ,Comedy,42,95,2002,9.3,PG,USA
+Ghost Busters ,Fantasy,43,105,1984,6.5,PG,USA
+Ghost Busters ,Comedy,43,105,1984,6.5,PG,USA
+Ghost Busters ,Action,43,105,1984,6.5,PG,USA
+Beverly Hills Cop ,Action,44,105,1984,8.9,R,USA
+Beverly Hills Cop ,Thriller,44,105,1984,8.9,R,USA
+Beverly Hills Cop ,Comedy,44,105,1984,8.9,R,USA
+Beverly Hills Cop ,Drama,44,105,1984,8.9,R,USA
+Beverly Hills Cop ,Crime,44,105,1984,8.9,R,USA
+War of the Worlds ,Action,45,116,2005,6,PG-13,USA
+War of the Worlds ,Adventure,45,116,2005,6,PG-13,USA
+War of the Worlds ,Thriller,45,116,2005,6,PG-13,USA
+Cast Away ,Drama,46,143,2000,5.7,PG-13,USA
+Cast Away ,Adventure,46,143,2000,5.7,PG-13,USA
+The Lost World: Jurassic Park ,Action,47,129,1997,9.6,PG-13,USA
+The Lost World: Jurassic Park ,Horror,47,129,1997,9.6,PG-13,USA
+The Lost World: Jurassic Park ,Thriller,47,129,1997,9.6,PG-13,USA
+The Lost World: Jurassic Park ,Adventure,47,129,1997,9.6,PG-13,USA
+Signs ,Drama,48,106,2002,7.5,PG-13,USA
+Signs ,Thriller,48,106,2002,7.5,PG-13,USA
+Signs ,Mystery,48,106,2002,7.5,PG-13,USA
+Rush Hour 2 ,Comedy,49,90,2001,5.4,PG-13,USA
+Rush Hour 2 ,Thriller,49,90,2001,5.4,PG-13,USA
+Rush Hour 2 ,Action,49,90,2001,5.4,PG-13,USA
+Rush Hour 2 ,Crime,49,90,2001,5.4,PG-13,USA
+Rush Hour 2 ,Adventure,49,90,2001,5.4,PG-13,USA
+Mrs. Doubtfire ,Drama,50,125,1993,7.8,PG-13,USA
+Mrs. Doubtfire ,Comedy,50,125,1993,7.8,PG-13,USA
+King Kong ,Thriller,51,187,2005,6.3,PG-13,New Zealand
+King Kong ,Drama,51,187,2005,6.3,PG-13,New Zealand
+King Kong ,Adventure,51,187,2005,6.3,PG-13,New Zealand
+King Kong ,Action,51,187,2005,6.3,PG-13,New Zealand
+Ghost ,Drama,52,128,1990,8,PG-13,USA
+Ghost ,Comedy,52,128,1990,8,PG-13,USA
+Ghost ,Thriller,52,128,1990,8,PG-13,USA
+Ghost ,Romance,52,128,1990,8,PG-13,USA
+Ghost ,Fantasy,52,128,1990,8,PG-13,USA
+Aladdin ,Animation,53,90,1992,5.1,G,USA
+Aladdin ,Family,53,90,1992,5.1,G,USA
+Aladdin ,Musical,53,90,1992,5.1,G,USA
+Aladdin ,Adventure,53,90,1992,5.1,G,USA
+Aladdin ,Comedy,53,90,1992,5.1,G,USA
+Aladdin ,Fantasy,53,90,1992,5.1,G,USA
+Saving Private Ryan ,Drama,54,170,1998,6.8,R,USA
+Saving Private Ryan ,History,54,170,1998,6.8,R,USA
+Saving Private Ryan ,War,54,170,1998,6.8,R,USA
+Saving Private Ryan ,Action,54,170,1998,6.8,R,USA
+Mission: Impossible II ,Action,55,123,2000,9.9,PG-13,USA
+Mission: Impossible II ,Thriller,55,123,2000,9.9,PG-13,USA
+Mission: Impossible II ,Adventure,55,123,2000,9.9,PG-13,USA
+X2 ,Fantasy,56,133,2003,9.7,PG-13,USA
+X2 ,Action,56,133,2003,9.7,PG-13,USA
+X2 ,Thriller,56,133,2003,9.7,PG-13,USA
+Austin Powers in Goldmember ,Action,57,94,2002,9,PG-13,USA
+Austin Powers in Goldmember ,Comedy,57,94,2002,9,PG-13,USA
+Austin Powers in Goldmember ,Music,57,94,2002,9,PG-13,USA
+Austin Powers in Goldmember ,Adventure,57,94,2002,9,PG-13,USA
+Back to the Future ,Action,58,111,1985,6.7,PG,USA
+Back to the Future ,Adventure,58,111,1985,6.7,PG,USA
+Back to the Future ,Comedy,58,111,1985,6.7,PG,USA
+Wedding Crashers ,Comedy,59,119,2005,7.8,R,USA
+Wedding Crashers ,Romance,59,119,2005,7.8,R,USA
+Charlie and the Chocolate Factory ,Fantasy,60,115,2005,5.9,PG,USA
+Charlie and the Chocolate Factory ,Adventure,60,115,2005,5.9,PG,USA
+Charlie and the Chocolate Factory ,Musical,60,115,2005,5.9,PG,USA
+Charlie and the Chocolate Factory ,Family,60,115,2005,5.9,PG,USA
+Charlie and the Chocolate Factory ,Comedy,60,115,2005,5.9,PG,USA
+Austin Powers: The Spy Who Shagged Me ,Adventure,61,95,1999,7.1,PG-13,USA
+Austin Powers: The Spy Who Shagged Me ,Action,61,95,1999,7.1,PG-13,USA
+Austin Powers: The Spy Who Shagged Me ,Comedy,61,95,1999,7.1,PG-13,USA
+Austin Powers: The Spy Who Shagged Me ,Music,61,95,1999,7.1,PG-13,USA
+Batman Begins ,Fantasy,62,141,2005,5.9,PG-13,USA
+Batman Begins ,Thriller,62,141,2005,5.9,PG-13,USA
+Batman Begins ,Crime,62,141,2005,5.9,PG-13,USA
+Batman Begins ,Adventure,62,141,2005,5.9,PG-13,USA
+Batman Begins ,Action,62,141,2005,5.9,PG-13,USA
+Terminator 2: Judgment Day ,Thriller,63,152,1991,9.4,R,France
+Terminator 2: Judgment Day ,Adventure,63,152,1991,9.4,R,France
+Terminator 2: Judgment Day ,Action,63,152,1991,9.4,R,France
+The Exorcist ,Thriller,64,122,1973,6.7,R,USA
+The Exorcist ,Drama,64,122,1973,6.7,R,USA
+The Exorcist ,Horror,64,122,1973,6.7,R,USA
+The Mummy Returns ,Action,65,130,2001,5.4,PG-13,USA
+The Mummy Returns ,Fantasy,65,130,2001,5.4,PG-13,USA
+The Mummy Returns ,Horror,65,130,2001,5.4,PG-13,USA
+The Mummy Returns ,Adventure,65,130,2001,5.4,PG-13,USA
+Armageddon ,Thriller,66,153,1998,7,PG-13,USA
+Armageddon ,Action,66,153,1998,7,PG-13,USA
+Armageddon ,Romance,66,153,1998,7,PG-13,USA
+Armageddon ,Drama,66,153,1998,7,PG-13,USA
+Gone with the Wind ,Romance,67,238,1939,9.3,Approved,USA
+Gone with the Wind ,War,67,238,1939,9.3,Approved,USA
+Gone with the Wind ,Drama,67,238,1939,9.3,Approved,USA
+Pearl Harbor ,Romance,68,184,2001,8.6,PG-13,USA
+Pearl Harbor ,History,68,184,2001,8.6,PG-13,USA
+Pearl Harbor ,Drama,68,184,2001,8.6,PG-13,USA
+Pearl Harbor ,War,68,184,2001,8.6,PG-13,USA
+Pearl Harbor ,Action,68,184,2001,8.6,PG-13,USA
+Indiana Jones and the Last Crusade ,Adventure,69,127,1989,7.4,PG-13,USA
+Indiana Jones and the Last Crusade ,Action,69,127,1989,7.4,PG-13,USA
+Madagascar ,Animation,70,86,2005,5.9,PG,USA
+Madagascar ,Adventure,70,86,2005,5.9,PG,USA
+Madagascar ,Family,70,86,2005,5.9,PG,USA
+Madagascar ,Comedy,70,86,2005,5.9,PG,USA
+Toy Story ,Comedy,71,81,1995,8.1,G,USA
+Toy Story ,Adventure,71,81,1995,8.1,G,USA
+Toy Story ,Family,71,81,1995,8.1,G,USA
+Toy Story ,Fantasy,71,81,1995,8.1,G,USA
+Toy Story ,Animation,71,81,1995,8.1,G,USA
+Men in Black II ,Comedy,72,88,2002,8.6,PG-13,USA
+Men in Black II ,Action,72,88,2002,8.6,PG-13,USA
+Gladiator ,Drama,73,155,2000,8.8,R,UK
+Gladiator ,Action,73,155,2000,8.8,R,UK
+Gladiator ,Adventure,73,155,2000,8.8,R,UK
+The Day After Tomorrow ,Drama,74,124,2004,7.5,PG-13,USA
+The Day After Tomorrow ,Adventure,74,124,2004,7.5,PG-13,USA
+The Day After Tomorrow ,Thriller,74,124,2004,7.5,PG-13,USA
+The Day After Tomorrow ,Action,74,124,2004,7.5,PG-13,USA
+Mr. & Mrs. Smith ,Thriller,75,120,2005,5.4,PG-13,USA
+Mr. & Mrs. Smith ,Action,75,120,2005,5.4,PG-13,USA
+Mr. & Mrs. Smith ,Romance,75,120,2005,5.4,PG-13,USA
+Mr. & Mrs. Smith ,Comedy,75,120,2005,5.4,PG-13,USA
+Snow White and the Seven Dwarfs ,Fantasy,76,83,1937,8.7,Approved,USA
+Snow White and the Seven Dwarfs ,Musical,76,83,1937,8.7,Approved,USA
+Snow White and the Seven Dwarfs ,Family,76,83,1937,8.7,Approved,USA
+Snow White and the Seven Dwarfs ,Drama,76,83,1937,8.7,Approved,USA
+Snow White and the Seven Dwarfs ,Animation,76,83,1937,8.7,Approved,USA
+Dances with Wolves ,Drama,77,224,1990,7.9,PG-13,USA
+Dances with Wolves ,History,77,224,1990,7.9,PG-13,USA
+Dances with Wolves ,Western,77,224,1990,7.9,PG-13,USA
+Dances with Wolves ,Adventure,77,224,1990,7.9,PG-13,USA
+Batman Forever ,Action,78,122,1995,5.1,PG-13,USA
+Batman Forever ,Thriller,78,122,1995,5.1,PG-13,USA
+Batman Forever ,Fantasy,78,122,1995,5.1,PG-13,USA
+Batman Forever ,Crime,78,122,1995,5.1,PG-13,USA
+The Fugitive ,Crime,79,130,1993,9.3,PG-13,USA
+The Fugitive ,Thriller,79,130,1993,9.3,PG-13,USA
+The Fugitive ,Action,79,130,1993,9.3,PG-13,USA
+The Fugitive ,Drama,79,130,1993,9.3,PG-13,USA
+Ocean's Eleven ,Thriller,80,116,2001,8.8,PG-13,USA
+Ocean's Eleven ,Comedy,80,116,2001,8.8,PG-13,USA
+Ocean's Eleven ,Crime,80,116,2001,8.8,PG-13,USA
+Ocean's Eleven ,Action,80,116,2001,8.8,PG-13,USA
+What Women Want ,Fantasy,81,127,2000,8.6,PG-13,USA
+What Women Want ,Comedy,81,127,2000,8.6,PG-13,USA
+What Women Want ,Romance,81,127,2000,8.6,PG-13,USA
+The Perfect Storm ,Drama,82,130,2000,9.1,PG-13,USA
+The Perfect Storm ,Adventure,82,130,2000,9.1,PG-13,USA
+The Perfect Storm ,Thriller,82,130,2000,9.1,PG-13,USA
+The Perfect Storm ,Action,82,130,2000,9.1,PG-13,USA
+Liar Liar ,Comedy,83,86,1997,7.2,PG-13,USA
+Liar Liar ,Fantasy,83,86,1997,7.2,PG-13,USA
+Grease ,Musical,84,110,1978,9.3,PG,USA
+Grease ,Comedy,84,110,1978,9.3,PG,USA
+Grease ,Romance,84,110,1978,9.3,PG,USA
+Jurassic Park III ,Horror,85,92,2001,5.7,PG-13,USA
+Jurassic Park III ,Action,85,92,2001,5.7,PG-13,USA
+Jurassic Park III ,Adventure,85,92,2001,5.7,PG-13,USA
+Jurassic Park III ,Thriller,85,92,2001,5.7,PG-13,USA
+Mission: Impossible ,Mystery,86,110,1996,5.3,PG-13,USA
+Mission: Impossible ,Thriller,86,110,1996,5.3,PG-13,USA
+Mission: Impossible ,Action,86,110,1996,5.3,PG-13,USA
+Mission: Impossible ,Adventure,86,110,1996,5.3,PG-13,USA
+Planet of the Apes ,Action,87,119,2001,9.7,PG-13,USA
+Indiana Jones and the Temple of Doom ,Adventure,88,118,1984,7.9,PG,USA
+Indiana Jones and the Temple of Doom ,Action,88,118,1984,7.9,PG,USA
+Indiana Jones and the Temple of Doom ,Thriller,88,118,1984,7.9,PG,USA
+Pretty Woman ,Romance,89,125,1990,8.7,R,USA
+Pretty Woman ,Comedy,89,125,1990,8.7,R,USA
+Hitch ,Comedy,90,118,2005,8.3,PG-13,USA
+Hitch ,Romance,90,118,2005,8.3,PG-13,USA
+Tootsie ,Romance,91,119,1982,8.8,R,USA
+Tootsie ,Comedy,91,119,1982,8.8,R,USA
+Top Gun ,Romance,92,110,1986,5.6,PG,USA
+Top Gun ,Drama,92,110,1986,5.6,PG,USA
+Top Gun ,Action,92,110,1986,5.6,PG,USA
+There's Something About Mary ,Comedy,93,134,1998,8.6,R,USA
+There's Something About Mary ,Romance,93,134,1998,8.6,R,USA
+Ice Age ,Family,94,81,2002,7,PG,USA
+Ice Age ,Adventure,94,81,2002,7,PG,USA
+Ice Age ,Animation,94,81,2002,7,PG,USA
+Ice Age ,Comedy,94,81,2002,7,PG,USA
+The Bourne Supremacy ,Mystery,95,108,2004,8,PG-13,USA
+The Bourne Supremacy ,Adventure,95,108,2004,8,PG-13,USA
+The Bourne Supremacy ,Drama,95,108,2004,8,PG-13,USA
+The Bourne Supremacy ,Action,95,108,2004,8,PG-13,USA
+The Bourne Supremacy ,Thriller,95,108,2004,8,PG-13,USA
+Crocodile Dundee ,Comedy,96,98,1986,9.6,PG-13,Australia
+Crocodile Dundee ,Adventure,96,98,1986,9.6,PG-13,Australia
+The Polar Express ,Fantasy,97,99,2004,9.9,G,USA
+The Polar Express ,Family,97,99,2004,9.9,G,USA
+The Polar Express ,Adventure,97,99,2004,9.9,G,USA
+The Polar Express ,Animation,97,99,2004,9.9,G,USA
+Home Alone 2: Lost in New York ,Crime,98,120,1992,9.8,PG,USA
+Home Alone 2: Lost in New York ,Action,98,120,1992,9.8,PG,USA
+Home Alone 2: Lost in New York ,Comedy,98,120,1992,9.8,PG,USA
+Home Alone 2: Lost in New York ,Family,98,120,1992,9.8,PG,USA
+Home Alone 2: Lost in New York ,Thriller,98,120,1992,9.8,PG,USA
+Elf ,Fantasy,99,95,2003,8.4,PG,USA
+Elf ,Family,99,95,2003,8.4,PG,USA
+Elf ,Comedy,99,95,2003,8.4,PG,USA
+National Treasure ,Action,100,131,2004,9,PG,USA
+National Treasure ,Adventure,100,131,2004,9,PG,USA
+Rain Man ,Adventure,101,133,1988,6.4,R,USA
+Rain Man ,Comedy,101,133,1988,6.4,R,USA
+Rain Man ,Drama,101,133,1988,6.4,R,USA
+Air Force One ,Action,102,124,1997,6,R,USA
+Air Force One ,Thriller,102,124,1997,6,R,USA
+Air Force One ,Drama,102,124,1997,6,R,USA
+Apollo 13 ,History,103,140,1995,5.1,PG,USA
+Apollo 13 ,Adventure,103,140,1995,5.1,PG,USA
+Apollo 13 ,Drama,103,140,1995,5.1,PG,USA
+The Matrix ,Thriller,104,136,1999,9.5,R,USA
+The Matrix ,Action,104,136,1999,9.5,R,USA
+Beauty and the Beast ,Animation,105,84,1991,9.7,G,USA
+Beauty and the Beast ,Romance,105,84,1991,9.7,G,USA
+Beauty and the Beast ,Fantasy,105,84,1991,9.7,G,USA
+Beauty and the Beast ,Musical,105,84,1991,9.7,G,USA
+Beauty and the Beast ,Family,105,84,1991,9.7,G,USA
+Tarzan ,Adventure,106,88,1999,7.8,G,USA
+Tarzan ,Animation,106,88,1999,7.8,G,USA
+Tarzan ,Family,106,88,1999,7.8,G,USA
+A Beautiful Mind ,Drama,107,135,2001,9.3,PG-13,USA
+A Beautiful Mind ,Biography,107,135,2001,9.3,PG-13,USA
+A Beautiful Mind ,Mystery,107,135,2001,9.3,PG-13,USA
+Chicago ,Comedy,108,113,2002,7.7,PG-13,USA
+Chicago ,Crime,108,113,2002,7.7,PG-13,USA
+Chicago ,Drama,108,113,2002,7.7,PG-13,USA
+Chicago ,Musical,108,113,2002,7.7,PG-13,USA
+Three Men and a Baby ,Family,109,102,1987,6.4,PG,USA
+Three Men and a Baby ,Drama,109,102,1987,6.4,PG,USA
+Three Men and a Baby ,Comedy,109,102,1987,6.4,PG,USA
+Meet the Parents ,Comedy,110,108,2000,6.2,PG-13,USA
+Robin Hood: Prince of Thieves ,History,111,155,1991,6.8,PG-13,USA
+Robin Hood: Prince of Thieves ,Romance,111,155,1991,6.8,PG-13,USA
+Robin Hood: Prince of Thieves ,Drama,111,155,1991,6.8,PG-13,USA
+Robin Hood: Prince of Thieves ,Action,111,155,1991,6.8,PG-13,USA
+Robin Hood: Prince of Thieves ,Adventure,111,155,1991,6.8,PG-13,USA
+Hannibal ,Thriller,112,131,2001,8.9,R,UK
+Hannibal ,Crime,112,131,2001,8.9,R,UK
+Catch Me If You Can ,Comedy,113,141,2002,7.4,PG-13,USA
+Catch Me If You Can ,Biography,113,141,2002,7.4,PG-13,USA
+Catch Me If You Can ,Crime,113,141,2002,7.4,PG-13,USA
+Catch Me If You Can ,Drama,113,141,2002,7.4,PG-13,USA
+Big Daddy ,Comedy,114,93,1999,9,PG-13,USA
+The Sound of Music ,Family,115,174,1965,7.4,G,USA
+The Sound of Music ,Musical,115,174,1965,7.4,G,USA
+The Sound of Music ,Biography,115,174,1965,7.4,G,USA
+The Sound of Music ,Drama,115,174,1965,7.4,G,USA
+Batman Returns ,Action,116,126,1992,8,PG-13,USA
+Batman Returns ,Fantasy,116,126,1992,8,PG-13,USA
+Batman Returns ,Romance,116,126,1992,8,PG-13,USA
+Batman Returns ,Crime,116,126,1992,8,PG-13,USA
+Batman Returns ,Thriller,116,126,1992,8,PG-13,USA
+A Bug's Life ,Family,117,96,1998,8.7,G,USA
+A Bug's Life ,Comedy,117,96,1998,8.7,G,USA
+A Bug's Life ,Animation,117,96,1998,8.7,G,USA
+A Bug's Life ,Adventure,117,96,1998,8.7,G,USA
+The Waterboy ,Comedy,118,90,1998,5.1,PG-13,USA
+The Waterboy ,Sport,118,90,1998,5.1,PG-13,USA
+Shark Tale ,Comedy,119,90,2004,6,PG,USA
+Shark Tale ,Family,119,90,2004,6,PG,USA
+Shark Tale ,Animation,119,90,2004,6,PG,USA
+Die Another Day ,Action,120,133,2002,5.1,PG-13,UK
+Die Another Day ,Adventure,120,133,2002,5.1,PG-13,UK
+Die Another Day ,Thriller,120,133,2002,5.1,PG-13,UK
+The Sting ,Drama,121,129,1973,7.3,PG,USA
+The Sting ,Comedy,121,129,1973,7.3,PG,USA
+The Sting ,Crime,121,129,1973,7.3,PG,USA
+The Firm ,Thriller,122,154,1993,6.4,R,USA
+The Firm ,Drama,122,154,1993,6.4,R,USA
+The Longest Yard ,Comedy,123,113,2005,9.9,PG-13,USA
+The Longest Yard ,Sport,123,113,2005,9.9,PG-13,USA
+The Longest Yard ,Drama,123,113,2005,9.9,PG-13,USA
+The Longest Yard ,Action,123,113,2005,9.9,PG-13,USA
+X-Men ,Action,124,104,2000,9.1,PG-13,USA
+X-Men ,Fantasy,124,104,2000,9.1,PG-13,USA
+X-Men ,Thriller,124,104,2000,9.1,PG-13,USA
+Scary Movie ,Comedy,125,88,2000,7.1,R,USA
+Scary Movie ,Horror,125,88,2000,7.1,R,USA
+Fatal Attraction ,Drama,126,119,1987,7.5,R,USA
+Fatal Attraction ,Thriller,126,119,1987,7.5,R,USA
+What Lies Beneath ,Thriller,127,130,2000,9.9,PG-13,USA
+What Lies Beneath ,Mystery,127,130,2000,9.9,PG-13,USA
+What Lies Beneath ,Horror,127,130,2000,9.9,PG-13,USA
+What Lies Beneath ,Drama,127,130,2000,9.9,PG-13,USA
+The Mummy ,Adventure,128,124,1999,6.8,PG-13,USA
+The Mummy ,Comedy,128,124,1999,6.8,PG-13,USA
+The Mummy ,Fantasy,128,124,1999,6.8,PG-13,USA
+The Mummy ,Action,128,124,1999,6.8,PG-13,USA
+The Mummy ,Horror,128,124,1999,6.8,PG-13,USA
+Fantastic Four ,Adventure,129,106,2005,9.4,PG-13,USA
+Fantastic Four ,Fantasy,129,106,2005,9.4,PG-13,USA
+Fantastic Four ,Action,129,106,2005,9.4,PG-13,USA
+Who Framed Roger Rabbit ,Animation,130,103,1988,5.8,PG,USA
+Who Framed Roger Rabbit ,Family,130,103,1988,5.8,PG,USA
+Who Framed Roger Rabbit ,Fantasy,130,103,1988,5.8,PG,USA
+Who Framed Roger Rabbit ,Mystery,130,103,1988,5.8,PG,USA
+Who Framed Roger Rabbit ,Comedy,130,103,1988,5.8,PG,USA
+Beverly Hills Cop II ,Crime,131,100,1987,8.8,R,USA
+Beverly Hills Cop II ,Thriller,131,100,1987,8.8,R,USA
+Beverly Hills Cop II ,Action,131,100,1987,8.8,R,USA
+Beverly Hills Cop II ,Comedy,131,100,1987,8.8,R,USA
+Jerry Maguire ,Sport,132,139,1996,8.1,R,USA
+Jerry Maguire ,Romance,132,139,1996,8.1,R,USA
+Jerry Maguire ,Drama,132,139,1996,8.1,R,USA
+Jerry Maguire ,Comedy,132,139,1996,8.1,R,USA
+Scooby-Doo ,Comedy,133,86,2002,6.7,PG,USA
+Scooby-Doo ,Family,133,86,2002,6.7,PG,USA
+Scooby-Doo ,Mystery,133,86,2002,6.7,PG,USA
+Scooby-Doo ,Fantasy,133,86,2002,6.7,PG,USA
+Scooby-Doo ,Adventure,133,86,2002,6.7,PG,USA
+One Hundred and One Dalmatians ,Family,134,79,1961,5.3,G,USA
+One Hundred and One Dalmatians ,Comedy,134,79,1961,5.3,G,USA
+One Hundred and One Dalmatians ,Animation,134,79,1961,5.3,G,USA
+One Hundred and One Dalmatians ,Thriller,134,79,1961,5.3,G,USA
+Runaway Bride ,Comedy,135,116,1999,7.3,PG,USA
+Runaway Bride ,Romance,135,116,1999,7.3,PG,USA
+Rambo: First Blood Part II ,War,136,94,1985,7.6,R,USA
+Rambo: First Blood Part II ,Action,136,94,1985,7.6,R,USA
+Terminator 3: Rise of the Machines ,Adventure,137,109,2003,9,R,USA
+Terminator 3: Rise of the Machines ,Action,137,109,2003,9,R,USA
+Terminator 3: Rise of the Machines ,Thriller,137,109,2003,9,R,USA
+Gremlins ,Fantasy,138,106,1984,7.6,PG,USA
+Gremlins ,Comedy,138,106,1984,7.6,PG,USA
+Gremlins ,Horror,138,106,1984,7.6,PG,USA
+As Good as It Gets ,Comedy,139,139,1997,9.5,PG-13,USA
+As Good as It Gets ,Drama,139,139,1997,9.5,PG-13,USA
+As Good as It Gets ,Romance,139,139,1997,9.5,PG-13,USA
+Lethal Weapon 2 ,Crime,140,118,1989,8,R,USA
+Lethal Weapon 2 ,Action,140,118,1989,8,R,USA
+Lethal Weapon 2 ,Thriller,140,118,1989,8,R,USA
+Lethal Weapon 2 ,Comedy,140,118,1989,8,R,USA
+True Lies ,Romance,141,144,1994,6.1,R,USA
+True Lies ,Action,141,144,1994,6.1,R,USA
+True Lies ,Adventure,141,144,1994,6.1,R,USA
+True Lies ,Thriller,141,144,1994,6.1,R,USA
+True Lies ,Comedy,141,144,1994,6.1,R,USA
+Lilo & Stitch ,Drama,142,85,2002,7,PG,USA
+Lilo & Stitch ,Family,142,85,2002,7,PG,USA
+Lilo & Stitch ,Comedy,142,85,2002,7,PG,USA
+Lilo & Stitch ,Animation,142,85,2002,7,PG,USA
+American Pie 2 ,Comedy,143,108,2001,6.5,R,USA
+The Santa Clause ,Comedy,144,97,1994,7.5,PG,USA
+The Santa Clause ,Drama,144,97,1994,7.5,PG,USA
+The Santa Clause ,Family,144,97,1994,7.5,PG,USA
+The Santa Clause ,Fantasy,144,97,1994,7.5,PG,USA
+"I, Robot ",Thriller,145,115,2004,6.5,PG-13,USA
+"I, Robot ",Action,145,115,2004,6.5,PG-13,USA
+Lethal Weapon 3 ,Thriller,146,121,1992,10,R,USA
+Lethal Weapon 3 ,Crime,146,121,1992,10,R,USA
+Lethal Weapon 3 ,Action,146,121,1992,10,R,USA
+Lethal Weapon 3 ,Comedy,146,121,1992,10,R,USA
+The Fast and the Furious ,Crime,147,106,2001,8.2,PG-13,USA
+The Fast and the Furious ,Thriller,147,106,2001,8.2,PG-13,USA
+The Fast and the Furious ,Action,147,106,2001,8.2,PG-13,USA
+Doctor Dolittle ,Family,148,85,1998,9.6,PG-13,USA
+Doctor Dolittle ,Comedy,148,85,1998,9.6,PG-13,USA
+Saturday Night Fever ,Drama,149,113,1977,9.7,R,USA
+Saturday Night Fever ,Music,149,113,1977,9.7,R,USA
+The Jungle Book ,Family,150,78,1967,5.1,G,USA
+The Jungle Book ,Musical,150,78,1967,5.1,G,USA
+The Jungle Book ,Animation,150,78,1967,5.1,G,USA
+The Jungle Book ,Comedy,150,78,1967,5.1,G,USA
+Pocahontas ,Family,151,84,1995,5.9,G,USA
+Pocahontas ,Romance,151,84,1995,5.9,G,USA
+Pocahontas ,Drama,151,84,1995,5.9,G,USA
+Pocahontas ,Animation,151,84,1995,5.9,G,USA
+Pocahontas ,History,151,84,1995,5.9,G,USA
+Pocahontas ,Musical,151,84,1995,5.9,G,USA
+Animal House ,Comedy,152,109,1978,9.7,R,USA
+A Few Good Men ,Crime,153,138,1992,8.8,R,USA
+A Few Good Men ,Thriller,153,138,1992,8.8,R,USA
+A Few Good Men ,Drama,153,138,1992,8.8,R,USA
+xXx ,Adventure,154,124,2002,8.3,PG-13,USA
+xXx ,Action,154,124,2002,8.3,PG-13,USA
+xXx ,Thriller,154,124,2002,8.3,PG-13,USA
+Rush Hour ,Crime,155,97,1998,6.7,PG-13,USA
+Rush Hour ,Action,155,97,1998,6.7,PG-13,USA
+Rush Hour ,Comedy,155,97,1998,6.7,PG-13,USA
+Rush Hour ,Thriller,155,97,1998,6.7,PG-13,USA
+The Blair Witch Project ,Mystery,156,86,1999,5,R,USA
+The Blair Witch Project ,Thriller,156,86,1999,5,R,USA
+The Blair Witch Project ,Horror,156,86,1999,5,R,USA
+Deep Impact ,Thriller,157,120,1998,6,PG-13,USA
+Deep Impact ,Drama,157,120,1998,6,PG-13,USA
+Look Who's Talking ,Comedy,158,93,1989,6,PG-13,USA
+Look Who's Talking ,Romance,158,93,1989,6,PG-13,USA
+Stuart Little ,Comedy,159,84,1999,7.5,PG,Germany
+Stuart Little ,Adventure,159,84,1999,7.5,PG,Germany
+Stuart Little ,Family,159,84,1999,7.5,PG,Germany
+Stuart Little ,Fantasy,159,84,1999,7.5,PG,Germany
+The Rocky Horror Picture Show ,Comedy,160,98,1975,7.3,R,UK
+The Rocky Horror Picture Show ,Musical,160,98,1975,7.3,R,UK
+The Rocky Horror Picture Show ,Horror,160,98,1975,7.3,R,UK
+Sister Act ,Crime,161,100,1992,7.9,PG,USA
+Sister Act ,Comedy,161,100,1992,7.9,PG,USA
+Sister Act ,Music,161,100,1992,7.9,PG,USA
+The Matrix Revolutions ,Thriller,162,129,2003,7.5,R,USA
+The Matrix Revolutions ,Action,162,129,2003,7.5,R,USA
+The Santa Clause 2 ,Fantasy,163,105,2002,8.3,G,USA
+The Santa Clause 2 ,Comedy,163,105,2002,8.3,G,USA
+The Santa Clause 2 ,Family,163,105,2002,8.3,G,USA
+The Santa Clause 2 ,Adventure,163,105,2002,8.3,G,USA
+The Santa Clause 2 ,Drama,163,105,2002,8.3,G,USA
+The Santa Clause 2 ,Romance,163,105,2002,8.3,G,USA
+Cheaper by the Dozen ,Family,164,98,2003,5.6,PG,USA
+Cheaper by the Dozen ,Comedy,164,98,2003,5.6,PG,USA
+Bad Boys II ,Thriller,165,147,2003,7.4,R,USA
+Bad Boys II ,Comedy,165,147,2003,7.4,R,USA
+Bad Boys II ,Action,165,147,2003,7.4,R,USA
+Bad Boys II ,Crime,165,147,2003,7.4,R,USA
+Good Will Hunting ,Drama,166,126,1997,8.7,R,USA
+Platoon ,Drama,167,120,1986,7.2,R,USA
+Platoon ,War,167,120,1986,7.2,R,USA
+Platoon ,Action,167,120,1986,7.2,R,USA
+Dinosaur ,Adventure,168,82,2000,7.1,PG,USA
+Dinosaur ,Animation,168,82,2000,7.1,PG,USA
+Dinosaur ,Family,168,82,2000,7.1,PG,USA
+The Green Mile ,Drama,169,188,1999,6.7,R,USA
+The Green Mile ,Fantasy,169,188,1999,6.7,R,USA
+Ransom ,Crime,170,139,1996,9.8,R,USA
+Ransom ,Thriller,170,139,1996,9.8,R,USA
+Ransom ,Drama,170,139,1996,9.8,R,USA
+Ransom ,Action,170,139,1996,9.8,R,USA
+101 Dalmatians ,Family,171,103,1996,9,G,USA
+101 Dalmatians ,Comedy,171,103,1996,9,G,USA
+101 Dalmatians ,Adventure,171,103,1996,9,G,USA
+Godzilla ,Thriller,172,140,1998,6.1,PG-13,USA
+Godzilla ,Action,172,140,1998,6.1,PG-13,USA
+Chicken Little ,Action,173,81,2005,5.6,G,USA
+Chicken Little ,Animation,173,81,2005,5.6,G,USA
+Chicken Little ,Family,173,81,2005,5.6,G,USA
+Chicken Little ,Comedy,173,81,2005,5.6,G,USA
+Teenage Mutant Ninja Turtles ,Family,174,93,1990,8.1,PG,USA
+Teenage Mutant Ninja Turtles ,Action,174,93,1990,8.1,PG,USA
+Teenage Mutant Ninja Turtles ,Fantasy,174,93,1990,8.1,PG,USA
+Patch Adams ,Comedy,175,115,1998,9.1,PG-13,USA
+Patch Adams ,Drama,175,115,1998,9.1,PG-13,USA
+The Godfather ,Crime,176,175,1972,5.3,R,USA
+The Godfather ,Drama,176,175,1972,5.3,R,USA
+Superman ,Fantasy,177,127,1978,10,PG,UK
+Superman ,Adventure,177,127,1978,10,PG,UK
+Superman ,Action,177,127,1978,10,PG,UK
+The Rock ,Action,178,136,1996,7.5,R,USA
+The Rock ,Thriller,178,136,1996,7.5,R,USA
+Anger Management ,Romance,179,106,2003,7.6,PG-13,USA
+Anger Management ,Comedy,179,106,2003,7.6,PG-13,USA
+Anger Management ,Drama,179,106,2003,7.6,PG-13,USA
+Troy ,Romance,180,163,2004,7.1,R,USA
+Troy ,Drama,180,163,2004,7.1,R,USA
+Troy ,Action,180,163,2004,7.1,R,USA
+Troy ,War,180,163,2004,7.1,R,USA
+Troy ,Adventure,180,163,2004,7.1,R,USA
+Troy ,History,180,163,2004,7.1,R,USA
+Bringing Down the House ,Comedy,181,105,2003,9.3,PG-13,USA
+Hulk ,Action,182,138,2003,5.3,PG-13,USA
+Minority Report ,Drama,183,145,2002,7.1,PG-13,USA
+Minority Report ,Action,183,145,2002,7.1,PG-13,USA
+Minority Report ,Thriller,183,145,2002,7.1,PG-13,USA
+Minority Report ,Crime,183,145,2002,7.1,PG-13,USA
+Minority Report ,Mystery,183,145,2002,7.1,PG-13,USA
+Lara Croft: Tomb Raider ,Fantasy,184,100,2001,9.3,PG-13,UK
+Lara Croft: Tomb Raider ,Action,184,100,2001,9.3,PG-13,UK
+Lara Croft: Tomb Raider ,Adventure,184,100,2001,9.3,PG-13,UK
+The Silence of the Lambs ,Thriller,185,118,1991,9.9,R,USA
+The Silence of the Lambs ,Crime,185,118,1991,9.9,R,USA
+"Honey, I Shrunk the Kids ",Adventure,186,101,1989,9,PG,USA
+"Honey, I Shrunk the Kids ",Family,186,101,1989,9,PG,USA
+"Honey, I Shrunk the Kids ",Comedy,186,101,1989,9,PG,USA
+The Flintstones ,Comedy,187,91,1994,9.3,PG,USA
+The Flintstones ,Fantasy,187,91,1994,9.3,PG,USA
+The Flintstones ,Family,187,91,1994,9.3,PG,USA
+American Beauty ,Drama,188,122,1999,8.4,R,USA
+An Officer and a Gentleman ,Drama,189,122,1982,8.6,R,USA
+An Officer and a Gentleman ,Romance,189,122,1982,8.6,R,USA
+Lethal Weapon 4 ,Crime,190,127,1998,7.3,R,USA
+Lethal Weapon 4 ,Comedy,190,127,1998,7.3,R,USA
+Lethal Weapon 4 ,Action,190,127,1998,7.3,R,USA
+Lethal Weapon 4 ,Thriller,190,127,1998,7.3,R,USA
+The Nutty Professor ,Romance,191,95,1996,6.5,PG-13,USA
+The Nutty Professor ,Comedy,191,95,1996,6.5,PG-13,USA
+The Ring ,Drama,192,115,2002,8,PG-13,USA
+The Ring ,Thriller,192,115,2002,8,PG-13,USA
+The Ring ,Horror,192,115,2002,8,PG-13,USA
+The Ring ,Mystery,192,115,2002,8,PG-13,USA
+Close Encounters of the Third Kind ,Adventure,193,137,1977,5.1,PG,USA
+Close Encounters of the Third Kind ,Drama,193,137,1977,5.1,PG,USA
+Robots ,Animation,194,91,2005,7.3,PG,USA
+Robots ,Fantasy,194,91,2005,7.3,PG,USA
+Robots ,Comedy,194,91,2005,7.3,PG,USA
+Robots ,Family,194,91,2005,7.3,PG,USA
+Coming to America ,Romance,195,116,1988,5.1,R,USA
+Coming to America ,Comedy,195,116,1988,5.1,R,USA
+Wo hu cang long ,Romance,196,120,2000,8.6,PG-13,Taiwan
+Wo hu cang long ,Fantasy,196,120,2000,8.6,PG-13,Taiwan
+Wo hu cang long ,Adventure,196,120,2000,8.6,PG-13,Taiwan
+Wo hu cang long ,Action,196,120,2000,8.6,PG-13,Taiwan
+Rocky IV ,Drama,197,91,1985,8.7,PG,USA
+Rocky IV ,Sport,197,91,1985,8.7,PG,USA
+Rocky IV ,Action,197,91,1985,8.7,PG,USA
+Sweet Home Alabama ,Romance,198,108,2002,5.9,PG-13,USA
+Sweet Home Alabama ,Drama,198,108,2002,5.9,PG-13,USA
+Sweet Home Alabama ,Comedy,198,108,2002,5.9,PG-13,USA
+Dumb & Dumber ,Adventure,199,113,1994,5,PG-13,USA
+Dumb & Dumber ,Comedy,199,113,1994,5,PG-13,USA
+2 Fast 2 Furious ,Thriller,200,107,2003,7.8,PG-13,USA
+2 Fast 2 Furious ,Action,200,107,2003,7.8,PG-13,USA
+2 Fast 2 Furious ,Crime,200,107,2003,7.8,PG-13,USA
+The World Is Not Enough ,Adventure,201,128,1999,7.8,PG-13,UK
+The World Is Not Enough ,Thriller,201,128,1999,7.8,PG-13,UK
+The World Is Not Enough ,Action,201,128,1999,7.8,PG-13,UK
+My Best Friend's Wedding ,Comedy,202,105,1997,6,PG-13,USA
+My Best Friend's Wedding ,Romance,202,105,1997,6,PG-13,USA
+Smokey and the Bandit ,Crime,203,96,1977,8,PG,USA
+Smokey and the Bandit ,Comedy,203,96,1977,8,PG,USA
+Smokey and the Bandit ,Action,203,96,1977,8,PG,USA
+Sleepless in Seattle ,Romance,204,105,1993,9.9,PG,USA
+Sleepless in Seattle ,Drama,204,105,1993,9.9,PG,USA
+Sleepless in Seattle ,Comedy,204,105,1993,9.9,PG,USA
+Mr. Deeds ,Romance,205,96,2002,6.1,PG-13,USA
+Mr. Deeds ,Comedy,205,96,2002,6.1,PG-13,USA
+The Truman Show ,Drama,206,103,1998,9.8,PG,USA
+The Truman Show ,Comedy,206,103,1998,9.8,PG,USA
+Erin Brockovich ,Drama,207,130,2000,9.1,R,USA
+Erin Brockovich ,Biography,207,130,2000,9.1,R,USA
+Ocean's Twelve ,Comedy,208,125,2004,5.8,PG-13,USA
+Ocean's Twelve ,Crime,208,125,2004,5.8,PG-13,USA
+Ocean's Twelve ,Thriller,208,125,2004,5.8,PG-13,USA
+Ocean's Twelve ,Action,208,125,2004,5.8,PG-13,USA
+Tomorrow Never Dies ,Action,209,119,1997,9.2,PG-13,UK
+Tomorrow Never Dies ,Thriller,209,119,1997,9.2,PG-13,UK
+Tomorrow Never Dies ,Adventure,209,119,1997,9.2,PG-13,UK
+Charlie's Angels ,Action,210,98,2000,6.4,PG-13,USA
+Charlie's Angels ,Comedy,210,98,2000,6.4,PG-13,USA
+Charlie's Angels ,Adventure,210,98,2000,6.4,PG-13,USA
+Something's Gotta Give ,Romance,211,128,2003,5.1,PG-13,USA
+Something's Gotta Give ,Comedy,211,128,2003,5.1,PG-13,USA
+Something's Gotta Give ,Drama,211,128,2003,5.1,PG-13,USA
+Traffic ,Crime,212,147,2000,8.6,R,Germany
+Traffic ,Drama,212,147,2000,8.6,R,Germany
+Traffic ,Thriller,212,147,2000,8.6,R,Germany
+City Slickers ,Comedy,213,112,1991,8.4,PG-13,USA
+City Slickers ,Western,213,112,1991,8.4,PG-13,USA
+City Slickers ,Adventure,213,112,1991,8.4,PG-13,USA
+The Birdcage ,Music,214,117,1996,5.4,R,USA
+The Birdcage ,Comedy,214,117,1996,5.4,R,USA
+The Birdcage ,Drama,214,117,1996,5.4,R,USA
+"Good Morning, Vietnam ",Drama,215,119,1987,8,R,USA
+"Good Morning, Vietnam ",War,215,119,1987,8,R,USA
+"Good Morning, Vietnam ",Comedy,215,119,1987,8,R,USA
+Nutty Professor II: The Klumps ,Fantasy,216,109,2000,7.6,PG-13,USA
+Nutty Professor II: The Klumps ,Comedy,216,109,2000,7.6,PG-13,USA
+Rocky III ,Sport,217,99,1982,5.4,PG,USA
+Rocky III ,Drama,217,99,1982,5.4,PG,USA
+Rocky III ,Action,217,99,1982,5.4,PG,USA
+Clear and Present Danger ,Thriller,218,141,1994,8.9,PG-13,USA
+Clear and Present Danger ,Action,218,141,1994,8.9,PG-13,USA
+Clear and Present Danger ,Drama,218,141,1994,8.9,PG-13,USA
+The Bodyguard ,Drama,219,130,1992,5.7,R,USA
+The Bodyguard ,Music,219,130,1992,5.7,R,USA
+The Bodyguard ,Romance,219,130,1992,5.7,R,USA
+The Bodyguard ,Thriller,219,130,1992,5.7,R,USA
+Wayne's World ,Comedy,220,95,1992,8.4,PG-13,USA
+The Bourne Identity ,Adventure,221,119,2002,9.5,PG-13,USA
+The Bourne Identity ,Action,221,119,2002,9.5,PG-13,USA
+The Bourne Identity ,Mystery,221,119,2002,9.5,PG-13,USA
+The Bourne Identity ,Drama,221,119,2002,9.5,PG-13,USA
+The Bourne Identity ,Thriller,221,119,2002,9.5,PG-13,USA
+Speed ,Thriller,222,116,1994,8.8,R,USA
+Speed ,Action,222,116,1994,8.8,R,USA
+50 First Dates ,Comedy,223,99,2004,8.6,PG-13,USA
+50 First Dates ,Romance,223,99,2004,8.6,PG-13,USA
+The Hunt for Red October ,Action,224,134,1990,9.4,PG,USA
+The Hunt for Red October ,Adventure,224,134,1990,9.4,PG,USA
+The Hunt for Red October ,Thriller,224,134,1990,9.4,PG,USA
+Mulan ,Drama,225,88,1998,8.2,G,USA
+Mulan ,Comedy,225,88,1998,8.2,G,USA
+Mulan ,Musical,225,88,1998,8.2,G,USA
+Mulan ,Adventure,225,88,1998,8.2,G,USA
+Mulan ,Animation,225,88,1998,8.2,G,USA
+Mulan ,Family,225,88,1998,8.2,G,USA
+Seabiscuit ,Sport,226,141,2003,5.9,PG-13,USA
+Seabiscuit ,History,226,141,2003,5.9,PG-13,USA
+Seabiscuit ,Drama,226,141,2003,5.9,PG-13,USA
+Van Helsing ,Adventure,227,132,2004,5.9,PG-13,USA
+Van Helsing ,Horror,227,132,2004,5.9,PG-13,USA
+Van Helsing ,Thriller,227,132,2004,5.9,PG-13,USA
+Van Helsing ,Fantasy,227,132,2004,5.9,PG-13,USA
+Van Helsing ,Action,227,132,2004,5.9,PG-13,USA
+The Mask ,Musical,228,97,1994,8.3,PG-13,USA
+The Mask ,Fantasy,228,97,1994,8.3,PG-13,USA
+The Mask ,Action,228,97,1994,8.3,PG-13,USA
+The Mask ,Crime,228,97,1994,8.3,PG-13,USA
+The Mask ,Comedy,228,97,1994,8.3,PG-13,USA
+Hook ,Adventure,229,144,1991,7.9,PG,USA
+Hook ,Family,229,144,1991,7.9,PG,USA
+Hook ,Comedy,229,144,1991,7.9,PG,USA
+Hook ,Fantasy,229,144,1991,7.9,PG,USA
+Blazing Saddles ,Comedy,230,93,1974,5.5,R,USA
+Blazing Saddles ,Western,230,93,1974,5.5,R,USA
+Walk the Line ,Romance,231,136,2005,6.6,PG-13,USA
+Walk the Line ,Music,231,136,2005,6.6,PG-13,USA
+Walk the Line ,Biography,231,136,2005,6.6,PG-13,USA
+Walk the Line ,Drama,231,136,2005,6.6,PG-13,USA
+Total Recall ,Horror,232,113,1990,9.1,R,USA
+Total Recall ,Adventure,232,113,1990,9.1,R,USA
+Total Recall ,Action,232,113,1990,9.1,R,USA
+Total Recall ,Thriller,232,113,1990,9.1,R,USA
+On Golden Pond ,Drama,233,109,1981,7.4,PG,USA
+On Golden Pond ,Comedy,233,109,1981,7.4,PG,USA
+Fahrenheit 9/11 ,Documentary,234,122,2004,9.8,R,USA
+Fahrenheit 9/11 ,War,234,122,2004,9.8,R,USA
+Lemony Snicket's A Series of Unfortunate Events ,Comedy,235,108,2004,9.3,PG,USA
+Lemony Snicket's A Series of Unfortunate Events ,Fantasy,235,108,2004,9.3,PG,USA
+Lemony Snicket's A Series of Unfortunate Events ,Adventure,235,108,2004,9.3,PG,USA
+Lemony Snicket's A Series of Unfortunate Events ,Family,235,108,2004,9.3,PG,USA
+Back to the Future Part II ,Action,236,108,1989,8.3,PG,USA
+Back to the Future Part II ,Comedy,236,108,1989,8.3,PG,USA
+Back to the Future Part II ,Adventure,236,108,1989,8.3,PG,USA
+The Sum of All Fears ,Drama,237,124,2002,7.3,PG-13,USA
+The Sum of All Fears ,Thriller,237,124,2002,7.3,PG-13,USA
+The Sum of All Fears ,Action,237,124,2002,7.3,PG-13,USA
+Basic Instinct ,Crime,238,128,1992,7.2,R,USA
+Basic Instinct ,Mystery,238,128,1992,7.2,R,USA
+Basic Instinct ,Drama,238,128,1992,7.2,R,USA
+Basic Instinct ,Thriller,238,128,1992,7.2,R,USA
+Big Momma's House ,Comedy,239,98,2000,8.3,PG-13,USA
+Big Momma's House ,Crime,239,98,2000,8.3,PG-13,USA
+Big Momma's House ,Action,239,98,2000,8.3,PG-13,USA
+Die Hard 2 ,Thriller,240,124,1990,5,R,USA
+Die Hard 2 ,Adventure,240,124,1990,5,R,USA
+Die Hard 2 ,Action,240,124,1990,5,R,USA
+Rocky ,Drama,241,119,1976,9.9,PG,USA
+Rocky ,Romance,241,119,1976,9.9,PG,USA
+Rocky ,Sport,241,119,1976,9.9,PG,USA
+Rocky ,Action,241,119,1976,9.9,PG,USA
+Double Jeopardy ,Mystery,242,105,1999,8.5,R,Germany
+Double Jeopardy ,Drama,242,105,1999,8.5,R,Germany
+Double Jeopardy ,Thriller,242,105,1999,8.5,R,Germany
+Double Jeopardy ,Crime,242,105,1999,8.5,R,Germany
+8 Mile ,Music,243,110,2002,9.1,R,USA
+8 Mile ,Drama,243,110,2002,9.1,R,USA
+S.W.A.T. ,Action,244,117,2003,7.2,PG-13,USA
+S.W.A.T. ,Crime,244,117,2003,7.2,PG-13,USA
+Notting Hill ,Comedy,245,124,1999,7.3,PG-13,UK
+Notting Hill ,Romance,245,124,1999,7.3,PG-13,UK
+Notting Hill ,Drama,245,124,1999,7.3,PG-13,UK
+The Towering Inferno ,Action,246,165,1974,8,PG,USA
+The Towering Inferno ,Thriller,246,165,1974,8,PG,USA
+The Towering Inferno ,Drama,246,165,1974,8,PG,USA
+You've Got Mail ,Romance,247,119,1998,9.6,PG,USA
+You've Got Mail ,Comedy,247,119,1998,9.6,PG,USA
+Remember the Titans ,Sport,248,113,2000,9.8,PG,USA
+Remember the Titans ,Drama,248,113,2000,9.8,PG,USA
+"The Karate Kid, Part II ",Family,249,113,1986,9.3,PG,USA
+"The Karate Kid, Part II ",Sport,249,113,1986,9.3,PG,USA
+"The Karate Kid, Part II ",Action,249,113,1986,9.3,PG,USA
+"The Karate Kid, Part II ",Romance,249,113,1986,9.3,PG,USA
+American Graffiti ,Comedy,250,110,1973,7.5,PG,USA
+American Graffiti ,Drama,250,110,1973,7.5,PG,USA
+Big ,Comedy,251,104,1988,8.2,PG,USA
+Big ,Fantasy,251,104,1988,8.2,PG,USA
+Big ,Family,251,104,1988,8.2,PG,USA
+Big ,Drama,251,104,1988,8.2,PG,USA
+Big ,Romance,251,104,1988,8.2,PG,USA
+Dodgeball: A True Underdog Story ,Comedy,252,92,2004,9.7,PG-13,USA
+Dodgeball: A True Underdog Story ,Sport,252,92,2004,9.7,PG-13,USA
+The Village ,Thriller,253,108,2004,5.1,PG-13,USA
+The Village ,Drama,253,108,2004,5.1,PG-13,USA
+The Village ,Mystery,253,108,2004,5.1,PG-13,USA
+Wild Wild West ,Western,254,107,1999,6.7,PG-13,USA
+Wild Wild West ,Action,254,107,1999,6.7,PG-13,USA
+Wild Wild West ,Comedy,254,107,1999,6.7,PG-13,USA
+The Addams Family ,Horror,255,99,1991,8.3,PG-13,USA
+The Addams Family ,Fantasy,255,99,1991,8.3,PG-13,USA
+The Addams Family ,Comedy,255,99,1991,8.3,PG-13,USA
+The Addams Family ,Family,255,99,1991,8.3,PG-13,USA
+The Patriot ,Drama,256,165,2000,9,R,Germany
+The Patriot ,Action,256,165,2000,9,R,Germany
+The Patriot ,War,256,165,2000,9,R,Germany
+The Pacifier ,Thriller,257,95,2005,7.5,PG,Canada
+The Pacifier ,Action,257,95,2005,7.5,PG,Canada
+The Pacifier ,Comedy,257,95,2005,7.5,PG,Canada
+The Pacifier ,Family,257,95,2005,7.5,PG,Canada
+Dr. Dolittle 2 ,Family,258,87,2001,8.6,PG,USA
+Dr. Dolittle 2 ,Comedy,258,87,2001,8.6,PG,USA
+Spy Kids ,Family,259,88,2001,6.7,PG,USA
+Spy Kids ,Comedy,259,88,2001,6.7,PG,USA
+Spy Kids ,Adventure,259,88,2001,6.7,PG,USA
+Spy Kids ,Action,259,88,2001,6.7,PG,USA
+Ghostbusters II ,Adventure,260,108,1989,5.2,PG,USA
+Ghostbusters II ,Horror,260,108,1989,5.2,PG,USA
+Ghostbusters II ,Comedy,260,108,1989,5.2,PG,USA
+Ghostbusters II ,Action,260,108,1989,5.2,PG,USA
+Face/Off ,Drama,261,138,1997,8.9,R,USA
+Face/Off ,Crime,261,138,1997,8.9,R,USA
+Face/Off ,Action,261,138,1997,8.9,R,USA
+Face/Off ,Thriller,261,138,1997,8.9,R,USA
+One Flew Over the Cuckoo's Nest ,Drama,262,133,1975,5.8,R,USA
+Twins ,Comedy,263,105,1988,7.8,PG,USA
+Spy Kids 3-D: Game Over ,Adventure,264,84,2003,8.7,PG,USA
+Spy Kids 3-D: Game Over ,Action,264,84,2003,8.7,PG,USA
+Spy Kids 3-D: Game Over ,Fantasy,264,84,2003,8.7,PG,USA
+Spy Kids 3-D: Game Over ,Family,264,84,2003,8.7,PG,USA
+Spy Kids 3-D: Game Over ,Comedy,264,84,2003,8.7,PG,USA
+Doctor Zhivago ,Drama,265,197,1965,9.8,PG-13,USA
+Doctor Zhivago ,Romance,265,197,1965,9.8,PG-13,USA
+Enemy of the State ,Drama,266,131,1998,6,R,USA
+Enemy of the State ,Thriller,266,131,1998,6,R,USA
+Enemy of the State ,Action,266,131,1998,6,R,USA
+The Last Samurai ,Action,267,154,2003,6.1,R,USA
+The Last Samurai ,Drama,267,154,2003,6.1,R,USA
+The Last Samurai ,Adventure,267,154,2003,6.1,R,USA
+The Last Samurai ,War,267,154,2003,6.1,R,USA
+Fun with Dick and Jane ,Comedy,268,90,2005,8.6,PG-13,USA
+Fun with Dick and Jane ,Crime,268,90,2005,8.6,PG-13,USA
+Freaky Friday ,Family,269,97,2003,6,PG,USA
+Freaky Friday ,Fantasy,269,97,2003,6,PG,USA
+Freaky Friday ,Comedy,269,97,2003,6,PG,USA
+Freaky Friday ,Drama,269,97,2003,6,PG,USA
+The Grudge ,Thriller,270,92,2004,9.7,PG-13,Japan
+The Grudge ,Horror,270,92,2004,9.7,PG-13,Japan
+The Grudge ,Mystery,270,92,2004,9.7,PG-13,Japan
+Scary Movie 3 ,Comedy,271,84,2003,5.3,PG-13,USA
+Scary Movie 3 ,Horror,271,84,2003,5.3,PG-13,USA
+The Little Mermaid ,Fantasy,272,83,1989,8.1,G,USA
+The Little Mermaid ,Family,272,83,1989,8.1,G,USA
+The Little Mermaid ,Musical,272,83,1989,8.1,G,USA
+The Little Mermaid ,Animation,272,83,1989,8.1,G,USA
+The Little Mermaid ,Comedy,272,83,1989,8.1,G,USA
+The Little Mermaid ,Romance,272,83,1989,8.1,G,USA
+Star Trek IV: The Voyage Home ,Comedy,273,136,1986,5.7,PG,USA
+Star Trek IV: The Voyage Home ,Adventure,273,136,1986,5.7,PG,USA
+Crocodile' Dundee II ,Comedy,274,110,1988,5.7,PG,Australia
+Crocodile' Dundee II ,Adventure,274,110,1988,5.7,PG,Australia
+Crocodile' Dundee II ,Action,274,110,1988,5.7,PG,Australia
+The 40 Year Old Virgin ,Romance,275,116,2005,8.5,R,USA
+The 40 Year Old Virgin ,Comedy,275,116,2005,8.5,R,USA
+A Time to Kill ,Crime,276,149,1996,6,R,USA
+A Time to Kill ,Thriller,276,149,1996,6,R,USA
+A Time to Kill ,Drama,276,149,1996,6,R,USA
+Black Hawk Down ,History,277,144,2001,9.6,R,USA
+Black Hawk Down ,War,277,144,2001,9.6,R,USA
+Black Hawk Down ,Drama,277,144,2001,9.6,R,USA
+Black Hawk Down ,Action,277,144,2001,9.6,R,USA
+Terms of Endearment ,Comedy,278,132,1983,6.4,PG,USA
+Terms of Endearment ,Drama,278,132,1983,6.4,PG,USA
+Terms of Endearment ,Romance,278,132,1983,6.4,PG,USA
+Ace Ventura: When Nature Calls ,Adventure,279,90,1995,7.1,PG-13,USA
+Ace Ventura: When Nature Calls ,Comedy,279,90,1995,7.1,PG-13,USA
+Ace Ventura: When Nature Calls ,Mystery,279,90,1995,7.1,PG-13,USA
+Ace Ventura: When Nature Calls ,Action,279,90,1995,7.1,PG-13,USA
+The Princess Diaries ,Comedy,280,115,2001,5.3,G,USA
+The Princess Diaries ,Family,280,115,2001,5.3,G,USA
+Superman II ,Fantasy,281,127,1980,6.3,PG,UK
+Superman II ,Adventure,281,127,1980,6.3,PG,UK
+Superman II ,Action,281,127,1980,6.3,PG,UK
+Pulp Fiction ,Drama,282,168,1994,6.2,R,USA
+Pulp Fiction ,Crime,282,168,1994,6.2,R,USA
+A League of Their Own ,Sport,283,128,1992,9,PG,USA
+A League of Their Own ,Drama,283,128,1992,9,PG,USA
+A League of Their Own ,Comedy,283,128,1992,9,PG,USA
+Batman & Robin ,Adventure,284,125,1997,5.4,PG-13,USA
+Batman & Robin ,Thriller,284,125,1997,5.4,PG-13,USA
+Batman & Robin ,Action,284,125,1997,5.4,PG-13,USA
+Batman & Robin ,Fantasy,284,125,1997,5.4,PG-13,USA
+Miss Congeniality ,Romance,285,109,2000,7.3,PG-13,USA
+Miss Congeniality ,Thriller,285,109,2000,7.3,PG-13,USA
+Miss Congeniality ,Comedy,285,109,2000,7.3,PG-13,USA
+Chicken Run ,Family,286,84,2000,6.9,G,UK
+Chicken Run ,Animation,286,84,2000,6.9,G,UK
+Chicken Run ,Comedy,286,84,2000,6.9,G,UK
+Analyze This ,Crime,287,103,1999,8.9,R,USA
+Analyze This ,Comedy,287,103,1999,8.9,R,USA
+GoldenEye ,Action,288,130,1995,5.8,PG-13,UK
+GoldenEye ,Adventure,288,130,1995,5.8,PG-13,UK
+GoldenEye ,Thriller,288,130,1995,5.8,PG-13,UK
+Indecent Proposal ,Drama,289,117,1993,6.4,R,USA
+Indecent Proposal ,Romance,289,117,1993,6.4,R,USA
+Driving Miss Daisy ,Comedy,290,99,1989,5.3,PG,USA
+Driving Miss Daisy ,Drama,290,99,1989,5.3,PG,USA
+Love Story ,Romance,291,99,1970,5.8,PG,USA
+Love Story ,Drama,291,99,1970,5.8,PG,USA
+Kramer vs. Kramer ,Drama,292,105,1979,8.7,PG,USA
+The Italian Job ,Thriller,293,111,2003,5.6,PG-13,USA
+The Italian Job ,Crime,293,111,2003,5.6,PG-13,USA
+The Italian Job ,Action,293,111,2003,5.6,PG-13,USA
+The Italian Job ,Adventure,293,111,2003,5.6,PG-13,USA
+Every Which Way But Loose ,Comedy,294,110,1978,8.1,PG,USA
+How to Lose a Guy in 10 Days ,Comedy,295,116,2003,6.2,PG-13,USA
+How to Lose a Guy in 10 Days ,Romance,295,116,2003,6.2,PG-13,USA
+Porky's ,Comedy,296,94,1982,9.1,R,Canada
+The First Wives Club ,Comedy,297,103,1996,5.7,PG,USA
+Interview with the Vampire: The Vampire Chronicles ,Fantasy,298,123,1994,5.4,R,USA
+Interview with the Vampire: The Vampire Chronicles ,Horror,298,123,1994,5.4,R,USA
+Interview with the Vampire: The Vampire Chronicles ,Drama,298,123,1994,5.4,R,USA
+George of the Jungle ,Adventure,299,92,1997,7.4,PG,USA
+George of the Jungle ,Family,299,92,1997,7.4,PG,USA
+George of the Jungle ,Comedy,299,92,1997,7.4,PG,USA
+Phenomenon ,Drama,300,123,1996,6.3,PG,USA
+Phenomenon ,Romance,300,123,1996,6.3,PG,USA
+Phenomenon ,Fantasy,300,123,1996,6.3,PG,USA
+The Graduate ,Comedy,301,105,1967,6.8,Approved,USA
+The Graduate ,Drama,301,105,1967,6.8,Approved,USA
+The Graduate ,Romance,301,105,1967,6.8,Approved,USA
+American Wedding ,Comedy,302,103,2003,6,R,USA
+Daddy Day Care ,Family,303,92,2003,8.7,PG,USA
+Daddy Day Care ,Comedy,303,92,2003,8.7,PG,USA
+Road to Perdition ,Drama,304,117,2002,9.6,R,USA
+Road to Perdition ,Crime,304,117,2002,9.6,R,USA
+Dick Tracy ,Drama,305,105,1990,7.2,PG,USA
+Dick Tracy ,Crime,305,105,1990,7.2,PG,USA
+Dick Tracy ,Thriller,305,105,1990,7.2,PG,USA
+Dick Tracy ,Action,305,105,1990,7.2,PG,USA
+Nine to Five ,Crime,306,110,1980,5,PG,USA
+Nine to Five ,Comedy,306,110,1980,5,PG,USA
+Scream ,Thriller,307,111,1996,9.1,R,USA
+Scream ,Horror,307,111,1996,9.1,R,USA
+Scream ,Mystery,307,111,1996,9.1,R,USA
+Jaws 2 ,Thriller,308,116,1978,9.4,PG,USA
+Jaws 2 ,Horror,308,116,1978,9.4,PG,USA
+Jaws 2 ,Adventure,308,116,1978,9.4,PG,USA
+Bambi ,Family,309,70,1942,8.2,Approved,USA
+Bambi ,Animation,309,70,1942,8.2,Approved,USA
+Bambi ,Drama,309,70,1942,8.2,Approved,USA
+The General's Daughter ,Drama,310,116,1999,7.4,R,Germany
+The General's Daughter ,Thriller,310,116,1999,7.4,R,Germany
+The General's Daughter ,Mystery,310,116,1999,7.4,R,Germany
+The Aviator ,Drama,311,170,2004,9.4,PG-13,USA
+The Aviator ,Biography,311,170,2004,9.4,PG-13,USA
+Daredevil ,Action,312,133,2003,6.1,PG-13,USA
+Daredevil ,Crime,312,133,2003,6.1,PG-13,USA
+Daredevil ,Thriller,312,133,2003,6.1,PG-13,USA
+Daredevil ,Fantasy,312,133,2003,6.1,PG-13,USA
+In the Line of Fire ,Drama,313,128,1993,6.5,R,USA
+In the Line of Fire ,Thriller,313,128,1993,6.5,R,USA
+Butch Cassidy and the Sundance Kid ,Western,314,110,1969,6.4,M,USA
+Butch Cassidy and the Sundance Kid ,Adventure,314,110,1969,6.4,M,USA
+Butch Cassidy and the Sundance Kid ,Biography,314,110,1969,6.4,M,USA
+Butch Cassidy and the Sundance Kid ,Crime,314,110,1969,6.4,M,USA
+Mary Poppins ,Fantasy,315,140,1964,8.9,G,USA
+Mary Poppins ,Drama,315,140,1964,8.9,G,USA
+Mary Poppins ,Family,315,140,1964,8.9,G,USA
+Mary Poppins ,Comedy,315,140,1964,8.9,G,USA
+Mary Poppins ,Musical,315,140,1964,8.9,G,USA
+American Pie ,Comedy,316,95,1999,7.7,R,USA
+Gone in Sixty Seconds ,Action,317,117,2000,6.8,PG-13,USA
+Gone in Sixty Seconds ,Thriller,317,117,2000,6.8,PG-13,USA
+Gone in Sixty Seconds ,Crime,317,117,2000,6.8,PG-13,USA
+Maverick ,Comedy,318,127,1994,7.4,PG,USA
+Maverick ,Western,318,127,1994,7.4,PG,USA
+Maverick ,Adventure,318,127,1994,7.4,PG,USA
+Sleeping with the Enemy ,Thriller,319,99,1991,6.4,R,USA
+Sleeping with the Enemy ,Drama,319,99,1991,6.4,R,USA
+Stir Crazy ,Comedy,320,108,1980,7.9,R,USA
+Scream 2 ,Mystery,321,120,1997,7,R,USA
+Scream 2 ,Horror,321,120,1997,7,R,USA
+Scream 2 ,Thriller,321,120,1997,7,R,USA
+Eraser ,Action,322,115,1996,5.4,R,USA
+Eraser ,Thriller,322,115,1996,5.4,R,USA
+Eraser ,Drama,322,115,1996,5.4,R,USA
+The Prince of Egypt ,Drama,323,99,1998,7.2,PG,USA
+The Prince of Egypt ,Family,323,99,1998,7.2,PG,USA
+The Prince of Egypt ,Animation,323,99,1998,7.2,PG,USA
+The Prince of Egypt ,Musical,323,99,1998,7.2,PG,USA
+Unforgiven ,Drama,324,131,1992,5.7,R,USA
+Unforgiven ,Western,324,131,1992,5.7,R,USA
+Con Air ,Action,325,115,1997,8.9,R,USA
+Con Air ,Crime,325,115,1997,8.9,R,USA
+Con Air ,Thriller,325,115,1997,8.9,R,USA
+Sleepy Hollow ,Fantasy,326,105,1999,6.6,R,USA
+Sleepy Hollow ,Thriller,326,105,1999,6.6,R,USA
+Sleepy Hollow ,Horror,326,105,1999,6.6,R,USA
+Contact ,Mystery,327,153,1997,7.6,PG,USA
+Contact ,Drama,327,153,1997,7.6,PG,USA
+The Pelican Brief ,Mystery,328,141,1993,7.6,PG-13,USA
+The Pelican Brief ,Thriller,328,141,1993,7.6,PG-13,USA
+The Pelican Brief ,Drama,328,141,1993,7.6,PG-13,USA
+Charlie's Angels: Full Throttle ,Adventure,329,107,2003,9.5,PG-13,USA
+Charlie's Angels: Full Throttle ,Comedy,329,107,2003,9.5,PG-13,USA
+Charlie's Angels: Full Throttle ,Action,329,107,2003,9.5,PG-13,USA
+Charlie's Angels: Full Throttle ,Crime,329,107,2003,9.5,PG-13,USA
+Vanilla Sky ,Drama,330,136,2001,9.4,R,USA
+Vanilla Sky ,Mystery,330,136,2001,9.4,R,USA
+Vanilla Sky ,Thriller,330,136,2001,9.4,R,USA
+Vanilla Sky ,Romance,330,136,2001,9.4,R,USA
+The Rugrats Movie ,Family,331,79,1998,5.3,G,USA
+The Rugrats Movie ,Comedy,331,79,1998,5.3,G,USA
+The Rugrats Movie ,Animation,331,79,1998,5.3,G,USA
+Airport ,Drama,332,137,1970,9.2,G,USA
+Airport ,Thriller,332,137,1970,9.2,G,USA
+The Cat in the Hat ,Comedy,333,82,2003,8.9,PG,USA
+The Cat in the Hat ,Adventure,333,82,2003,8.9,PG,USA
+The Cat in the Hat ,Fantasy,333,82,2003,8.9,PG,USA
+The Cat in the Hat ,Family,333,82,2003,8.9,PG,USA
+Million Dollar Baby ,Sport,334,132,2004,5.8,PG-13,USA
+Million Dollar Baby ,Drama,334,132,2004,5.8,PG-13,USA
+Casper ,Family,335,100,1995,8.4,PG,USA
+Casper ,Comedy,335,100,1995,8.4,PG,USA
+Casper ,Fantasy,335,100,1995,8.4,PG,USA
+Shakespeare in Love ,Comedy,336,123,1998,5.3,R,USA
+Shakespeare in Love ,Drama,336,123,1998,5.3,R,USA
+Shakespeare in Love ,Romance,336,123,1998,5.3,R,USA
+Jumanji ,Action,337,104,1995,7.4,PG,USA
+Jumanji ,Family,337,104,1995,7.4,PG,USA
+Jumanji ,Comedy,337,104,1995,7.4,PG,USA
+Jumanji ,Adventure,337,104,1995,7.4,PG,USA
+Jumanji ,Fantasy,337,104,1995,7.4,PG,USA
+Jumanji ,Drama,337,104,1995,7.4,PG,USA
+Se7en ,Drama,338,127,1995,9.4,R,USA
+Se7en ,Crime,338,127,1995,9.4,R,USA
+Se7en ,Thriller,338,127,1995,9.4,R,USA
+Se7en ,Mystery,338,127,1995,9.4,R,USA
+The Hunchback of Notre Dame ,Musical,339,91,1996,8.2,G,USA
+The Hunchback of Notre Dame ,Family,339,91,1996,8.2,G,USA
+The Hunchback of Notre Dame ,Comedy,339,91,1996,8.2,G,USA
+The Hunchback of Notre Dame ,Drama,339,91,1996,8.2,G,USA
+The Hunchback of Notre Dame ,Animation,339,91,1996,8.2,G,USA
+Parenthood ,Drama,340,124,1989,7.3,PG-13,USA
+Parenthood ,Comedy,340,124,1989,7.3,PG-13,USA
+Die Hard: With a Vengeance ,Crime,341,131,1995,7.8,R,USA
+Die Hard: With a Vengeance ,Action,341,131,1995,7.8,R,USA
+Die Hard: With a Vengeance ,Thriller,341,131,1995,7.8,R,USA

@@ -1,0 +1,15 @@
+SaleYear(Integer),RegionID(Integer),Region(String),DistrictID(Integer),District(String),StoreID(Integer),StoreName(String),TotalSales(Float),TotalProfit(Float)
+2004,1,Canada West,107,Vancouver,1003,Store #1003,8706.22,4718.3194
+2004,1,Canada West,107,Vancouver,1004,Store #1004,9194.55,5037.7833
+2004,1,Canada West,108,Victoria,1001,Store #1001,6186.49,3274.4918
+2004,1,Canada West,108,Victoria,1005,Store #1005,8505.05,4771.6725
+2004,2,North West,102,Portland,1000,Store #1000,8595.16,4674.0334
+2004,2,North West,102,Portland,1006,Store #1006,10131.95,5680.4702
+2004,2,North West,104,Seattle,1002,Store #1002,9854.3,4973.5548
+2005,1,Canada West,107,Vancouver,1003,Store #1003,13680.12,7483.0712
+2005,1,Canada West,107,Vancouver,1004,Store #1004,10698.48,6345.9576
+2005,1,Canada West,108,Victoria,1001,Store #1001,12702.83,7073.6014
+2005,1,Canada West,108,Victoria,1005,Store #1005,11270.47,6207.9179
+2005,2,North West,102,Portland,1000,Store #1000,14202.14,7928.5406
+2005,2,North West,102,Portland,1006,Store #1006,12268.2,7028.5439
+2005,2,North West,104,Seattle,1002,Store #1002,15770.93,8966.2817

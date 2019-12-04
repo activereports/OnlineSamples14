@@ -1,0 +1,509 @@
+﻿[{
+
+  "children": [
+
+    {
+
+      "label": "RDL Reports",
+
+      "id": "dir465843761",
+
+      "children": [
+
+        {
+
+          "label": "TOC",
+
+          "id": "dir465843761",
+
+          "children": [
+
+            {
+
+              "label": "Movie Catalog",
+
+              "id": "rpt2",
+
+              "loc": "MovieCatalog.rdlx",
+
+              "rptdesc": "Movie Catalog with Leveled TOC",
+
+              "rptdeschtml": "This report showcases the TableOfContents control with movie titles organized by genre. There are two levels of contents. One level contains the genre name and the nested level shows movie titles in that genre. Click any level to go to that page."
+
+            }
+
+          ]
+
+        },
+
+        {
+
+          "label": "Map Control",
+
+          "id": "dir114471870",
+
+          "children": [
+
+            {
+
+              "label": "Country Facts",
+
+              "id": "rpt3",
+
+              "loc": "CountryFacts.rdlx",
+
+              "rptdesc": "Displays Country Facts on a Map",
+
+              "rptdeschtml": "This report displays worldwide energy production and consumption details. It contains a map image along with several Textboxes, each using an expression to generate the value in the report."
+
+            },
+
+            {
+
+              "label": "Oil Producing Countries",
+
+              "id": "rpt4",
+
+              "loc": "OilProducingCountries.rdlx",
+
+              "rptdesc": "Maps Oil Producing Countries",
+
+              "rptdeschtml": "This report shows the country-wise distribution of oil producing nations based on their production capacity. It uses a color rule on the polygon layer of the world map. It also uses a legend to display the range of colors representing the production capacity of various countries."
+
+            }
+
+          ]
+
+        },
+
+        {
+
+          "label": "Postal Bar Codes",
+
+          "id": "dir884999798",
+
+          "children": [
+
+            {
+
+              "label": "Customer Mailing List",
+
+              "id": "rpt7",
+
+              "loc": "CustomerMailingList.rdlx",
+
+              "rptdesc": "Columnar Mailing List with Barcodes",
+
+              "rptdeschtml": "This report shows the layout for mailing labels in three columns. It uses the Barcode control bound to fields to retrieve information for each customer."
+
+            }
+
+          ]
+
+        },
+
+        {
+
+          "label": "Dashboards",
+
+          "id": "dir884999798",
+
+          "children": [
+
+            {
+
+              "label": "Call Center Dashboard",
+
+              "id": "rpt8",
+
+              "loc": "CallCenterDashboard.rdlx",
+
+              "rptdesc": "Bullets and Icon Sets in a Dashboard",
+
+              "rptdeschtml": "This report graphically displays a call center dashboard with information on employee performance, utilization, call sources and volume. It uses various controls to display the information, like the Bullet control to demonstrate when the data is approaching or past a warning range, and the Icon Set to indicate action items."
+
+            },
+
+            {
+
+              "label": "Market Dashboard",
+
+              "id": "rpt9",
+
+              "loc": "MarketDashboard.rdlx",
+
+              "rptdesc": "Sparkline Market Trends",
+
+              "rptdeschtml": "This report shows the stock market trend for a particular day. It provides the company name and the high, low, opening, and closing values for that company. The report also contains a Sparkline control to display stock prices for the last 30 days."
+
+            },
+
+            {
+
+              "label": "Team List",
+
+              "id": "rpt10",
+
+              "loc": "TeamList.rdlx",
+
+              "rptdesc": "Drill Through a List of Teams",
+
+              "rptdeschtml": "This report provides a list of team names. It contains a List control that displays these names with a drill-through link that navigates to the TeamStatisticsDashboard.rdlx report with the selected team's statistics."
+
+            },
+
+            {
+
+              "label": "Team Statistics Dashboard",
+
+              "id": "rpt11",
+
+              "loc": "TeamStatisticsDashboard.rdlx",
+
+              "rptdesc": "Bullet and Sparkline Team Stats Dashboard",
+
+              "rptdeschtml": "This report displays detailed statistics for a football team. It contains a Bullet control to show the team's scoring performance with ranges of below average, average, and above average."
+
+            }
+
+          ]
+
+        },
+
+        {
+
+          "label": "Banded List Control",
+
+          "id": "dir884999798",
+
+          "children": [
+
+            {
+
+              "label": "District Sales",
+
+              "id": "rpt12",
+
+              "loc": "DistrictSales.rdlx",
+
+              "rptdesc": "BandedList Groups District Sales",
+
+              "rptdeschtml": "This report shows sales by district for the years 2004 and 2005. It uses a BandedList control to group data on SalesYear, DistrictID, and RegionID. It uses the Sum function extensively to calculate Total Sales and Total Profit on a district, regional, and annual basis."
+
+            }
+
+          ]
+
+        },
+        {
+
+          "label": "Document Map",
+
+          "id": "dir884999798",
+
+          "children": [
+
+            {
+
+              "label": "Reorder List",
+
+              "id": "rpt16",
+
+              "loc": "ReorderList.rdlx",
+
+              "rptdesc": "Tabular Greenbar Reorder List",
+
+              "rptdeschtml": "This report shows a Table control with a list of movies and order quantities to determine the product to reorder. The detail row of the Table has its BackgroundColor property set to an expression that sets the background to light yellow on alternate rows of the table."
+
+            }
+
+          ]
+
+        },
+
+        {
+
+          "label": "Tablix Control",
+
+          "id": "dir533627907",
+
+          "children": [
+
+            {
+
+              "label": "Life Expectancy",
+
+              "id": "rpt19",
+
+              "loc": "LifeExpectancy.rdlx",
+
+              "rptdesc": "Life Expectancy Tablix",
+
+              "rptdeschtml": "This report shows the average life expectancy based on the Gross Domestic Product (GDP) and median age of the population. It uses the Tablix control to calculate the average and also sets up complex calculations in Textboxes for standard deviation of life expectancy, median age, and GDP."
+
+            }
+
+          ]
+
+        },
+
+        {
+
+          "label": "Others",
+
+          "id": "dir533627907",
+
+          "children": [
+
+            {
+
+              "label": "Genre Statistics",
+
+              "id": "rpt21",
+
+              "loc": "GenreStatistics.rdlx",
+
+              "rptdesc": "Aggregated Genre Statistics",
+
+              "rptdeschtml": "This report illustrates the use of aggregate functions through a list of movies categorized by genre. The most popular title for each movie genre is determined using the Mode function on the Title field, while Median Price is displayed using the median aggregate function."
+
+            },
+
+            {
+
+              "label": "Sales by Media Type",
+
+              "id": "rpt23",
+
+              "loc": "SalesByMediaType.rdlx",
+
+              "rptdesc": "Sales Chart and Table",
+
+              "rptdeschtml": "This report demonstrates how to use a combination of data regions and controls to create a report layout. It uses a Chart and a Table data region to show the Gross Sales and Net Profit based on media type. The column chart graphically represents the values while the table provides the actual figures."
+
+            },
+
+            {
+
+              "label": "Sales by Region",
+
+              "id": "rpt24",
+
+              "loc": "SalesByRegion.rdlx",
+
+              "rptdesc": "Sales by Region Chart and Tablix",
+
+              "rptdeschtml": "This report uses a combination of Chart and Tablix data regions to display regional sales for 2004-2005. The column chart plots the yearly profit for every region graphically, while the Tablix groups data by region and year with subtotals for each region, and a grand total for all regions."
+
+            },
+
+            {
+
+              "label": "Store Performance",
+
+              "id": "rpt26",
+
+              "loc": "StorePerformance.rdlx",
+
+              "rptdesc": "Store Performance with Icon Set",
+
+              "rptdeschtml": "This report demonstrates the use of the Icon Set function to indicate the sales performance of a store. It uses Image controls for the Profit Above or Below Expectation images with an Icon Set function expression in the Value property to specify where profits exceed or fail to meet targets."
+
+            },
+
+            {
+
+              "label": "Top Performers",
+
+              "id": "rpt28",
+
+              "loc": "TopPerformers.rdlx",
+
+              "rptdesc": "Table Grouping for Top Performers",
+
+              "rptdeschtml": "This report displays the best and worst performing movie titles based on their sales figures. It contains two Table data regions, one using the TopN filter in the table groups and the other with the BottomN filter for the worst performers. The report also uses hidden parameters to determine the number of items displayed in each table."
+
+            }
+
+          ]
+
+        }
+
+      ]
+
+    },
+
+    {
+
+      "label": "Page Reports",
+
+      "id": "dir533627907",
+
+      "children": [
+
+        {
+
+          "label": "Layers",
+
+          "id": "dir533627907",
+
+          "children": [
+
+            {
+
+              "label": "Billing Invoice",
+
+              "id": "rpt29",
+
+              "loc": "BillingInvoice.rdlx",
+
+              "rptdesc": "Billing Invoice with Barcodes",
+
+              "rptdeschtml": "This report illustrates a standard billing invoice layout similar to the ones used in convenience stores. It includes an EAN128FNC1 barcode along with data bound fields to fetch company, customer and other billing information."
+
+            }
+
+          ]
+
+        },
+
+        {
+
+          "label": "Bar Codes",
+
+          "id": "dir533627907",
+
+          "children": [
+
+            {
+
+              "label": "Bar Code",
+
+              "id": "rpt30",
+
+              "loc": "BarCode.rdlx",
+
+              "rptdesc": "Demonstrates BarCode Symbologies",
+
+              "rptdeschtml": "This report demonstrates all of the barcode symbologies that are supported in ActiveReports. The barcode types are presented in a Table data region with alternate background colors (grey and white)."
+
+            }
+
+          ]
+
+        },
+
+        {
+
+          "label": "Duplicate Copy Report",
+
+          "id": "dir533627907",
+
+          "children": [
+
+            {
+
+              "label": "Delivery Slip",
+
+              "id": "rpt31",
+
+              "loc": "DeliverySlip.rdlx",
+
+              "rptdesc": "Delivery Slip Collation with Themes",
+
+              "rptdeschtml": "This report uses a standard layout for invoices, copies, and receipts. It uses two themes, which automatically renders each page twice (once for each theme), and has its CollateBy property set to ValueIndex to determine the order in which report pages are rendered."
+
+            }
+
+          ]
+
+        },
+
+        {
+
+          "label": "Others",
+
+          "id": "dir533627907",
+
+          "children": [
+
+            {
+
+              "label": "Cell Merging",
+
+              "id": "rpt32",
+
+              "loc": "CellMerging.rdlx",
+
+              "rptdesc": "Demonstrates Cell Merging",
+
+              "rptdeschtml": "This report shows the versatility of the Tablix data region that automatically merges adjacent cells with the same values."
+
+            },
+
+            {
+
+              "label": "Employee Sales",
+
+              "id": "rpt33",
+
+              "loc": "EmployeeSales.rdlx",
+
+              "rptdesc": "Employee Sales Chart and Table",
+
+              "rptdeschtml": "This report shows sales for the year for each employee in a bar chart and in a table."
+
+            },
+
+            {
+
+              "label": "Invoice Grouped",
+
+              "id": "rpt34",
+
+              "loc": "InvoiceGrouped.rdlx",
+
+              "rptdesc": "Tabular Invoice Grouped",
+
+              "rptdeschtml": "This report shows an invoice layout that displays order details for each company in a tabular format. It also contains a calculated field that shows the total for each order and a set of codes at the bottom of the report to determine the type of transaction."
+
+            },
+
+            {
+
+              "label": "Letter",
+
+              "id": "rpt35",
+
+              "loc": "Letter.rdlx",
+
+              "rptdesc": "FormattedTextBox Letter",
+
+              "rptdeschtml": "This report demonstrates how to lay out a letter format. The letter text uses the FormattedTextBox control with XHTML tags for formatting. A Table control shows order IDs with dates and order amounts."
+
+            },
+
+            {
+
+              "label": "Purchase Report",
+
+              "id": "rpt36",
+
+              "loc": "PurchaseReport.rdlx",
+
+              "rptdesc": "Tabular Purchase Report",
+
+              "rptdeschtml": "This report uses the Textbox and Table controls extensively to display purchase details for each customer. It is grouped by the company name to filter data for each report page based on the customer."
+
+            }
+
+          ]
+
+        }
+
+      ]
+
+    }
+  ]
+
+}]

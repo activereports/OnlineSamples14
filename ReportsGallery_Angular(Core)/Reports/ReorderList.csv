@@ -1,0 +1,119 @@
+ProductID(Integer),StorePrice(Float),InStock(Integer),OnOrder(Integer),ReOrderLevel(Integer),Discontinued(Integer),MediaID(Integer),Description(String),MovieID(Integer),Title(String),YearReleased(Integer)
+1703,19.99,3,0,9,0,1,DVD,200,2 Fast 2 Furious ,2003
+1472,11.95,5,0,9,0,1,DVD,117,A Bug's Life ,1998
+1407,9.49,4,0,9,0,2,VHS,102,Air Force One ,1997
+1029,10.45,4,0,10,0,2,VHS,332,Airport ,1970
+1514,19.49,6,0,10,0,2,VHS,316,American Pie ,1999
+1397,13.95,7,0,9,0,1,DVD,139,As Good as It Gets ,1997
+1532,8.49,2,0,10,0,3,LaserDisc,61,Austin Powers: The Spy Who Shagged Me ,1999
+1178,20.95,2,0,6,0,1,DVD,236,Back to the Future Part II ,1989
+1179,5,6,0,10,0,2,VHS,236,Back to the Future Part II ,1989
+1005,19.99,5,0,8,0,1,DVD,309,Bambi ,1942
+1007,7.45,6,0,7,0,3,LaserDisc,309,Bambi ,1942
+1272,14.49,8,0,10,0,2,VHS,238,Basic Instinct ,1992
+1273,7.49,1,0,9,0,3,LaserDisc,238,Basic Instinct ,1992
+1250,5,1,0,6,0,2,VHS,116,Batman Returns ,1992
+1112,8.49,5,0,7,0,2,VHS,44,Beverly Hills Cop ,1984
+1111,9.95,8,0,9,0,1,DVD,44,Beverly Hills Cop ,1984
+1569,17.99,2,0,9,0,1,DVD,239,Big Momma's House ,2000
+1685,16.49,2,0,8,0,3,LaserDisc,108,Chicago ,2002
+1817,9.45,0,0,8,0,2,VHS,342,Collateral ,2004
+1425,15.99,6,0,10,0,1,DVD,325,Con Air ,1997
+1409,18.99,5,0,9,0,1,DVD,327,Contact ,1997
+1131,5,5,0,6,0,2,VHS,96,Crocodile Dundee ,1986
+1714,9.49,1,0,8,0,3,LaserDisc,303,Daddy Day Care ,2003
+1707,15.45,3,0,6,0,3,LaserDisc,312,Daredevil ,2003
+1210,5,6,0,8,0,3,LaserDisc,240,Die Hard 2 ,1990
+1595,7.49,3,0,9,0,2,VHS,258,Dr. Dolittle 2 ,2001
+1319,15.95,6,0,10,0,1,DVD,199,Dumb & Dumber ,1994
+1837,11.95,9,0,10,0,1,DVD,129,Fantastic Four ,2005
+1146,9.49,2,0,7,0,2,VHS,126,Fatal Attraction ,1987
+1307,5,2,0,10,0,3,LaserDisc,14,Forrest Gump ,1994
+1843,13.45,0,0,4,0,3,LaserDisc,268,Fun with Dick and Jane ,2005
+1212,10.45,1,0,6,0,2,VHS,52,Ghost ,1990
+1463,10.45,1,0,7,0,3,LaserDisc,172,Godzilla ,1998
+1461,5,9,0,10,0,1,DVD,172,Godzilla ,1998
+1004,17.49,3,0,10,0,3,LaserDisc,67,Gone with the Wind ,1939
+1148,14.95,5,0,9,0,1,DVD,215,"Good Morning, Vietnam ",1987
+1640,5,2,0,5,0,2,VHS,30,Harry Potter and the Chamber of Secrets ,2002
+1851,17.95,0,0,10,0,1,DVD,25,Harry Potter and the Goblet of Fire ,2005
+1217,8.49,1,0,9,0,2,VHS,26,Home Alone ,1990
+1252,10.95,0,0,9,0,1,DVD,98,Home Alone 2: Lost in New York ,1992
+1564,5,2,0,5,0,3,LaserDisc,32,How the Grinch Stole Christmas ,2000
+1746,12.99,1,0,3,0,1,DVD,182,Hulk ,2003
+1788,15.99,1,0,3,0,1,DVD,145,"I, Robot ",2004
+1066,8.49,3,0,6,0,2,VHS,308,Jaws 2 ,1978
+1598,19.49,0,0,4,0,3,LaserDisc,85,Jurassic Park III ,2001
+1172,18.45,9,0,10,0,2,VHS,140,Lethal Weapon 2 ,1989
+1275,5.45,6,0,7,0,2,VHS,146,Lethal Weapon 3 ,1992
+1480,10.45,0,0,1,0,2,VHS,190,Lethal Weapon 4 ,1998
+1860,5,3,0,7,0,1,DVD,70,Madagascar ,2005
+1428,14.45,2,0,9,0,2,VHS,36,Men in Black ,1997
+1653,14.49,3,0,6,0,2,VHS,72,Men in Black II ,2002
+1654,18.95,7,0,9,0,4,HD-DVD,72,Men in Black II ,2002
+1545,19.45,0,0,8,0,3,LaserDisc,55,Mission: Impossible II ,2000
+1611,12.45,5,0,8,0,3,LaserDisc,34,"Monsters, Inc. ",2001
+1859,14.49,4,0,9,0,3,LaserDisc,75,Mr. & Mrs. Smith ,2005
+1466,14.49,2,0,10,0,3,LaserDisc,225,Mulan ,1998
+1432,17.49,3,0,6,0,3,LaserDisc,202,My Best Friend's Wedding ,1997
+1082,7.45,0,0,5,0,2,VHS,306,Nine to Five ,1980
+1490,6.95,0,0,10,0,1,DVD,245,Notting Hill ,1999
+1492,5,0,0,8,0,3,LaserDisc,245,Notting Hill ,1999
+1558,13.45,3,0,6,0,2,VHS,216,Nutty Professor II: The Klumps ,2000
+1090,6.49,5,0,6,0,3,LaserDisc,233,On Golden Pond ,1981
+1048,13.95,3,0,5,0,1,DVD,262,One Flew Over the Cuckoo's Nest ,1975
+1101,11.49,2,0,8,0,3,LaserDisc,296,Porky's ,1982
+1061,7.49,3,0,10,0,3,LaserDisc,149,Saturday Night Fever ,1977
+1725,5.45,0,0,2,0,3,LaserDisc,226,Seabiscuit ,2003
+1483,13.45,4,0,9,0,3,LaserDisc,336,Shakespeare in Love ,1998
+1769,8.45,1,0,7,0,2,VHS,3,Shrek 2 ,2004
+1279,16.95,2,0,4,0,1,DVD,204,Sleepless in Seattle ,1993
+1000,16.95,5,0,7,0,1,DVD,76,Snow White and the Seven Dwarfs ,1937
+1739,19.49,3,0,9,0,2,VHS,211,Something's Gotta Give ,2003
+1299,15.49,1,0,2,0,2,VHS,222,Speed ,1994
+1105,12.49,3,0,8,0,3,LaserDisc,19,Star Wars: Episode VI - Return of the Jedi ,1983
+1071,5,4,0,7,0,2,VHS,177,Superman ,1978
+1070,11.95,0,0,7,0,1,DVD,177,Superman ,1978
+1087,18.49,7,0,10,0,2,VHS,281,Superman II ,1980
+1204,11.49,8,0,10,0,3,LaserDisc,174,Teenage Mutant Ninja Turtles ,1990
+1848,13.99,2,0,8,0,1,DVD,275,The 40 Year Old Virgin ,2005
+1528,5,1,0,4,0,2,VHS,156,The Blair Witch Project ,1999
+1268,6.99,2,0,10,0,1,DVD,219,The Bodyguard ,1992
+1846,11.45,0,0,4,0,3,LaserDisc,23,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe ",2005
+1813,14.99,0,0,1,0,1,DVD,74,The Day After Tomorrow ,2004
+1288,22.45,0,0,1,0,2,VHS,122,The Firm ,1993
+1219,13.99,6,0,7,0,1,DVD,224,The Hunt for Red October ,1990
+1191,19.99,1,0,2,0,4,HD-DVD,272,The Little Mermaid ,1989
+1190,8.45,2,0,7,0,3,LaserDisc,272,The Little Mermaid ,1989
+1637,11.45,7,0,8,0,2,VHS,17,The Lord of the Rings: The Fellowship of the Ring ,2001
+1327,14.99,9,0,10,0,1,DVD,228,The Mask ,1994
+1718,8.99,1,0,10,0,1,DVD,162,The Matrix Revolutions ,2003
+1506,13.99,3,0,6,0,1,DVD,128,The Mummy ,1999
+1359,9.45,6,0,10,0,2,VHS,191,The Nutty Professor ,1996
+1360,5,0,0,3,0,3,LaserDisc,191,The Nutty Professor ,1996
+1294,13.49,5,0,9,0,3,LaserDisc,328,The Pelican Brief ,1993
+1798,19.45,0,0,7,0,2,VHS,97,The Polar Express ,2004
+1797,17.95,1,0,8,0,1,DVD,97,The Polar Express ,2004
+1592,10.45,7,0,10,0,2,VHS,280,The Princess Diaries ,2001
+1231,13.49,7,0,9,0,3,LaserDisc,185,The Silence of the Lambs ,1991
+1036,7.49,2,0,9,0,3,LaserDisc,121,The Sting ,1973
+1805,10.45,6,0,8,0,3,LaserDisc,253,The Village ,2004
+1803,5,6,0,9,0,1,DVD,253,The Village ,2004
+1138,10.95,6,0,9,0,1,DVD,109,Three Men and a Baby ,1987
+1102,5,3,0,5,0,2,VHS,91,Tootsie ,1982
+1132,8.95,4,0,8,0,1,DVD,92,Top Gun ,1986
+1215,15.49,3,0,5,0,2,VHS,232,Total Recall ,1990
+1546,18.95,5,0,10,0,1,DVD,212,Traffic ,2000
+1548,26.95,0,0,2,0,4,HD-DVD,212,Traffic ,2000
+1819,5,1,0,7,0,1,DVD,180,Troy ,2004
+1324,16.99,0,0,7,0,1,DVD,141,True Lies ,1994
+1154,21.99,1,0,2,0,1,DVD,263,Twins ,1988
+1244,7.45,4,0,9,0,2,VHS,324,Unforgiven ,1992
+1871,7.99,5,0,10,0,1,DVD,45,War of the Worlds ,2005
+1872,10.45,6,0,7,0,3,LaserDisc,45,War of the Worlds ,2005
+1257,6.45,0,0,7,0,3,LaserDisc,220,Wayne's World ,1992
+1587,19.99,6,0,10,0,1,DVD,127,What Lies Beneath ,2000
+1588,8.45,6,0,9,0,2,VHS,127,What Lies Beneath ,2000
+1164,8.49,3,0,8,0,2,VHS,130,Who Framed Roger Rabbit ,1988
+1711,5,2,0,9,0,3,LaserDisc,56,X2 ,2003
+1650,11.49,1,0,3,0,3,LaserDisc,154,xXx ,2002

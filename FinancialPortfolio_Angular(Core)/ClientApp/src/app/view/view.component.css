@@ -1,0 +1,12 @@
+:host {
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-report-viewer {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  min-height: 600px;
+}

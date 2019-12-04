@@ -1,0 +1,5 @@
+MediaID(Integer),Description(String),QuantityInteger),NetSales(Float),NetProfit(Float)
+1,DVD,2838,59002.43,32046.5875
+2,VHS,2733,50410.16,29073.0232
+3,LaserDisc,1953,36199.55,20676.7662
+4,HD-DVD,199,6154.77,2367.8628

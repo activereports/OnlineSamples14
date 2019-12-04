@@ -1,0 +1,57 @@
+<div [ngClass]="{ 'app-container': true, 'flag__hide-viewer-ui': !isDisplayUI.value }">
+
+  <div class="header">
+    <div class="header__title">ActiveReports Demos - Financial Portfolio</div>
+    <ul class="header__list">
+    </ul>
+  </div>
+
+  <div class="main">
+    <div class="instance">
+
+      <div class="headline">
+        <h1 class="headline__header">Investment Portfolio — Annual Performance</h1>
+        <div [ngClass]="{ 'headline__options': true, 'headline__options_hidden': !hasLoadedDocument.value }" (click)="toggleDisplayUI()">
+          <span>Display Viewer UI</span>
+          <span [ngClass]="{ 'headline__toggle mdi': true, 'mdi-toggle-switch-off-outline': !isDisplayUI.value, 'mdi-toggle-switch-outline': isDisplayUI.value }"></span>
+        </div>
+      </div>
+
+      <div class="instance__hint">
+        <b><i>Note:</i></b>
+        Click on the candlestick chart's trading value plots to drill through to a more detailed view of the month's stock trading metrics.
+      </div>
+
+      <div [ngClass]="{ 'instance__back-button': true, 'instance__back-button_hidden': !isChildrenReport.value }" (click)="returnToParent()">
+        <svg class="instance__back-icon" width="20px" height="20px" viewBox="0 0 400 320" focusable="false" xmlns="http://www.w3.org/2000/svg">
+          <path d="M382.688,182.686H59.116l77.209-77.214c6.764-6.76,6.764-17.726,0-24.485c-6.764-6.764-17.73-6.764-24.484,
+          0L5.073,187.757c-6.764,6.76-6.764,17.727,0,24.485l106.768,106.775c3.381,3.383,7.812,5.072,12.242,5.072c4.43,
+          0,8.861-1.689,12.242-5.072c6.764-6.76,6.764-17.726,0-24.484l-77.209-77.218h323.572c9.562,0,17.316-7.753,
+          17.316-17.315C400.004,190.438,392.251,182.686,382.688,182.686z" />
+        </svg>
+        Back to summary of {{selectedReportName.value}}
+      </div>
+
+      <div class="instance__row">
+        <app-nav-menu class="instance__col instance__col_nav"></app-nav-menu>
+        <div class="instance__col instance__col_viewer">
+          <router-outlet ></router-outlet>
+        </div>
+      </div>
+    </div>
+
+    <div class="hr"></div>
+
+    <div class="footer">
+      <div class="footer__content">
+        <div class="footer__copyright">Copyright © 2019 GrapeCity, Inc. All rights reserved.</div>
+        <div class="footer__links">
+        </div>
+      </div>
+      <div class="footer__trademark">
+        ActiveReports® is registered trademark of GrapeCity in United States and in several other countries.
+        All product and company names herein may be trademarks of their respective owners.
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,3419 @@
+MoviePersonID(Integer),FirstName(String),LastName(String),CrewTitleID(Integer),MovieID(Integer),Title(String),YearReleased(Integer),Quantity(Integer)
+1060,Nelly,,1,123,The Longest Yard ,2005,14
+1259,Raven,,1,148,Doctor Dolittle ,1998,23
+1259,Raven,,1,258,Dr. Dolittle 2 ,2001,12
+1641,Ludacris,,1,200,2 Fast 2 Furious ,2003,13
+1918,Eminem,,1,243,8 Mile ,2002,27
+2182,Madonna,,1,283,A League of Their Own ,1992,22
+169,Vivica,A. Fox,1,20,Independence Day ,1996,20
+169,Vivica,A. Fox,1,284,Batman & Robin ,1997,22
+683,Rodney,A. Grant,1,77,Dances with Wolves ,1990,14
+1131,Miguel,A. Núñez Jr.,1,133,Scooby-Doo ,2002,26
+754,Bruce,A. Young,1,85,Jurassic Park III ,2001,28
+754,Bruce,A. Young,1,238,Basic Instinct ,1992,33
+754,Bruce,A. Young,1,300,Phenomenon ,1996,26
+2418,Tony,Abatemarco,1,319,Sleeping with the Enemy ,1991,16
+1594,Paula,Abdul,1,194,Robots ,2005,5
+961,Jon,Abrahams,1,110,Meet the Parents ,2000,22
+961,Jon,Abrahams,1,125,Scary Movie ,2000,20
+1190,Joss,Ackland,1,140,Lethal Weapon 2 ,1989,24
+1190,Joss,Ackland,1,224,The Hunt for Red October ,1990,36
+981,Amy,Adams,1,113,Catch Me If You Can ,2002,22
+1360,Jonathan,Adams,1,160,The Rocky Horror Picture Show ,1975,6
+1625,R.J.,Adams,1,197,Rocky IV ,1985,17
+478,Bruce,Adler,1,53,Aladdin ,1992,56
+593,Ben,Affleck,1,66,Armageddon ,1998,9
+593,Ben,Affleck,1,68,Pearl Harbor ,2001,29
+593,Ben,Affleck,1,166,Good Will Hunting ,1997,16
+593,Ben,Affleck,1,237,The Sum of All Fears ,2002,12
+593,Ben,Affleck,1,312,Daredevil ,2003,31
+1401,Casey,Affleck,1,166,Good Will Hunting ,1997,16
+1865,Liam,Aiken,1,235,Lemony Snicket's A Series of Unfortunate Events ,2004,24
+1865,Liam,Aiken,1,304,Road to Perdition ,2002,26
+590,Adewale,Akinnuoye-Agbaje,1,65,The Mummy Returns ,2001,24
+590,Adewale,Akinnuoye-Agbaje,1,221,The Bourne Identity ,2002,19
+590,Adewale,Akinnuoye-Agbaje,1,279,Ace Ventura: When Nature Calls ,1995,15
+1351,David,Alan Grier,1,159,Stuart Little ,1999,24
+1351,David,Alan Grier,1,337,Jumanji ,1995,27
+2386,Gregory,Alan Williams,1,313,In the Line of Fire ,1993,8
+2475,Joe,Alaskey,1,331,The Rugrats Movie ,1998,11
+1098,Jessica,Alba,1,129,Fantastic Four ,2005,7
+534,Ellen,Albertini Dow,1,59,Wedding Crashers ,2005,15
+534,Ellen,Albertini Dow,1,161,Sister Act ,1992,30
+2357,Hardie,Albright,1,309,Bambi ,1942,28
+715,Alan,Alda,1,81,What Women Want ,2000,8
+715,Alan,Alda,1,311,The Aviator ,2004,18
+1575,John,Ales,1,191,The Nutty Professor ,1996,22
+1575,John,Ales,1,216,Nutty Professor II: The Klumps ,2000,32
+783,Jason,Alexander,1,89,Pretty Woman ,1990,15
+783,Jason,Alexander,1,339,The Hunchback of Notre Dame ,1996,13
+1582,Jane,Alexander,1,192,The Ring ,2002,16
+1582,Jane,Alexander,1,292,Kramer vs. Kramer ,1979,10
+2137,Jace,Alexander,1,274,Crocodile' Dundee II ,1988,30
+2358,Stan,Alexander,1,309,Bambi ,1942,28
+1370,Mary,Alice,1,162,The Matrix Revolutions ,2003,27
+329,Tim,Allen,1,38,Toy Story 2 ,1999,42
+329,Tim,Allen,1,71,Toy Story ,1995,19
+329,Tim,Allen,1,144,The Santa Clause ,1994,14
+329,Tim,Allen,1,163,The Santa Clause 2 ,2002,26
+346,Karen,Allen,1,40,Raiders of the Lost Ark ,1981,23
+346,Karen,Allen,1,82,The Perfect Storm ,2000,31
+838,Joan,Allen,1,95,The Bourne Supremacy ,2004,18
+838,Joan,Allen,1,261,Face/Off ,1997,36
+1204,James,Allen,1,141,True Lies ,1994,26
+1492,Krista,Allen,1,179,Anger Management ,2003,10
+407,David,Allen Brooks,1,46,Cast Away ,2000,10
+1339,Kirstie,Alley,1,158,Look Who's Talking ,1989,27
+105,Bruce,Allpress,1,12,The Lord of the Rings: The Two Towers ,2002,38
+955,Alexandra,Amini,1,109,Three Men and a Baby ,1987,19
+1603,John,Amos,1,195,Coming to America ,1988,36
+1603,John,Amos,1,240,Die Hard 2 ,1990,35
+409,Valentina,Ananyina,1,46,Cast Away ,2000,10
+1806,Elena,Anaya,1,227,Van Helsing ,2004,13
+1890,Anthony,Anderson,1,239,Big Momma's House ,2000,14
+2104,Pamela,Anderson,1,271,Scary Movie 3 ,2003,22
+2414,Kevin,Anderson,1,319,Sleeping with the Enemy ,1991,16
+27,Julie,Andrews,1,3,Shrek 2 ,2004,45
+27,Julie,Andrews,1,115,The Sound of Music ,1965,10
+27,Julie,Andrews,1,280,The Princess Diaries ,2001,19
+27,Julie,Andrews,1,315,Mary Poppins ,1964,33
+266,Maeve,Andrews,1,31,The Incredibles ,2004,21
+978,David,Andrews,1,112,Hannibal ,2001,24
+978,David,Andrews,1,137,Terminator 3: Rise of the Machines ,2003,11
+2424,Miguel,Ángel Suárez,1,320,Stir Crazy ,1980,17
+338,Jennifer,Aniston,1,39,Bruce Almighty ,2003,15
+705,Cecelia,Ann Birt,1,80,Ocean's Eleven ,2001,36
+794,Julie,Ann Emery,1,90,Hitch ,2005,17
+903,Emily,Ann Lloyd,1,103,Apollo 13 ,1995,4
+341,Lisa,Ann Walter,1,39,Bruce Almighty ,2003,15
+341,Lisa,Ann Walter,1,45,War of the Worlds ,2005,13
+926,Jo,Anne Worley,1,105,Beauty and the Beast ,1991,24
+227,Ray,Anthony,1,27,The Matrix Reloaded ,2003,19
+190,Peter,Anthony Tambakis,1,22,The Sixth Sense ,1999,25
+228,Christine,Anu,1,27,The Matrix Reloaded ,2003,19
+1643,Devon,Aoki,1,200,2 Fast 2 Furious ,2003,13
+71,Noel,Appleby,1,8,The Lord of the Rings: The Return of the King ,2003,33
+71,Noel,Appleby,1,17,The Lord of the Rings: The Fellowship of the Ring ,2001,21
+1893,Phyllis,Applegate,1,239,Big Momma's House ,2000,14
+912,Julian,Arahanga,1,104,The Matrix ,1999,28
+650,Tomas,Arana,1,73,Gladiator ,2000,16
+650,Tomas,Arana,1,219,The Bodyguard ,1992,27
+1080,Anne,Archer,1,126,Fatal Attraction ,1987,31
+1080,Anne,Archer,1,218,Clear and Present Danger ,1994,9
+179,Lee,Arenberg,1,21,Pirates of the Caribbean: The Curse of the Black Pearl ,2003,21
+1307,Asia,Argento,1,154,xXx ,2002,23
+1967,Nicole,Ari Parker,1,248,Remember the Titans ,2000,33
+797,Adam,Arkin,1,90,Hitch ,2005,17
+589,Alun,Armstrong,1,65,The Mummy Returns ,2001,24
+589,Alun,Armstrong,1,227,Van Helsing ,2004,13
+1883,Denis,Arndt,1,238,Basic Instinct ,1992,33
+229,Andy,Arness,1,27,The Matrix Reloaded ,2003,19
+1198,Tom,Arnold,1,141,True Lies ,1994,26
+2180,Rosanna,Arquette,1,282,Pulp Fiction ,1994,35
+2343,David,Arquette,1,307,Scream ,1996,17
+2343,David,Arquette,1,321,Scream 2 ,1997,38
+23,Kelly,Asbury,1,3,Shrek 2 ,2004,45
+387,John,Ashton,1,44,Beverly Hills Cop ,1984,22
+387,John,Ashton,1,131,Beverly Hills Cop II ,1987,38
+230,Alima,Ashton-Sheibu,1,27,The Matrix Reloaded ,2003,19
+867,Edward,Asner,1,99,Elf ,2003,31
+1949,Fred,Astaire,1,246,The Towering Inferno ,1974,17
+72,Alexandra,Astin,1,8,The Lord of the Rings: The Return of the King ,2003,33
+73,Sean,Astin,1,8,The Lord of the Rings: The Return of the King ,2003,33
+73,Sean,Astin,1,12,The Lord of the Rings: The Two Towers ,2002,38
+73,Sean,Astin,1,17,The Lord of the Rings: The Fellowship of the Ring ,2001,21
+73,Sean,Astin,1,223,50 First Dates ,2004,29
+74,David,Aston,1,8,The Lord of the Rings: The Return of the King ,2003,33
+381,William,Atherton,1,43,Ghost Busters ,1984,13
+381,William,Atherton,1,240,Die Hard 2 ,1990,35
+381,William,Atherton,1,267,The Last Samurai ,2003,26
+381,William,Atherton,1,328,The Pelican Brief ,1993,26
+143,Rowan,Atkinson,1,15,The Lion King ,1994,28
+143,Rowan,Atkinson,1,133,Scooby-Doo ,2002,26
+99,Richard,Attenborough,1,11,Jurassic Park ,1993,20
+99,Richard,Attenborough,1,47,The Lost World: Jurassic Park ,1997,35
+671,Roy,Atwell,1,76,Snow White and the Seven Dwarfs ,1937,12
+2018,Rene,Auberjonois,1,256,The Patriot ,2000,19
+2018,Rene,Auberjonois,1,272,The Little Mermaid ,1989,38
+2359,Bobette,Audrey,1,309,Bambi ,1942,28
+48,Pernilla,August,1,5,Star Wars: Episode I - The Phantom Menace ,1999,22
+48,Pernilla,August,1,18,Star Wars: Episode II - Attack of the Clones ,2002,23
+769,Erick,Avari,1,87,Planet of the Apes ,2001,22
+769,Erick,Avari,1,128,The Mummy ,1999,18
+769,Erick,Avari,1,205,Mr. Deeds ,2002,15
+2030,James,Avery,1,258,Dr. Dolittle 2 ,2001,12
+2309,Brian,Avery,1,301,The Graduate ,1967,26
+1170,Hoyt,Axton,1,138,Gremlins ,1984,8
+377,Dan,Aykroyd,1,43,Ghost Busters ,1984,13
+377,Dan,Aykroyd,1,223,50 First Dates ,2004,29
+377,Dan,Aykroyd,1,260,Ghostbusters II ,1989,26
+377,Dan,Aykroyd,1,290,Driving Miss Daisy ,1989,24
+1442,Hank,Azaria,1,172,Godzilla ,1998,23
+1442,Hank,Azaria,1,214,The Birdcage ,1996,22
+1071,Frank,B. Moore,1,125,Scary Movie ,2000,20
+1785,Courtney,B. Vance,1,224,The Hunt for Red October ,1990,36
+1521,Kirk,B.R. Woller,1,183,Minority Report ,2002,11
+75,John,Bach,1,8,The Lord of the Rings: The Return of the King ,2003,33
+75,John,Bach,1,12,The Lord of the Rings: The Two Towers ,2002,38
+286,Susan,Backlinie,1,33,Jaws ,1975,17
+899,Kevin,Bacon,1,103,Apollo 13 ,1995,4
+899,Kevin,Bacon,1,153,A Few Good Men ,1992,31
+2397,Hermione,Baddeley,1,315,Mary Poppins ,1964,33
+830,Diedrich,Bader,1,94,Ice Age ,2002,22
+1072,Giacomo,Baessato,1,125,Scary Movie ,2000,20
+1835,Larry,Bagby,1,231,Walk the Line ,2005,24
+832,Lorri,Bagley,1,94,Ice Age ,2002,22
+1813,Tim,Bagley,1,228,The Mask ,1994,36
+2005,Ling,Bai,1,254,Wild Wild West ,1999,21
+231,Helmut,Bakaitis,1,27,The Matrix Reloaded ,2003,19
+231,Helmut,Bakaitis,1,162,The Matrix Revolutions ,2003,27
+19,Kenny,Baker,1,2,Star Wars ,1977,15
+19,Kenny,Baker,1,24,Star Wars: Episode V - The Empire Strikes Back ,1980,19
+84,Dylan,Baker,1,9,Spider-Man 2 ,2004,10
+106,Sala,Baker,1,12,The Lord of the Rings: The Two Towers ,2002,38
+106,Sala,Baker,1,17,The Lord of the Rings: The Fellowship of the Ring ,2001,21
+1637,Joe,Baker,1,199,Dumb & Dumber ,1994,20
+1845,Ray,Baker,1,232,Total Recall ,1990,24
+339,Philip,Baker Hall,1,39,Bruce Almighty ,2003,15
+339,Philip,Baker Hall,1,237,The Sum of All Fears ,2002,12
+1858,James,Baker III,1,234,Fahrenheit 9/11 ,2004,13
+1561,Scott,Bakula,1,188,American Beauty ,1999,23
+1589,Bob,Balaban,1,193,Close Encounters of the Third Kind ,1977,27
+613,Alec,Baldwin,1,68,Pearl Harbor ,2001,29
+613,Alec,Baldwin,1,224,The Hunt for Red October ,1990,36
+613,Alec,Baldwin,1,268,Fun with Dick and Jane ,2005,5
+613,Alec,Baldwin,1,311,The Aviator ,2004,18
+613,Alec,Baldwin,1,333,The Cat in the Hat ,2003,20
+789,Judith,Baldwin,1,89,Pretty Woman ,1990,15
+1907,Bill,Baldwin,1,241,Rocky ,1976,15
+551,Christian,Bale,1,62,Batman Begins ,2005,19
+551,Christian,Bale,1,151,Pocahontas ,1995,23
+2231,Katharine,Balfour,1,291,Love Story ,1970,33
+1021,Fairuza,Balk,1,118,The Waterboy ,1998,14
+2108,Jianna,Ballard,1,271,Scary Movie 3 ,2003,22
+223,Gerry,Bamman,1,26,Home Alone ,1990,28
+223,Gerry,Bamman,1,98,Home Alone 2: Lost in New York ,1992,33
+1498,Eric,Bana,1,180,Troy ,2004,26
+1498,Eric,Bana,1,182,Hulk ,2003,5
+1498,Eric,Bana,1,277,Black Hawk Down ,2001,16
+2305,Anne,Bancroft,1,301,The Graduate ,1967,26
+28,Antonio,Banderas,1,3,Shrek 2 ,2004,45
+28,Antonio,Banderas,1,259,Spy Kids ,2001,7
+28,Antonio,Banderas,1,264,Spy Kids 3-D: Game Over ,2003,16
+28,Antonio,Banderas,1,298,Interview with the Vampire: The Vampire Chronicles ,1994,16
+392,Jonathan,Banks,1,44,Beverly Hills Cop ,1984,22
+2143,Elizabeth,Banks,1,275,The 40 Year Old Virgin ,2005,13
+272,Christine,Baranski,1,32,How the Grinch Stole Christmas ,2000,27
+272,Christine,Baranski,1,214,The Birdcage ,1996,22
+2326,Ian,Barford,1,304,Road to Perdition ,2002,26
+2514,Patrick,Barlow,1,336,Shakespeare in Love ,1998,44
+2256,Walter,Barnes,1,294,Every Which Way But Loose ,1978,13
+629,Sacha,Baron Cohen,1,70,Madagascar ,2005,27
+1527,Chris,Barrie,1,184,Lara Croft: Tomb Raider ,2001,23
+1642,Thom,Barry,1,200,2 Fast 2 Furious ,2003,13
+37,Drew,Barrymore,1,4,E.T. the Extra-Terrestrial ,1982,19
+37,Drew,Barrymore,1,78,Batman Forever ,1995,23
+37,Drew,Barrymore,1,210,Charlie's Angels ,2000,23
+37,Drew,Barrymore,1,223,50 First Dates ,2004,29
+37,Drew,Barrymore,1,307,Scream ,1996,17
+37,Drew,Barrymore,1,329,Charlie's Angels: Full Throttle ,2003,20
+877,Justin,Bartha,1,100,National Treasure ,2004,20
+2053,Bonnie,Bartlett,1,263,Twins ,1988,36
+188,Mischa,Barton,1,22,The Sixth Sense ,1999,25
+2493,Jay,Baruchel,1,334,Million Dollar Baby ,2004,23
+303,Kim,Basinger,1,35,Batman ,1989,18
+303,Kim,Basinger,1,243,8 Mile ,2002,27
+232,Steve,Bastoni,1,27,The Matrix Reloaded ,2003,19
+5,Kathy,Bates,1,1,Titanic ,1997,32
+5,Kathy,Bates,1,118,The Waterboy ,1998,14
+1606,Paul,Bates,1,195,Coming to America ,1988,36
+233,Don,Battee,1,27,The Matrix Reloaded ,2003,19
+1139,Cate,Bauer,1,134,One Hundred and One Dalmatians ,1961,24
+980,Nathalie,Baye,1,113,Catch Me If You Can ,2002,22
+1372,Kate,Beahan,1,162,The Matrix Revolutions ,2003,27
+76,Sean,Bean,1,8,The Lord of the Rings: The Return of the King ,2003,33
+76,Sean,Bean,1,17,The Lord of the Rings: The Fellowship of the Ring ,2001,21
+76,Sean,Bean,1,100,National Treasure ,2004,20
+76,Sean,Bean,1,288,GoldenEye ,1995,23
+2512,Steven,Beard,1,336,Shakespeare in Love ,1998,44
+757,Emmanuelle,Béart,1,86,Mission: Impossible ,1996,29
+1879,John,Beasley,1,237,The Sum of All Fears ,2002,12
+948,Bruce,Beaton,1,108,Chicago ,2002,35
+1479,Ned,Beatty,1,177,Superman ,1978,26
+1479,Ned,Beatty,1,281,Superman II ,1980,34
+2327,Warren,Beatty,1,305,Dick Tracy ,1990,22
+63,Gerry,Becker,1,6,Spider-Man ,2002,23
+610,Kate,Beckinsale,1,68,Pearl Harbor ,2001,29
+610,Kate,Beckinsale,1,227,Van Helsing ,2004,13
+610,Kate,Beckinsale,1,311,The Aviator ,2004,18
+1282,Irene,Bedard,1,151,Pocahontas ,1995,23
+1896,Bonnie,Bedelia,1,240,Die Hard 2 ,1990,35
+840,John,Bedford Lloyd,1,95,The Bourne Supremacy ,2004,18
+2145,Gerry,Bednob,1,275,The 40 Year Old Virgin ,2005,13
+956,Francine,Beers,1,109,Three Men and a Baby ,1987,19
+2360,Peter,Behn,1,309,Bambi ,1942,28
+2096,Jason,Behr,1,270,The Grudge ,2004,31
+807,Doris,Belack,1,91,Tootsie ,1982,31
+340,Catherine,Bell,1,39,Bruce Almighty ,2003,15
+456,Jamie,Bell,1,51,King Kong ,2005,10
+1373,Francine,Bell,1,162,The Matrix Revolutions ,2003,27
+1768,Dan,Bell,1,220,Wayne's World ,1992,27
+1841,Marshall,Bell,1,232,Total Recall ,1990,24
+1841,Marshall,Bell,1,263,Twins ,1988,36
+2519,Laura,Bell Bundy,1,337,Jumanji ,1995,27
+1608,Vanessa,Bell Calloway,1,195,Coming to America ,1988,36
+1585,Rachael,Bella,1,192,The Ring ,2002,16
+782,Ralph,Bellamy,1,89,Pretty Woman ,1990,15
+90,Monica,Bellucci,1,10,The Passion of the Christ ,2004,9
+90,Monica,Bellucci,1,27,The Matrix Reloaded ,2003,19
+90,Monica,Bellucci,1,162,The Matrix Revolutions ,2003,27
+1290,John,Belushi,1,152,Animal House ,1978,32
+2013,Paul,Benedict,1,255,The Addams Family ,1991,18
+1556,Annette,Bening,1,188,American Beauty ,1999,23
+2298,John,Bennett Perry,1,299,George of the Jungle ,1997,22
+2296,Abraham,Benrubi,1,299,George of the Jungle ,1997,22
+917,Robby,Benson,1,105,Beauty and the Beast ,1991,24
+2113,Jodi,Benson,1,272,The Little Mermaid ,1989,38
+1922,Omar,Benson Miller,1,243,8 Mile ,2002,27
+1558,Wes,Bentley,1,188,American Beauty ,1999,23
+1407,Tom,Berenger,1,167,Platoon ,1986,16
+2544,Peter,Berg,1,342,Collateral ,2004,26
+1628,Candice,Bergen,1,198,Sweet Home Alabama ,2002,30
+1628,Candice,Bergen,1,285,Miss Congeniality ,2000,21
+2413,Patrick,Bergin,1,319,Sleeping with the Enemy ,1991,16
+896,Xander,Berkeley,1,102,Air Force One ,1997,31
+2285,Elizabeth,Berkley,1,297,The First Wives Club ,1996,16
+390,Steven,Berkoff,1,44,Beverly Hills Cop ,1984,22
+390,Steven,Berkoff,1,136,Rambo: First Blood Part II ,1985,40
+733,Jason,Bernard,1,83,Liar Liar ,1997,39
+1167,Chopper,Bernet,1,137,Terminator 3: Rise of the Machines ,2003,11
+234,Daniel,Bernhardt,1,27,The Matrix Reloaded ,2003,19
+235,Valerie,Berry,1,27,The Matrix Reloaded ,2003,19
+504,Halle,Berry,1,56,X2 ,2003,26
+504,Halle,Berry,1,120,Die Another Day ,2002,14
+504,Halle,Berry,1,124,X-Men ,2000,27
+504,Halle,Berry,1,187,The Flintstones ,1994,31
+504,Halle,Berry,1,194,Robots ,2005,5
+2046,Michael,Berryman,1,262,One Flew Over the Cuckoo's Nest ,1975,33
+92,Toni,Bertorelli,1,10,The Passion of the Christ ,2004,9
+937,Paul,Bettany,1,107,A Beautiful Mind ,2001,14
+1090,Victoria,Bidewell,1,127,What Lies Beneath ,2000,23
+1487,Michael,Biehn,1,178,The Rock ,1996,14
+1214,Jason,Biggs,1,143,American Pie 2 ,2001,24
+1214,Jason,Biggs,1,302,American Wedding ,2003,34
+1214,Jason,Biggs,1,316,American Pie ,1999,18
+1557,Thora,Birch,1,188,American Beauty ,1999,23
+1762,Christopher,Birt,1,219,The Bodyguard ,1992,27
+2157,Troy,Bishop,1,278,Terms of Endearment ,1983,14
+2480,Jacqueline,Bisset,1,332,Airport ,1970,14
+450,Jack,Black,1,51,King Kong ,2005,10
+450,Jack,Black,1,94,Ice Age ,2002,22
+450,Jack,Black,1,119,Shark Tale ,2004,26
+1374,Rachel,Blackman,1,162,The Matrix Revolutions ,2003,27
+576,Linda,Blair,1,64,The Exorcist ,1973,5
+957,Lisa,Blair,1,109,Three Men and a Baby ,1987,19
+958,Michelle,Blair,1,109,Three Men and a Baby ,1987,19
+2450,Geoffrey,Blake,1,327,Contact ,1997,25
+1950,Susan,Blakely,1,246,The Towering Inferno ,1974,17
+77,Cate,Blanchett,1,8,The Lord of the Rings: The Return of the King ,2003,33
+77,Cate,Blanchett,1,12,The Lord of the Rings: The Two Towers ,2002,38
+77,Cate,Blanchett,1,17,The Lord of the Rings: The Fellowship of the Ring ,2001,21
+77,Cate,Blanchett,1,311,The Aviator ,2004,18
+2100,Rosa,Blasi,1,270,The Grudge ,2004,31
+1375,Henry,Blasingame,1,162,The Matrix Revolutions ,2003,27
+930,Brian,Blessed,1,106,Tarzan ,1999,16
+930,Brian,Blessed,1,111,Robin Hood: Prince of Thieves ,1991,16
+847,Maggie,Blinco,1,96,Crocodile Dundee ,1986,16
+1376,Ian,Bliss,1,162,The Matrix Revolutions ,2003,27
+1595,Lucille,Bliss,1,194,Robots ,2005,5
+253,Bobby,Block,1,29,Shrek ,2001,22
+78,Orlando,Bloom,1,8,The Lord of the Rings: The Return of the King ,2003,33
+78,Orlando,Bloom,1,12,The Lord of the Rings: The Two Towers ,2002,38
+78,Orlando,Bloom,1,17,The Lord of the Rings: The Fellowship of the Ring ,2001,21
+78,Orlando,Bloom,1,21,Pirates of the Caribbean: The Curse of the Black Pearl ,2003,21
+1293,Verna,Bloom,1,152,Animal House ,1978,32
+219,Roberts,Blossom,1,26,Home Alone ,1990,28
+219,Roberts,Blossom,1,193,Close Encounters of the Third Kind ,1977,27
+1566,Lisa,Blount,1,189,An Officer and a Gentleman ,1982,6
+2361,Thelma,Boardman,1,309,Bambi ,1942,28
+587,Freddie,Boath,1,65,The Mummy Returns ,2001,24
+592,Billy,Bob Thornton,1,66,Armageddon ,1998,9
+592,Billy,Bob Thornton,1,289,Indecent Proposal ,1993,23
+1880,Russell,Bobbitt,1,237,The Sum of All Fears ,2002,12
+563,Earl,Boen,1,63,Terminator 2: Judgment Day ,1991,11
+563,Earl,Boen,1,137,Terminator 3: Rise of the Machines ,2003,11
+1652,Samantha,Bond,1,201,The World Is Not Enough ,1999,14
+2070,Lisa,Bonet,1,266,Enemy of the State ,1998,41
+540,Helena,Bonham Carter,1,60,Charlie and the Chocolate Factory ,2005,5
+540,Helena,Bonham Carter,1,87,Planet of the Apes ,2001,22
+558,Mark,Boone Junior,1,62,Batman Begins ,2005,19
+558,Mark,Boone Junior,1,310,The General's Daughter ,1999,3
+959,Philip,Bosco,1,109,Three Men and a Baby ,1987,19
+959,Philip,Bosco,1,202,My Best Friend's Wedding ,1997,41
+1356,Barry,Bostwick,1,160,The Rocky Horror Picture Show ,1975,6
+2135,Dennis,Boutsikaris,1,274,Crocodile' Dundee II ,1988,30
+1268,Julie,Bovasso,1,149,Saturday Night Fever ,1977,31
+1377,David,Bowers,1,162,The Matrix Revolutions ,2003,27
+79,Billy,Boyd,1,8,The Lord of the Rings: The Return of the King ,2003,33
+79,Billy,Boyd,1,12,The Lord of the Rings: The Two Towers ,2002,38
+79,Billy,Boyd,1,17,The Lord of the Rings: The Fellowship of the Ring ,2001,21
+1230,Peter,Boyle,1,144,The Santa Clause ,1994,14
+1230,Peter,Boyle,1,148,Doctor Dolittle ,1998,23
+1596,Terry,Bradshaw,1,194,Robots ,2005,5
+1175,Scott,Brady,1,138,Gremlins ,1984,8
+1449,Zach,Braff,1,173,Chicken Little ,2005,19
+2364,Dolyn,Bramston Cook,1,309,Bambi ,1942,28
+2000,Kenneth,Branagh,1,254,Wild Wild West ,1999,21
+1227,Larry,Brandenburg,1,144,The Santa Clause ,1994,14
+1470,Marlon,Brando,1,176,The Godfather ,1972,17
+1470,Marlon,Brando,1,177,Superman ,1978,26
+1638,Hank,Brandt,1,199,Dumb & Dumber ,1994,20
+1113,Betsy,Brantley,1,130,Who Framed Roger Rabbit ,1988,33
+1754,Benjamin,Bratt,1,218,Clear and Present Danger ,1994,9
+1754,Benjamin,Bratt,1,285,Miss Congeniality ,2000,21
+1911,Jay,Brazeau,1,242,Double Jeopardy ,1999,1
+616,Ewen,Bremner,1,68,Pearl Harbor ,2001,29
+616,Ewen,Bremner,1,277,Black Hawk Down ,2001,16
+1046,Eileen,Brennan,1,121,The Sting ,1973,25
+1086,Tom,Brennan,1,126,Fatal Attraction ,1987,31
+2019,Lisa,Brenner,1,256,The Patriot ,2000,19
+466,Susan,Breslau,1,52,Ghost ,1990,15
+423,Abigail,Breslin,1,48,Signs ,2002,15
+1380,Spencer,Breslin,1,163,The Santa Clause 2 ,2002,26
+1380,Spencer,Breslin,1,333,The Cat in the Hat ,2003,20
+1248,Jordana,Brewster,1,147,The Fast and the Furious ,2001,16
+1797,Jeff,Bridges,1,226,Seabiscuit ,2003,33
+969,Nick,Brimble,1,111,Robin Hood: Prince of Thieves ,1991,16
+1055,Wilford,Brimley,1,122,The Firm ,1993,21
+1688,David,Brisbin,1,207,Erin Brockovich ,2000,13
+200,Jim,Broadbent,1,23,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe ",2005,28
+200,Jim,Broadbent,1,194,Robots ,2005,5
+2047,Peter,Brocco,1,262,One Flew Over the Cuckoo's Nest ,1975,33
+1844,Roy,Brocksmith,1,232,Total Recall ,1990,24
+136,Matthew,Broderick,1,15,The Lion King ,1994,28
+136,Matthew,Broderick,1,172,Godzilla ,1998,23
+451,Adrien,Brody,1,51,King Kong ,2005,10
+451,Adrien,Brody,1,253,The Village ,2004,46
+664,Adam,Brody,1,75,Mr. & Mrs. Smith ,2005,7
+982,James,Brolin,1,113,Catch Me If You Can ,2002,22
+2310,Walter,Brooke,1,301,The Graduate ,1967,26
+113,Albert,Brooks,1,13,Finding Nemo ,2003,21
+1597,Mel,Brooks,1,194,Robots ,2005,5
+1597,Mel,Brooks,1,230,Blazing Saddles ,1974,31
+2216,Joel,Brooks,1,289,Indecent Proposal ,1993,23
+2216,Joel,Brooks,1,320,Stir Crazy ,1980,17
+80,Sadwyn,Brophy,1,8,The Lord of the Rings: The Return of the King ,2003,33
+107,Jed,Brophy,1,12,The Lord of the Rings: The Two Towers ,2002,38
+441,Pierce,Brosnan,1,50,Mrs. Doubtfire ,1993,27
+441,Pierce,Brosnan,1,120,Die Another Day ,2002,14
+441,Pierce,Brosnan,1,201,The World Is Not Enough ,1999,14
+441,Pierce,Brosnan,1,209,Tomorrow Never Dies ,1997,26
+441,Pierce,Brosnan,1,288,GoldenEye ,1995,23
+2049,Alonzo,Brown,1,262,One Flew Over the Cuckoo's Nest ,1975,33
+1866,Emily,Browning,1,235,Lemony Snicket's A Series of Unfortunate Events ,2004,24
+2536,Larry,Bryggman,1,341,Die Hard: With a Vengeance ,1995,32
+1010,Andrew,Bryniarski,1,116,Batman Returns ,1992,36
+672,Stuart,Buchanan,1,76,Snow White and the Seven Dwarfs ,1937,12
+1134,Craig,Bullock,1,133,Scooby-Doo ,2002,26
+1774,Sandra,Bullock,1,222,Speed ,1994,36
+1774,Sandra,Bullock,1,276,A Time to Kill ,1996,17
+1774,Sandra,Bullock,1,285,Miss Congeniality ,2000,21
+1774,Sandra,Bullock,1,323,The Prince of Egypt ,1998,31
+1511,Cara,Buono,1,182,Hulk ,2003,5
+1174,Susan,Burgess,1,138,Gremlins ,1984,8
+2082,Richard,Burgi,1,268,Fun with Dick and Jane ,2005,5
+719,Delta,Burke,1,81,What Women Want ,2000,8
+482,Edward,Burns,1,54,Saving Private Ryan ,1998,12
+1957,Heather,Burns,1,247,You've Got Mail ,1998,8
+1957,Heather,Burns,1,285,Miss Congeniality ,2000,21
+570,Ellen,Burstyn,1,64,The Exorcist ,1973,5
+1621,Tony,Burton,1,197,Rocky IV ,1985,17
+1621,Tony,Burton,1,217,Rocky III ,1982,34
+294,Steve,Buscemi,1,34,"Monsters, Inc. ",2001,24
+294,Steve,Buscemi,1,66,Armageddon ,1998,9
+294,Steve,Buscemi,1,325,Con Air ,1997,18
+1057,Gary,Busey,1,122,The Firm ,1993,21
+1857,Jeb,Bush,1,234,Fahrenheit 9/11 ,2004,13
+1716,Paige,Butcher,1,211,Something's Gotta Give ,2003,34
+1538,Dan,Butler,1,185,The Silence of the Lambs ,1991,23
+1598,Amanda,Bynes,1,194,Robots ,2005,5
+1924,Eugene,Byrd,1,243,8 Mile ,2002,27
+621,Michael,Byrne,1,69,Indiana Jones and the Last Crusade ,1989,29
+2209,Richard,C. Castellano,1,287,Analyze This ,1999,20
+862,Michael,C. Maronna,1,98,Home Alone 2: Lost in New York ,1992,33
+1411,John,C. McGinley,1,167,Platoon ,1986,16
+1411,John,C. McGinley,1,178,The Rock ,1996,14
+725,John,C. Reilly,1,82,The Perfect Storm ,2000,31
+725,John,C. Reilly,1,108,Chicago ,2002,35
+725,John,C. Reilly,1,311,The Aviator ,2004,18
+1324,Michael,C. Williams,1,156,The Blair Witch Project ,1999,28
+865,James,Caan,1,99,Elf ,2003,31
+865,James,Caan,1,176,The Godfather ,1972,17
+865,James,Caan,1,322,Eraser ,1996,30
+2406,Scott,Caan,1,317,Gone in Sixty Seconds ,2000,32
+1273,Sebastian,Cabot,1,150,The Jungle Book ,1967,30
+875,Nicolas,Cage,1,100,National Treasure ,2004,20
+875,Nicolas,Cage,1,178,The Rock ,1996,14
+875,Nicolas,Cage,1,261,Face/Off ,1997,36
+875,Nicolas,Cage,1,317,Gone in Sixty Seconds ,2000,32
+875,Nicolas,Cage,1,325,Con Air ,1997,18
+516,Michael,Caine,1,57,Austin Powers in Goldmember ,2002,21
+516,Michael,Caine,1,62,Batman Begins ,2005,19
+516,Michael,Caine,1,285,Miss Congeniality ,2000,21
+139,Niketa,Calame,1,15,The Lion King ,1994,28
+319,Sergio,Calderón,1,36,Men in Black ,1997,40
+1209,Zoe,Caldwell,1,142,Lilo & Stitch ,2002,21
+1264,Joseph,Cali,1,149,Saturday Night Fever ,1977,31
+2248,Fausto,Callegarini,1,293,The Italian Job ,2003,16
+2160,Simon,Callow,1,279,Ace Ventura: When Nature Calls ,1995,15
+2535,Colleen,Camp,1,341,Die Hard: With a Vengeance ,1995,32
+1359,Nell,Campbell,1,160,The Rocky Horror Picture Show ,1975,6
+1520,Keith,Campbell,1,183,Minority Report ,2002,11
+1915,Bruce,Campbell,1,242,Double Jeopardy ,1999,1
+2344,Neve,Campbell,1,307,Scream ,1996,17
+2344,Neve,Campbell,1,321,Scream 2 ,1997,38
+2443,Rob,Campbell,1,324,Unforgiven ,1992,25
+537,Ron,Canada,1,59,Wedding Crashers ,2005,15
+1343,Twink,Caplan,1,158,Look Who's Talking ,1989,27
+770,Kate,Capshaw,1,88,Indiana Jones and the Temple of Doom ,1984,24
+1518,Jessica,Capshaw,1,183,Minority Report ,2002,11
+1130,Linda,Cardellini,1,133,Scooby-Doo ,2002,26
+685,Tantoo,Cardinal,1,77,Dances with Wolves ,1990,14
+342,Steve,Carell,1,39,Bruce Almighty ,2003,15
+342,Steve,Carell,1,275,The 40 Year Old Virgin ,2005,13
+1599,Drew,Carey,1,194,Robots ,2005,5
+1178,Harry,Carey Jr.,1,138,Gremlins ,1984,8
+549,Gia,Carides,1,61,Austin Powers: The Spy Who Shagged Me ,1999,39
+1648,Robert,Carlyle,1,201,The World Is Not Enough ,1999,14
+1199,Tia,Carrere,1,141,True Lies ,1994,26
+1199,Tia,Carrere,1,142,Lilo & Stitch ,2002,21
+1199,Tia,Carrere,1,220,Wayne's World ,1992,27
+269,Jim,Carrey,1,32,How the Grinch Stole Christmas ,2000,27
+269,Jim,Carrey,1,39,Bruce Almighty ,2003,15
+269,Jim,Carrey,1,78,Batman Forever ,1995,23
+269,Jim,Carrey,1,83,Liar Liar ,1997,39
+269,Jim,Carrey,1,199,Dumb & Dumber ,1994,20
+269,Jim,Carrey,1,206,The Truman Show ,1998,14
+269,Jim,Carrey,1,228,The Mask ,1994,36
+269,Jim,Carrey,1,235,Lemony Snicket's A Series of Unfortunate Events ,2004,24
+269,Jim,Carrey,1,268,Fun with Dick and Jane ,2005,5
+269,Jim,Carrey,1,279,Ace Ventura: When Nature Calls ,1995,15
+2114,Pat,Carroll,1,272,The Little Mermaid ,1989,38
+2042,John,Carroll Lynch,1,261,Face/Off ,1997,36
+1570,David,Caruso,1,189,An Officer and a Gentleman ,1982,6
+1570,David,Caruso,1,263,Twins ,1988,36
+1765,Dana,Carvey,1,220,Wayne's World ,1992,27
+1419,Max,Casella,1,168,Dinosaur ,2000,28
+673,Adriana,Caselotti,1,76,Snow White and the Seven Dwarfs ,1937,12
+2041,Nick,Cassavetes,1,261,Face/Off ,1997,36
+249,Vincent,Cassel,1,29,Shrek ,2001,22
+2214,Seymour,Cassel,1,289,Indecent Proposal ,1993,23
+1107,Joanna,Cassidy,1,130,Who Framed Roger Rabbit ,1988,33
+2392,Ted,Cassidy,1,314,Butch Cassidy and the Sundance Kid ,1969,27
+2525,John,Cassini,1,338,Se7en ,1995,34
+69,Keisha,Castle-Hughes,1,7,Star Wars: Episode III - Revenge of the Sith ,2005,15
+2275,Kim,Cattrall,1,296,Porky's ,1982,9
+2184,Megan,Cavanagh,1,283,A League of Their Own ,1992,22
+2469,Christine,Cavanaugh,1,331,The Rugrats Movie ,1998,11
+86,James,Caviezel,1,10,The Passion of the Christ ,2004,9
+2071,Laura,Cayouette,1,266,Enemy of the State ,1998,41
+2319,Lacey,Chabert,1,303,Daddy Day Care ,2003,38
+1951,Richard,Chamberlain,1,246,The Towering Inferno ,1974,17
+2241,Howland,Chamberlain,1,292,Kramer vs. Kramer ,1979,10
+2540,Kevin,Chamberlin,1,341,Die Hard: With a Vengeance ,1995,32
+1843,Michael,Champion,1,232,Total Recall ,1990,24
+430,Jackie,Chan,1,49,Rush Hour 2 ,2001,19
+430,Jackie,Chan,1,155,Rush Hour ,1998,27
+457,Lobo,Chan,1,51,King Kong ,2005,10
+1572,Kim,Chan,1,190,Lethal Weapon 4 ,1998,18
+2257,George,Chandler,1,294,Every Which Way But Loose ,1978,13
+1611,Chen,Chang,1,196,Wo hu cang long ,2000,12
+739,Stockard,Channing,1,84,Grease ,1978,30
+739,Stockard,Channing,1,297,The First Wives Club ,1996,16
+2094,Rosalind,Chao,1,269,Freaky Friday ,2003,22
+2063,Geraldine,Chaplin,1,265,Doctor Zhivago ,1965,23
+2362,Janet,Chapman,1,309,Bambi ,1942,28
+1574,Dave,Chappelle,1,191,The Nutty Professor ,1996,22
+1574,Dave,Chappelle,1,247,You've Got Mail ,1998,8
+1574,Dave,Chappelle,1,325,Con Air ,1997,18
+1930,Josh,Charles,1,244,S.W.A.T. ,2003,21
+2473,Melanie,Chartoff,1,331,The Rugrats Movie ,1998,11
+1207,Daveigh,Chase,1,142,Lilo & Stitch ,2002,21
+1207,Daveigh,Chase,1,192,The Ring ,2002,16
+2472,Cheryl,Chase,1,331,The Rugrats Movie ,1998,11
+397,Justin,Chatwin,1,45,War of the Worlds ,2005,13
+1720,Andrew,Chavez,1,212,Traffic ,2000,20
+688,Maury,Chaykin,1,77,Dances with Wolves ,1990,14
+2313,Molly,Cheek,1,302,American Wedding ,2003,34
+1613,Pei-pei,Cheng,1,196,Wo hu cang long ,2000,12
+2451,Sami,Chester,1,327,Contact ,1997,25
+1157,George,Cheung,1,136,Rambo: First Blood Part II ,1985,40
+775,Roy,Chiao,1,88,Indiana Jones and the Temple of Doom ,1984,24
+1100,Michael,Chiklis,1,129,Fantastic Four ,2005,7
+2432,Nick,Chinlund,1,322,Eraser ,1996,30
+2432,Nick,Chinlund,1,325,Con Air ,1997,18
+911,Marcus,Chong,1,104,The Matrix ,1999,28
+1316,Michael,Chow,1,155,Rush Hour ,1998,27
+1609,Yun-Fat,Chow,1,196,Wo hu cang long ,2000,12
+65,Hayden,Christensen,1,7,Star Wars: Episode III - Revenge of the Sith ,2005,15
+65,Hayden,Christensen,1,18,Star Wars: Episode II - Attack of the Clones ,2002,23
+2062,Julie,Christie,1,265,Doctor Zhivago ,1965,23
+1997,John,Christopher Jones,1,253,The Village ,2004,46
+2363,Jeanne,Christy,1,309,Bambi ,1942,28
+2489,Danielle,Chuchran,1,333,The Cat in the Hat ,2003,20
+406,Leonid,Citer,1,46,Cast Away ,2000,10
+1025,Blake,Clark,1,118,The Waterboy ,1998,14
+1025,Blake,Clark,1,223,50 First Dates ,2004,29
+1979,Candy,Clark,1,250,American Graffiti ,1973,14
+1988,Josh,Clark,1,251,Big ,1988,23
+597,Michael,Clarke Duncan,1,66,Armageddon ,1998,9
+597,Michael,Clarke Duncan,1,87,Planet of the Apes ,2001,22
+597,Michael,Clarke Duncan,1,169,The Green Mile ,1999,13
+597,Michael,Clarke Duncan,1,312,Daredevil ,2003,31
+2517,Patricia,Clarkson,1,337,Jumanji ,1995,27
+29,John,Cleese,1,3,Shrek 2 ,2004,45
+29,John,Cleese,1,120,Die Another Day ,2002,14
+29,John,Cleese,1,201,The World Is Not Enough ,1999,14
+29,John,Cleese,1,299,George of the Jungle ,1997,22
+257,Veronica,Clifford,1,30,Harry Potter and the Chamber of Secrets ,2002,18
+704,George,Clooney,1,80,Ocean's Eleven ,2001,36
+704,George,Clooney,1,82,The Perfect Storm ,2000,31
+704,George,Clooney,1,208,Ocean's Twelve ,2004,30
+704,George,Clooney,1,284,Batman & Robin ,1997,22
+892,Glenn,Close,1,102,Air Force One ,1997,31
+892,Glenn,Close,1,106,Tarzan ,1999,16
+892,Glenn,Close,1,126,Fatal Attraction ,1987,31
+892,Glenn,Close,1,171,101 Dalmatians ,1996,15
+2515,Martin,Clunes,1,336,Shakespeare in Love ,1998,44
+1759,Bill,Cobbs,1,219,The Bodyguard ,1992,27
+295,James,Coburn,1,34,"Monsters, Inc. ",2001,24
+295,James,Coburn,1,191,The Nutty Professor ,1996,22
+295,James,Coburn,1,318,Maverick ,1994,9
+295,James,Coburn,1,322,Eraser ,1996,30
+1519,Richard,Coca,1,183,Minority Report ,2002,11
+1586,Shannon,Cochran,1,192,The Ring ,2002,16
+2238,George,Coe,1,292,Kramer vs. Kramer ,1979,10
+2354,Barry,Coe,1,308,Jaws 2 ,1978,15
+1875,J.J.,Cohen,1,236,Back to the Future Part II ,1989,22
+2384,Gary,Cole,1,313,In the Line of Fire ,1993,8
+803,Dabney,Coleman,1,91,Tootsie ,1982,31
+803,Dabney,Coleman,1,233,On Golden Pond ,1981,24
+803,Dabney,Coleman,1,247,You've Got Mail ,1998,8
+803,Dabney,Coleman,1,306,Nine to Five ,1980,29
+167,Margaret,Colin,1,20,Independence Day ,1996,20
+167,Margaret,Colin,1,109,Three Men and a Baby ,1987,19
+186,Toni,Collette,1,22,The Sixth Sense ,1999,25
+674,Eddie,Collins,1,76,Snow White and the Seven Dwarfs ,1937,12
+1821,Phil,Collins,1,229,Hook ,1991,22
+2284,Stephen,Collins,1,297,The First Wives Club ,1996,16
+1998,Frank,Collison,1,253,The Village ,2004,46
+1808,Silvia,Colloca,1,227,Van Helsing ,2004,13
+2276,Scott,Colomby,1,296,Porky's ,1982,9
+2494,Mike,Colter,1,334,Million Dollar Baby ,2004,23
+147,Robbie,Coltrane,1,16,Harry Potter and the Sorcerer's Stone ,2001,15
+147,Robbie,Coltrane,1,201,The World Is Not Enough ,1999,14
+147,Robbie,Coltrane,1,288,GoldenEye ,1995,23
+675,Pinto,Colvig,1,76,Snow White and the Seven Dwarfs ,1937,12
+108,Sam,Comery,1,12,The Lord of the Rings: The Two Towers ,2002,38
+740,Jeff,Conaway,1,84,Grease ,1978,30
+1009,Cristi,Conaway,1,116,Batman Returns ,1992,36
+744,Didi,Conn,1,84,Grease ,1978,30
+936,Jennifer,Connelly,1,107,A Beautiful Mind ,2001,14
+936,Jennifer,Connelly,1,182,Hulk ,2003,5
+129,Michael,Conner Humphreys,1,14,Forrest Gump ,1994,27
+617,Sean,Connery,1,69,Indiana Jones and the Last Crusade ,1989,29
+617,Sean,Connery,1,178,The Rock ,1996,14
+617,Sean,Connery,1,224,The Hunt for Red October ,1990,36
+1288,Billy,Connolly,1,151,Pocahontas ,1995,23
+1288,Billy,Connolly,1,235,Lemony Snicket's A Series of Unfortunate Events ,2004,24
+1288,Billy,Connolly,1,267,The Last Samurai ,2003,26
+1288,Billy,Connolly,1,289,Indecent Proposal ,1993,23
+366,Michael,Constantine,1,42,My Big Fat Greek Wedding ,2002,16
+1475,Richard,Conte,1,176,The Godfather ,1972,17
+567,Danny,Cooksey,1,63,Terminator 2: Judgment Day ,1991,11
+1929,LL,Cool J,1,244,S.W.A.T. ,2003,21
+1600,Jennifer,Coolidge,1,194,Robots ,2005,5
+536,Bradley,Cooper,1,59,Wedding Crashers ,2005,15
+731,Justin,Cooper,1,83,Liar Liar ,1997,39
+1480,Jackie,Cooper,1,177,Superman ,1978,26
+1480,Jackie,Cooper,1,281,Superman II ,1980,34
+1559,Chris,Cooper,1,188,American Beauty ,1999,23
+1559,Chris,Cooper,1,221,The Bourne Identity ,2002,19
+1559,Chris,Cooper,1,226,Seabiscuit ,2003,33
+1559,Chris,Cooper,1,256,The Patriot ,2000,19
+1270,Sam,Coppola,1,149,Saturday Night Fever ,1977,31
+367,John,Corbett,1,42,My Big Fat Greek Wedding ,2002,16
+2425,Barry,Corbin,1,320,Stir Crazy ,1980,17
+2390,Jeff,Corey,1,314,Butch Cassidy and the Sundance Kid ,1969,27
+918,Jesse,Corti,1,105,Beauty and the Beast ,1991,24
+202,James,Cosmo,1,23,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe ",2005,28
+2427,Nicolas,Coster,1,320,Stir Crazy ,1980,17
+681,Kevin,Costner,1,77,Dances with Wolves ,1990,14
+681,Kevin,Costner,1,111,Robin Hood: Prince of Thieves ,1991,16
+681,Kevin,Costner,1,219,The Bodyguard ,1992,27
+2065,Tom,Courtenay,1,265,Doctor Zhivago ,1965,23
+994,Allen,Covert,1,114,Big Daddy ,1999,24
+994,Allen,Covert,1,205,Mr. Deeds ,2002,15
+994,Allen,Covert,1,223,50 First Dates ,2004,29
+389,Ronny,Cox,1,44,Beverly Hills Cop ,1984,22
+389,Ronny,Cox,1,131,Beverly Hills Cop II ,1987,38
+389,Ronny,Cox,1,232,Total Recall ,1990,24
+509,Brian,Cox,1,56,X2 ,2003,26
+509,Brian,Cox,1,95,The Bourne Supremacy ,2004,18
+509,Brian,Cox,1,180,Troy ,2004,26
+509,Brian,Cox,1,192,The Ring ,2002,16
+509,Brian,Cox,1,221,The Bourne Identity ,2002,19
+2345,Courteney,Cox,1,307,Scream ,1996,17
+2345,Courteney,Cox,1,321,Scream 2 ,1997,38
+38,Peter,Coyote,1,4,E.T. the Extra-Terrestrial ,1982,19
+1525,Daniel,Craig,1,184,Lara Croft: Tomb Raider ,2001,23
+1525,Daniel,Craig,1,304,Road to Perdition ,2002,26
+608,Fred,Crane,1,67,Gone with the Wind ,1939,28
+1153,Richard,Crenna,1,136,Rambo: First Blood Part II ,1985,40
+1064,Terry,Crews,1,123,The Longest Yard ,2005,14
+893,Wendy,Crewson,1,102,Air Force One ,1997,31
+893,Wendy,Crewson,1,144,The Santa Clause ,1994,14
+893,Wendy,Crewson,1,163,The Santa Clause 2 ,2002,26
+2527,Peter,Crombie,1,338,Se7en ,1995,34
+1234,James,Cromwell,1,145,"I, Robot ",2004,32
+1234,James,Cromwell,1,157,Deep Impact ,1998,28
+1234,James,Cromwell,1,169,The Green Mile ,1999,13
+1234,James,Cromwell,1,237,The Sum of All Fears ,2002,12
+1234,James,Cromwell,1,310,The General's Daughter ,1999,3
+1234,James,Cromwell,1,322,Eraser ,1996,30
+1820,Laurel,Cronin,1,229,Hook ,1991,22
+2458,Hume,Cronyn,1,328,The Pelican Brief ,1993,26
+180,Mackenzie,Crook,1,21,Pirates of the Caribbean: The Curse of the Black Pearl ,2003,21
+641,David,Cross,1,72,Men in Black II ,2002,27
+2405,T.J.,Cross,1,317,Gone in Sixty Seconds ,2000,32
+2050,Scatman,Crothers,1,262,One Flew Over the Cuckoo's Nest ,1975,33
+643,Russell,Crowe,1,73,Gladiator ,2000,16
+643,Russell,Crowe,1,107,A Beautiful Mind ,2001,14
+395,Tom,Cruise,1,45,War of the Worlds ,2005,13
+395,Tom,Cruise,1,55,Mission: Impossible II ,2000,20
+395,Tom,Cruise,1,86,Mission: Impossible ,1996,29
+395,Tom,Cruise,1,92,Top Gun ,1986,34
+395,Tom,Cruise,1,101,Rain Man ,1988,36
+395,Tom,Cruise,1,122,The Firm ,1993,21
+395,Tom,Cruise,1,132,Jerry Maguire ,1996,27
+395,Tom,Cruise,1,153,A Few Good Men ,1992,31
+395,Tom,Cruise,1,183,Minority Report ,2002,11
+395,Tom,Cruise,1,267,The Last Samurai ,2003,26
+395,Tom,Cruise,1,298,Interview with the Vampire: The Vampire Chronicles ,1994,16
+395,Tom,Cruise,1,330,Vanilla Sky ,2001,5
+395,Tom,Cruise,1,342,Collateral ,2004,26
+2295,Greg,Cruttwell,1,299,George of the Jungle ,1997,22
+1755,Raymond,Cruz,1,218,Clear and Present Danger ,1994,9
+2462,Penélope,Cruz,1,330,Vanilla Sky ,2001,5
+292,Billy,Crystal,1,34,"Monsters, Inc. ",2001,24
+292,Billy,Crystal,1,213,City Slickers ,1991,21
+292,Billy,Crystal,1,287,Analyze This ,1999,20
+156,Marton,Csokas,1,17,The Lord of the Rings: The Fellowship of the Ring ,2001,21
+156,Marton,Csokas,1,95,The Bourne Supremacy ,2004,18
+156,Marton,Csokas,1,154,xXx ,2002,23
+215,Macaulay,Culkin,1,26,Home Alone ,1990,28
+215,Macaulay,Culkin,1,98,Home Alone 2: Lost in New York ,1992,33
+422,Rory,Culkin,1,48,Signs ,2002,15
+2456,Robert,Culp,1,328,The Pelican Brief ,1993,26
+2051,Mwako,Cumbuka,1,262,One Flew Over the Cuckoo's Nest ,1975,33
+510,Alan,Cumming,1,56,X2 ,2003,26
+510,Alan,Cumming,1,259,Spy Kids ,2001,7
+510,Alan,Cumming,1,288,GoldenEye ,1995,23
+252,Jim,Cummings,1,29,Shrek ,2001,22
+2387,Jim,Curley,1,313,In the Line of Fire ,1993,8
+1354,Tim,Curry,1,160,The Rocky Horror Picture Show ,1975,6
+1354,Tim,Curry,1,210,Charlie's Angels ,2000,23
+1354,Tim,Curry,1,224,The Hunt for Red October ,1990,36
+330,Joan,Cusack,1,38,Toy Story 2 ,1999,42
+330,Joan,Cusack,1,135,Runaway Bride ,1999,29
+330,Joan,Cusack,1,173,Chicken Little ,2005,19
+2444,John,Cusack,1,325,Con Air ,1997,18
+16,Peter,Cushing,1,2,Star Wars ,1977,15
+758,Henry,Czerny,1,86,Mission: Impossible ,1996,29
+758,Henry,Czerny,1,218,Clear and Present Danger ,1994,9
+2164,Danny,D. Daniels,1,279,Ace Ventura: When Nature Calls ,1995,15
+933,Alex,D. Linz,1,106,Tarzan ,1999,16
+887,Michael,D. Roberts,1,101,Rain Man ,1988,36
+56,Willem,Dafoe,1,6,Spider-Man ,2002,23
+56,Willem,Dafoe,1,13,Finding Nemo ,2003,21
+56,Willem,Dafoe,1,167,Platoon ,1986,16
+56,Willem,Dafoe,1,218,Clear and Present Danger ,1994,9
+1310,Werner,Dähn,1,154,xXx ,2002,23
+2468,Elizabeth,Daily,1,331,The Rugrats Movie ,1998,11
+1995,Bryce,Dallas Howard,1,253,The Village ,2004,46
+1902,Fred,Dalton Thompson,1,240,Die Hard 2 ,1990,35
+1902,Fred,Dalton Thompson,1,313,In the Line of Fire ,1993,8
+488,Matt,Damon,1,54,Saving Private Ryan ,1998,12
+488,Matt,Damon,1,95,The Bourne Supremacy ,2004,18
+488,Matt,Damon,1,166,Good Will Hunting ,1997,16
+488,Matt,Damon,1,221,The Bourne Identity ,2002,19
+1163,Claire,Danes,1,137,Terminator 3: Rise of the Machines ,2003,11
+2255,Beverly,D'Angelo,1,294,Every Which Way But Loose ,1978,13
+2112,Christopher,Daniel Barnes,1,272,The Little Mermaid ,1989,38
+18,Anthony,Daniels,1,2,Star Wars ,1977,15
+18,Anthony,Daniels,1,7,Star Wars: Episode III - Revenge of the Sith ,2005,15
+18,Anthony,Daniels,1,19,Star Wars: Episode VI - Return of the Jedi ,1983,6
+18,Anthony,Daniels,1,24,Star Wars: Episode V - The Empire Strikes Back ,1980,19
+1140,Lisa,Daniels,1,134,One Hundred and One Dalmatians ,1961,24
+1436,Jeff,Daniels,1,171,101 Dalmatians ,1996,15
+1436,Jeff,Daniels,1,199,Dumb & Dumber ,1994,20
+1436,Jeff,Daniels,1,222,Speed ,1994,36
+1436,Jeff,Daniels,1,278,Terms of Endearment ,1983,14
+2195,Phil,Daniels,1,286,Chicken Run ,2000,13
+2234,Walker,Daniels,1,291,Love Story ,1970,33
+2307,William,Daniels,1,301,The Graduate ,1967,26
+241,Blythe,Danner,1,28,Meet the Fockers ,2004,26
+241,Blythe,Danner,1,110,Meet the Parents ,2000,22
+1295,Cesare,Danova,1,152,Animal House ,1978,32
+489,Ted,Danson,1,54,Saving Private Ryan ,1998,12
+489,Ted,Danson,1,109,Three Men and a Baby ,1987,19
+1026,Peter,Dante,1,118,The Waterboy ,1998,14
+1026,Peter,Dante,1,205,Mr. Deeds ,2002,15
+676,Marion,Darlington,1,76,Snow White and the Seven Dwarfs ,1937,12
+676,Marion,Darlington,1,309,Bambi ,1942,28
+1860,Tom,Daschle,1,234,Fahrenheit 9/11 ,2004,13
+1299,James,Daughton,1,152,Animal House ,1978,32
+177,Jack,Davenport,1,21,Pirates of the Caribbean: The Curse of the Black Pearl ,2003,21
+666,Keith,David,1,75,Mr. & Mrs. Smith ,2005,7
+666,Keith,David,1,93,There's Something About Mary ,1998,23
+666,Keith,David,1,167,Platoon ,1986,16
+1904,Thayer,David,1,241,Rocky ,1976,15
+2163,Tommy,Davidson,1,279,Ace Ventura: When Nature Calls ,1995,15
+487,Jeremy,Davies,1,54,Saving Private Ryan ,1998,12
+806,Geena,Davis,1,91,Tootsie ,1982,31
+806,Geena,Davis,1,159,Stuart Little ,1999,24
+806,Geena,Davis,1,283,A League of Their Own ,1992,22
+1142,Lisa,Davis,1,134,One Hundred and One Dalmatians ,1961,24
+1255,Ossie,Davis,1,148,Doctor Dolittle ,1998,23
+1255,Ossie,Davis,1,168,Dinosaur ,2000,28
+2365,Tim,Davis,1,309,Bambi ,1942,28
+638,Rosario,Dawson,1,72,Men in Black II ,2002,27
+880,David,Dayan Fisher,1,100,National Treasure ,2004,20
+1751,Joaquim,de Almeida,1,218,Clear and Present Danger ,1994,9
+602,Olivia,de Havilland,1,67,Gone with the Wind ,1939,28
+2179,Maria,de Medeiros,1,282,Pulp Fiction ,1994,35
+237,Robert,De Niro,1,28,Meet the Fockers ,2004,26
+237,Robert,De Niro,1,110,Meet the Parents ,2000,22
+237,Robert,De Niro,1,119,Shark Tale ,2004,26
+237,Robert,De Niro,1,234,Fahrenheit 9/11 ,2004,13
+237,Robert,De Niro,1,287,Analyze This ,1999,20
+2191,Melissa,De Sousa,1,285,Miss Congeniality ,2000,21
+89,Francesco,De Vito,1,10,The Passion of the Christ ,2004,9
+153,Derek,Deadman,1,16,Harry Potter and the Sorcerer's Stone ,2001,15
+2072,Loren,Dean,1,266,Enemy of the State ,1998,41
+1329,Patricia,DeCou,1,156,The Blair Witch Project ,1999,28
+161,Billy,Dee Williams,1,19,Star Wars: Episode VI - Return of the Jedi ,1983,6
+161,Billy,Dee Williams,1,24,Star Wars: Episode V - The Empire Strikes Back ,1980,19
+161,Billy,Dee Williams,1,35,Batman ,1989,18
+853,Eddie,Deezen,1,97,The Polar Express ,2004,18
+2246,Mos,Def,1,293,The Italian Job ,2003,16
+114,Ellen,DeGeneres,1,13,Finding Nemo ,2003,21
+960,Nicole,DeHuff,1,110,Meet the Parents ,2000,22
+467,Martina,Deignan,1,52,Ghost ,1990,15
+1718,Benicio,Del Toro,1,212,Traffic ,2000,20
+1683,Brian,Delate,1,206,The Truman Show ,1998,14
+1767,Michael,DeLuise,1,220,Wayne's World ,1992,27
+935,Taylor,Dempsey,1,106,Tarzan ,1999,16
+1627,Patrick,Dempsey,1,198,Sweet Home Alabama ,2002,30
+2300,Jeffrey,DeMunn,1,300,Phenomenon ,1996,26
+1039,Judi,Dench,1,120,Die Another Day ,2002,14
+1039,Judi,Dench,1,201,The World Is Not Enough ,1999,14
+1039,Judi,Dench,1,209,Tomorrow Never Dies ,1997,26
+1039,Judi,Dench,1,288,GoldenEye ,1995,23
+250,Peter,Dennis,1,29,Shrek ,2001,22
+1601,Dylan,Denton,1,194,Robots ,2005,5
+174,Johnny,Depp,1,21,Pirates of the Caribbean: The Curse of the Black Pearl ,2003,21
+174,Johnny,Depp,1,60,Charlie and the Chocolate Factory ,2005,5
+174,Johnny,Depp,1,326,Sleepy Hollow ,1999,11
+97,Laura,Dern,1,11,Jurassic Park ,1993,20
+97,Laura,Dern,1,85,Jurassic Park III ,2001,28
+869,Zooey,Deschanel,1,99,Elf ,2003,31
+1006,Danny,DeVito,1,116,Batman Returns ,1992,36
+1006,Danny,DeVito,1,262,One Flew Over the Cuckoo's Nest ,1975,33
+1006,Danny,DeVito,1,263,Twins ,1988,36
+1006,Danny,DeVito,1,278,Terms of Endearment ,1983,14
+26,Cameron,Diaz,1,3,Shrek 2 ,2004,45
+26,Cameron,Diaz,1,29,Shrek ,2001,22
+26,Cameron,Diaz,1,93,There's Something About Mary ,1998,23
+26,Cameron,Diaz,1,202,My Best Friend's Wedding ,1997,41
+26,Cameron,Diaz,1,210,Charlie's Angels ,2000,23
+26,Cameron,Diaz,1,329,Charlie's Angels: Full Throttle ,2003,20
+26,Cameron,Diaz,1,330,Vanilla Sky ,2001,5
+2,Leonardo,DiCaprio,1,1,Titanic ,1997,32
+2,Leonardo,DiCaprio,1,113,Catch Me If You Can ,2002,22
+2,Leonardo,DiCaprio,1,311,The Aviator ,2004,18
+527,George,DiCenzo,1,58,Back to the Future ,1985,30
+1689,Dawn,Didawick,1,207,Erin Brockovich ,2000,13
+753,John,Diehl,1,85,Jurassic Park III ,2001,28
+485,Vin,Diesel,1,54,Saving Private Ryan ,1998,12
+485,Vin,Diesel,1,147,The Fast and the Furious ,2001,16
+485,Vin,Diesel,1,154,xXx ,2002,23
+485,Vin,Diesel,1,257,The Pacifier ,2005,13
+942,Taye,Diggs,1,108,Chicago ,2002,35
+1016,Phyllis,Diller,1,117,A Bug's Life ,1998,22
+818,Matt,Dillon,1,93,There's Something About Mary ,1998,23
+1413,Kevin,Dillon,1,167,Platoon ,1986,16
+1588,Melinda,Dillon,1,193,Close Encounters of the Third Kind ,1977,27
+2136,Ernie,Dingo,1,274,Crocodile' Dundee II ,1988,30
+872,Peter,Dinklage,1,99,Elf ,2003,31
+2190,John,DiResta,1,285,Miss Congeniality ,2000,21
+1592,Philip,Dodds,1,193,Close Encounters of the Third Kind ,1977,27
+1706,Joe,Don Baker,1,209,Tomorrow Never Dies ,1997,26
+1706,Joe,Don Baker,1,288,GoldenEye ,1995,23
+787,Elinor,Donahue,1,89,Pretty Woman ,1990,15
+1322,Heather,Donahue,1,156,The Blair Witch Project ,1999,28
+745,Jamie,Donnelly,1,84,Grease ,1978,30
+313,Vincent,D'Onofrio,1,36,Men in Black ,1997,40
+732,Amanda,Donohoe,1,83,Liar Liar ,1997,39
+799,Jeffrey,Donovan,1,90,Hitch ,2005,17
+2328,Michael,Donovan O'Donnell,1,305,Dick Tracy ,1990,22
+618,Alison,Doody,1,69,Indiana Jones and the Last Crusade ,1989,29
+2123,James,Doohan,1,273,Star Trek IV: The Voyage Home ,1986,29
+1147,Paul,Dooley,1,135,Runaway Bride ,1999,29
+913,Matt,Doran,1,104,The Matrix ,1999,28
+1581,David,Dorfman,1,192,The Ring ,2002,16
+2399,Karen,Dotrice,1,315,Mary Poppins ,1964,33
+1802,David,Doty,1,226,Seabiscuit ,2003,33
+1350,Jim,Doughan,1,159,Stuart Little ,1999,24
+1079,Michael,Douglas,1,126,Fatal Attraction ,1987,31
+1079,Michael,Douglas,1,212,Traffic ,2000,20
+1079,Michael,Douglas,1,238,Basic Instinct ,1992,33
+2173,Sarah,Douglas,1,281,Superman II ,1980,34
+109,Brad,Dourif,1,12,The Lord of the Rings: The Two Towers ,2002,38
+2029,Denise,Dowse,1,258,Dr. Dolittle 2 ,2001,12
+1766,Brian,Doyle-Murray,1,220,Wayne's World ,1992,27
+1939,James,Dreyfus,1,245,Notting Hill ,1999,21
+281,Richard,Dreyfuss,1,33,Jaws ,1975,17
+281,Richard,Dreyfuss,1,193,Close Encounters of the Third Kind ,1977,27
+281,Richard,Dreyfuss,1,250,American Graffiti ,1973,14
+929,Minnie,Driver,1,106,Tarzan ,1999,16
+929,Minnie,Driver,1,166,Good Will Hunting ,1997,16
+970,Soo,Drouet,1,111,Robin Hood: Prince of Thieves ,1991,16
+1388,Hilary,Duff,1,164,Cheaper by the Dozen ,2003,24
+2237,Howard,Duff,1,292,Kramer vs. Kramer ,1979,10
+1635,Karen,Duffy,1,199,Dumb & Dumber ,1994,20
+986,Dennis,Dugan,1,340,Parenthood ,1989,35
+1340,Olympia,Dukakis,1,158,Look Who's Talking ,1989,27
+1948,Faye,Dunaway,1,246,The Towering Inferno ,1974,17
+1095,Stephen,Dunham,1,128,The Mummy ,1999,18
+343,Nora,Dunn,1,39,Bruce Almighty ,2003,15
+1443,Kevin,Dunn,1,172,Godzilla ,1998,23
+1826,Liam,Dunn,1,230,Blazing Saddles ,1974,31
+57,Kirsten,Dunst,1,6,Spider-Man ,2002,23
+57,Kirsten,Dunst,1,9,Spider-Man 2 ,2004,10
+57,Kirsten,Dunst,1,298,Interview with the Vampire: The Vampire Chronicles ,1994,16
+57,Kirsten,Dunst,1,337,Jumanji ,1995,27
+1894,Starletta,DuPois,1,239,Big Momma's House ,2000,14
+804,Charles,Durning,1,91,Tootsie ,1982,31
+804,Charles,Durning,1,121,The Sting ,1973,25
+2351,Ann,Dusenberry,1,308,Jaws 2 ,1978,15
+1201,Eliza,Dushku,1,141,True Lies ,1994,26
+2407,James,Duval,1,317,Gone in Sixty Seconds ,2000,32
+1333,Robert,Duvall,1,157,Deep Impact ,1998,28
+1333,Robert,Duvall,1,176,The Godfather ,1972,17
+1333,Robert,Duvall,1,300,Phenomenon ,1996,26
+2097,Clea,DuVall,1,270,The Grudge ,2004,31
+762,Dale,Dye,1,86,Mission: Impossible ,1996,29
+1882,George,Dzundza,1,238,Basic Instinct ,1992,33
+1816,Reg,E. Cathey,1,228,The Mask ,1994,36
+1816,Reg,E. Cathey,1,244,S.W.A.T. ,2003,21
+1032,Doug,E. Doug,1,119,Shark Tale ,2004,26
+1969,Pat,E. Johnson,1,249,"The Karate Kid, Part II ",1986,18
+1420,Samuel,E. Wright,1,168,Dinosaur ,2000,28
+1645,Michael,Ealy,1,200,2 Fast 2 Furious ,2003,13
+823,W.,Earl Brown,1,93,There's Something About Mary ,1998,23
+823,W.,Earl Brown,1,307,Scream ,1996,17
+22,James,Earl Jones,1,2,Star Wars ,1977,15
+22,James,Earl Jones,1,15,The Lion King ,1994,28
+22,James,Earl Jones,1,19,Star Wars: Episode VI - Return of the Jedi ,1983,6
+22,James,Earl Jones,1,195,Coming to America ,1988,36
+22,James,Earl Jones,1,224,The Hunt for Red October ,1990,36
+985,Steve,Eastin,1,113,Catch Me If You Can ,2002,22
+947,Jayne,Eastwood,1,108,Chicago ,2002,35
+2252,Clint,Eastwood,1,294,Every Which Way But Loose ,1978,13
+2252,Clint,Eastwood,1,313,In the Line of Fire ,1993,8
+2252,Clint,Eastwood,1,324,Unforgiven ,1992,25
+2252,Clint,Eastwood,1,334,Million Dollar Baby ,2004,23
+623,Robert,Eddison,1,69,Indiana Jones and the Last Crusade ,1989,29
+2318,Lisa,Edelstein,1,303,Daddy Day Care ,2003,38
+1412,Richard,Edson,1,167,Platoon ,1986,16
+1412,Richard,Edson,1,215,"Good Morning, Vietnam ",1987,39
+157,Megan,Edwards,1,17,The Lord of the Rings: The Fellowship of the Ring ,2001,21
+810,Anthony,Edwards,1,92,Top Gun ,1986,34
+2115,Paddi,Edwards,1,272,The Little Mermaid ,1989,38
+388,Lisa,Eilbacher,1,44,Beverly Hills Cop ,1984,22
+388,Lisa,Eilbacher,1,189,An Officer and a Gentleman ,1982,6
+1049,Dana,Elcar,1,121,The Sting ,1973,25
+1336,Ron,Eldard,1,157,Deep Impact ,1998,28
+1336,Ron,Eldard,1,277,Black Hawk Down ,2001,16
+2330,Stig,Eldred,1,305,Dick Tracy ,1990,22
+1069,Carmen,Electra,1,125,Scary Movie ,2000,20
+2453,Laura,Elena Surillo,1,327,Contact ,1997,25
+368,Christina,Eleusiniotis,1,42,My Big Fat Greek Wedding ,2002,16
+859,Josh,Eli,1,97,The Polar Express ,2004,18
+861,Maureen,Elisabeth Shay,1,98,Home Alone 2: Lost in New York ,1992,33
+1215,Shannon,Elizabeth,1,143,American Pie 2 ,2001,24
+1215,Shannon,Elizabeth,1,316,American Pie ,1999,18
+727,Mary,Elizabeth Mastrantonio,1,82,The Perfect Storm ,2000,31
+727,Mary,Elizabeth Mastrantonio,1,111,Robin Hood: Prince of Thieves ,1991,16
+788,Hector,Elizondo,1,89,Pretty Woman ,1990,15
+788,Hector,Elizondo,1,135,Runaway Bride ,1999,29
+788,Hector,Elizondo,1,280,The Princess Diaries ,2001,19
+350,Denholm,Elliott,1,40,Raiders of the Lost Ark ,1981,23
+350,Denholm,Elliott,1,69,Indiana Jones and the Last Crusade ,1989,29
+393,Stephen,Elliott,1,44,Beverly Hills Cop ,1984,22
+820,Chris,Elliott,1,93,There's Something About Mary ,1998,23
+820,Chris,Elliott,1,216,Nutty Professor II: The Klumps ,2000,32
+1508,Sam,Elliott,1,182,Hulk ,2003,5
+1916,Brennan,Elliott,1,242,Double Jeopardy ,1999,1
+905,Max,Elliott Slade,1,103,Apollo 13 ,1995,4
+356,Cary,Elwes,1,41,Twister ,1996,36
+356,Cary,Elwes,1,83,Liar Liar ,1997,39
+1631,Ethan,Embry,1,198,Sweet Home Alabama ,2002,30
+1680,Noah,Emmerich,1,206,The Truman Show ,1998,14
+1655,M.,Emmet Walsh,1,202,My Best Friend's Wedding ,1997,41
+1655,M.,Emmet Walsh,1,254,Wild Wild West ,1999,21
+2004,Sofia,Eng,1,254,Wild Wild West ,1999,21
+2106,Marny,Eng,1,271,Scary Movie 3 ,2003,22
+1799,Michael,Ensign,1,226,Seabiscuit ,2003,33
+565,S.,Epatha Merkerson,1,63,Terminator 2: Judgment Day ,1991,11
+2217,Pierre,Epstein,1,289,Indecent Proposal ,1993,23
+1913,Ed,Evanko,1,242,Double Jeopardy ,1999,1
+819,Lee,Evans,1,93,There's Something About Mary ,1998,23
+1099,Chris,Evans,1,129,Fantastic Four ,2005,7
+1901,Art,Evans,1,240,Die Hard 2 ,1990,35
+30,Rupert,Everett,1,3,Shrek 2 ,2004,45
+30,Rupert,Everett,1,202,My Best Friend's Wedding ,1997,41
+898,Tom,Everett,1,102,Air Force One ,1997,31
+898,Tom,Everett,1,154,xXx ,2002,23
+919,Rex,Everhart,1,105,Beauty and the Beast ,1991,24
+2161,Maynard,Eziashi,1,279,Ace Ventura: When Nature Calls ,1995,15
+2224,Clarice,F. Geigerman,1,290,Driving Miss Daisy ,1989,24
+2496,Brian,F. O'Byrne,1,334,Million Dollar Baby ,2004,23
+523,Thomas,F. Wilson,1,58,Back to the Future ,1985,30
+523,Thomas,F. Wilson,1,236,Back to the Future Part II ,1989,22
+973,Frankie,Faison,1,112,Hannibal ,2001,24
+973,Frankie,Faison,1,185,The Silence of the Lambs ,1991,23
+973,Frankie,Faison,1,195,Coming to America ,1988,36
+1963,Donald,Faison,1,248,Remember the Titans ,2000,33
+316,Siobhan,Fallon,1,36,Men in Black ,1997,40
+316,Siobhan,Fallon,1,303,Daddy Day Care ,2003,38
+1165,Mark,Famiglietti,1,137,Terminator 3: Rise of the Machines ,2003,11
+396,Dakota,Fanning,1,45,War of the Worlds ,2005,13
+396,Dakota,Fanning,1,333,The Cat in the Hat ,2003,20
+1077,Anna,Faris,1,125,Scary Movie ,2000,20
+1077,Anna,Faris,1,271,Scary Movie 3 ,2003,22
+1928,Colin,Farrell,1,244,S.W.A.T. ,2003,21
+1928,Colin,Farrell,1,312,Daredevil ,2003,31
+863,Jon,Favreau,1,157,Deep Impact ,1998,28
+863,Jon,Favreau,1,211,Something's Gotta Give ,2003,34
+863,Jon,Favreau,1,312,Daredevil ,2003,31
+585,Oded,Fehr,1,65,The Mummy Returns ,2001,24
+585,Oded,Fehr,1,128,The Mummy ,1999,18
+1177,Corey,Feldman,1,138,Gremlins ,1984,8
+2311,Norman,Fell,1,301,The Graduate ,1967,26
+1278,Verna,Felton,1,150,The Jungle Book ,1967,30
+950,Colm,Feore,1,108,Chicago ,2002,35
+950,Colm,Feore,1,261,Face/Off ,1997,36
+2196,Lynn,Ferguson,1,286,Chicken Run ,2000,13
+2132,Juan,Fernández,1,274,Crocodile' Dundee II ,1988,30
+864,Will,Ferrell,1,99,Elf ,2003,31
+1677,Conchata,Ferrell,1,205,Mr. Deeds ,2002,15
+1677,Conchata,Ferrell,1,207,Erin Brockovich ,2000,13
+1788,Miguel,Ferrer,1,225,Mulan ,1998,24
+101,Martin,Ferrero,1,11,Jurassic Park ,1993,20
+321,Pam,Ferris,1,37,Harry Potter and the Prisoner of Azkaban ,2004,22
+717,Mark,Feuerstein,1,81,What Women Want ,2000,8
+596,William,Fichtner,1,66,Armageddon ,1998,9
+596,William,Fichtner,1,82,The Perfect Storm ,2000,31
+596,William,Fichtner,1,277,Black Hawk Down ,2001,16
+596,William,Fichtner,1,327,Contact ,1997,25
+127,Sally,Field,1,14,Forrest Gump ,1994,27
+127,Sally,Field,1,50,Mrs. Doubtfire ,1993,27
+127,Sally,Field,1,203,Smokey and the Bandit ,1977,13
+363,Todd,Field,1,41,Twister ,1996,36
+1446,Arabella,Field,1,172,Godzilla ,1998,23
+2436,Ralph,Fiennes,1,323,The Prince of Egypt ,1998,31
+2511,Joseph,Fiennes,1,336,Shakespeare in Love ,1998,44
+442,Harvey,Fierstein,1,50,Mrs. Doubtfire ,1993,27
+442,Harvey,Fierstein,1,225,Mulan ,1998,24
+287,Jonathan,Filley,1,33,Jaws ,1975,17
+881,Stewart,Finlay-McLennan,1,100,National Treasure ,2004,20
+1690,Albert,Finney,1,207,Erin Brockovich ,2000,13
+312,Linda,Fiorentino,1,36,Men in Black ,1997,40
+1784,Peter,Firth,1,224,The Hunt for Red October ,1990,36
+1814,Nancy,Fish,1,228,The Mask ,1994,36
+1814,Nancy,Fish,1,319,Sleeping with the Enemy ,1991,16
+907,Laurence,Fishburne,1,104,The Matrix ,1999,28
+6,Frances,Fisher,1,1,Titanic ,1997,32
+6,Frances,Fisher,1,324,Unforgiven ,1992,25
+15,Carrie,Fisher,1,2,Star Wars ,1977,15
+15,Carrie,Fisher,1,19,Star Wars: Episode VI - Return of the Jedi ,1983,6
+15,Carrie,Fisher,1,24,Star Wars: Episode V - The Empire Strikes Back ,1980,19
+532,Isla,Fisher,1,59,Wedding Crashers ,2005,15
+532,Isla,Fisher,1,133,Scooby-Doo ,2002,26
+193,Glenn,Fitzgerald,1,22,The Sixth Sense ,1999,25
+428,Lanny,Flaherty,1,48,Signs ,2002,15
+1108,Charles,Fleischer,1,130,Who Framed Roger Rabbit ,1988,33
+2044,Louise,Fletcher,1,262,One Flew Over the Cuckoo's Nest ,1975,33
+1735,Calista,Flockhart,1,214,The Birdcage ,1996,22
+1552,Dann,Florek,1,187,The Flintstones ,1994,31
+707,Carol,Florence,1,80,Ocean's Eleven ,2001,36
+2170,Patrick,Flueger,1,280,The Princess Diaries ,2001,19
+636,Lara,Flynn Boyle,1,72,Men in Black II ,2002,27
+636,Lara,Flynn Boyle,1,220,Wayne's World ,1992,27
+1789,Freda,Foh Shen,1,225,Mulan ,1998,24
+469,Macka,Foley,1,52,Ghost ,1990,15
+1012,Dave,Foley,1,117,A Bug's Life ,1998,22
+1083,Ellen,Foley,1,126,Fatal Attraction ,1987,31
+1848,Henry,Fonda,1,233,On Golden Pond ,1981,24
+1849,Jane,Fonda,1,233,On Golden Pond ,1981,24
+1849,Jane,Fonda,1,306,Nine to Five ,1980,29
+1790,June,Foray,1,225,Mulan ,1998,24
+14,Harrison,Ford,1,2,Star Wars ,1977,15
+14,Harrison,Ford,1,19,Star Wars: Episode VI - Return of the Jedi ,1983,6
+14,Harrison,Ford,1,24,Star Wars: Episode V - The Empire Strikes Back ,1980,19
+14,Harrison,Ford,1,40,Raiders of the Lost Ark ,1981,23
+14,Harrison,Ford,1,69,Indiana Jones and the Last Crusade ,1989,29
+14,Harrison,Ford,1,79,The Fugitive ,1993,16
+14,Harrison,Ford,1,88,Indiana Jones and the Temple of Doom ,1984,24
+14,Harrison,Ford,1,102,Air Force One ,1997,31
+14,Harrison,Ford,1,127,What Lies Beneath ,2000,23
+14,Harrison,Ford,1,218,Clear and Present Danger ,1994,9
+1481,Glenn,Ford,1,177,Superman ,1978,26
+2021,Faith,Ford,1,257,The Pacifier ,2005,13
+51,Oliver,Ford Davies,1,5,Star Wars: Episode I - The Phantom Menace ,1999,22
+1457,David,Forman,1,174,Teenage Mutant Ninja Turtles ,1990,32
+1486,William,Forsythe,1,178,The Rock ,1996,14
+1486,William,Forsythe,1,305,Dick Tracy ,1990,22
+1711,John,Forsythe,1,210,Charlie's Angels ,2000,23
+910,Gloria,Foster,1,104,The Matrix ,1999,28
+1532,Jodie,Foster,1,185,The Silence of the Lambs ,1991,23
+1532,Jodie,Foster,1,318,Maverick ,1994,9
+1532,Jodie,Foster,1,327,Contact ,1997,25
+543,James,Fox,1,60,Charlie and the Chocolate Factory ,2005,5
+1094,Bernard,Fox,1,128,The Mummy ,1999,18
+2156,Huckleberry,Fox,1,278,Terms of Endearment ,1983,14
+2542,Jamie,Foxx,1,342,Collateral ,2004,26
+58,James,Franco,1,6,Spider-Man ,2002,23
+58,James,Franco,1,9,Spider-Man 2 ,2004,10
+1900,Dennis,Franz,1,240,Die Hard 2 ,1990,35
+581,Brendan,Fraser,1,65,The Mummy Returns ,2001,24
+581,Brendan,Fraser,1,128,The Mummy ,1999,18
+581,Brendan,Fraser,1,299,George of the Jungle ,1997,22
+1439,Hugh,Fraser,1,171,101 Dalmatians ,1996,15
+337,Morgan,Freeman,1,39,Bruce Almighty ,2003,15
+337,Morgan,Freeman,1,111,Robin Hood: Prince of Thieves ,1991,16
+337,Morgan,Freeman,1,157,Deep Impact ,1998,28
+337,Morgan,Freeman,1,237,The Sum of All Fears ,2002,12
+337,Morgan,Freeman,1,290,Driving Miss Daisy ,1989,24
+337,Morgan,Freeman,1,324,Unforgiven ,1992,25
+337,Morgan,Freeman,1,334,Million Dollar Baby ,2004,23
+337,Morgan,Freeman,1,338,Se7en ,1995,34
+347,Paul,Freeman,1,40,Raiders of the Lost Ark ,1981,23
+474,Jonathan,Freeman,1,53,Aladdin ,1992,56
+2355,Susan,French,1,308,Jaws 2 ,1978,15
+1539,Matt,Frewer,1,186,"Honey, I Shrunk the Kids ",1989,17
+2148,Brenda,Fricker,1,276,A Time to Kill ,1996,17
+1748,Ian,Fried,1,217,Rocky III ,1982,34
+1583,Lindsay,Frost,1,192,The Ring ,2002,16
+1941,Roger,Frost,1,245,Notting Hill ,1999,21
+40,Sean,Frye,1,4,E.T. the Extra-Terrestrial ,1982,19
+265,Eli,Fucile,1,31,The Incredibles ,2004,21
+1491,Kurt,Fuller,1,179,Anger Management ,2003,10
+1491,Kurt,Fuller,1,220,Wayne's World ,1992,27
+561,Edward,Furlong,1,63,Terminator 2: Judgment Day ,1991,11
+1298,Stephen,Furst,1,152,Animal House ,1978,32
+1829,George,Furth,1,230,Blazing Saddles ,1974,31
+1829,George,Furth,1,314,Butch Cassidy and the Sundance Kid ,1969,27
+1734,Dan,Futterman,1,214,The Birdcage ,1996,22
+130,Harold,G. Herthum,1,14,Forrest Gump ,1994,27
+1726,Russell,G. Jones,1,212,Traffic ,2000,20
+599,Clark,Gable,1,67,Gone with the Wind ,1939,28
+1633,Courtney,Gains,1,198,Sweet Home Alabama ,2002,30
+708,Lori,Galinski,1,80,Ocean's Eleven ,2001,36
+1560,Peter,Gallagher,1,188,American Beauty ,1999,23
+1560,Peter,Gallagher,1,205,Mr. Deeds ,2002,15
+1179,Zach,Galligan,1,138,Gremlins ,1984,8
+839,Tom,Gallop,1,95,The Bourne Supremacy ,2004,18
+1906,Jimmy,Gambina,1,241,Rocky ,1976,15
+2446,Michael,Gambon,1,326,Sleepy Hollow ,1999,11
+2274,Tony,Ganios,1,296,Porky's ,1982,9
+1741,Richard,Gant,1,216,Nutty Professor II: The Klumps ,2000,32
+710,Mark,Gantt,1,80,Ocean's Eleven ,2001,36
+1615,Xian,Gao,1,196,Wo hu cang long ,2000,12
+2085,Gloria,Garayua,1,268,Fun with Dick and Jane ,2005,5
+11,Victor,Garber,1,1,Titanic ,1997,32
+11,Victor,Garber,1,204,Sleepless in Seattle ,1993,29
+11,Victor,Garber,1,297,The First Wives Club ,1996,16
+2400,Matthew,Garber,1,315,Mary Poppins ,1964,33
+1701,Andy,Garcia,1,208,Ocean's Twelve ,2004,30
+326,Jimmy,Gardner,1,37,Harry Potter and the Prisoner of Azkaban ,2004,22
+1117,Allen,Garfield,1,131,Beverly Hills Cop II ,1987,38
+1853,Troy,Garity,1,233,On Golden Pond ,1981,24
+2315,Jeff,Garlin,1,303,Daddy Day Care ,2003,38
+2377,Jennifer,Garner,1,312,Daredevil ,2003,31
+2409,James,Garner,1,318,Maverick ,1994,9
+802,Teri,Garr,1,91,Tootsie ,1982,31
+802,Teri,Garr,1,193,Close Encounters of the Third Kind ,1977,27
+802,Teri,Garr,1,199,Dumb & Dumber ,1994,20
+116,Brad,Garrett,1,13,Finding Nemo ,2003,21
+116,Brad,Garrett,1,257,The Pacifier ,2005,13
+1672,Barbara,Garrick,1,204,Sleepless in Seattle ,1993,29
+282,Lorraine,Gary,1,33,Jaws ,1975,17
+282,Lorraine,Gary,1,308,Jaws 2 ,1978,15
+854,Nona,Gaye,1,97,The Polar Express ,2004,18
+805,George,Gaynes,1,91,Tootsie ,1982,31
+963,Phyllis,George,1,110,Meet the Parents ,2000,22
+1859,Richard,Gephardt,1,234,Fahrenheit 9/11 ,2004,13
+2419,Marita,Geraghty,1,319,Sleeping with the Enemy ,1991,16
+780,Richard,Gere,1,89,Pretty Woman ,1990,15
+780,Richard,Gere,1,135,Runaway Bride ,1999,29
+780,Richard,Gere,1,189,An Officer and a Gentleman ,1982,6
+95,Claudia,Gerini,1,10,The Passion of the Christ ,2004,9
+2039,Gina,Gershon,1,261,Face/Off ,1997,36
+299,Dan,Gerson,1,34,"Monsters, Inc. ",2001,24
+357,Jami,Gertz,1,41,Twister ,1996,36
+1159,William,Ghent,1,136,Rambo: First Blood Part II ,1985,40
+765,Paul,Giamatti,1,87,Planet of the Apes ,2001,22
+765,Paul,Giamatti,1,239,Big Momma's House ,2000,14
+974,Giancarlo,Giannini,1,112,Hannibal ,2001,24
+293,Mary,Gibbs,1,34,"Monsters, Inc. ",2001,24
+85,Mel,Gibson,1,48,Signs ,2002,15
+85,Mel,Gibson,1,81,What Women Want ,2000,8
+85,Mel,Gibson,1,140,Lethal Weapon 2 ,1989,24
+85,Mel,Gibson,1,146,Lethal Weapon 3 ,1992,33
+85,Mel,Gibson,1,151,Pocahontas ,1995,23
+85,Mel,Gibson,1,170,Ransom ,1996,26
+85,Mel,Gibson,1,190,Lethal Weapon 4 ,1998,18
+85,Mel,Gibson,1,256,The Patriot ,2000,19
+85,Mel,Gibson,1,286,Chicken Run ,2000,13
+85,Mel,Gibson,1,318,Maverick ,1994,9
+1640,Tyrese,Gibson,1,200,2 Fast 2 Furious ,2003,13
+677,Billy,Gilbert,1,76,Snow White and the Seven Dwarfs ,1937,12
+1260,Steven,Gilborn,1,148,Doctor Dolittle ,1998,23
+850,Terry,Gill,1,96,Crocodile Dundee ,1986,16
+1694,Jack,Gill,1,207,Erin Brockovich ,2000,13
+1024,Larry,Gilliard Jr.,1,118,The Waterboy ,1998,14
+83,Daniel,Gillies,1,9,Spider-Man 2 ,2004,10
+1914,Annabeth,Gish,1,242,Double Jeopardy ,1999,1
+1664,Jackie,Gleason,1,203,Smokey and the Bandit ,1977,13
+496,Brendan,Gleeson,1,55,Mission: Impossible II ,2000,20
+496,Brendan,Gleeson,1,180,Troy ,2004,26
+496,Brendan,Gleeson,1,253,The Village ,2004,46
+1524,Iain,Glen,1,184,Lara Croft: Tomb Raider ,2001,23
+1533,Scott,Glenn,1,185,The Silence of the Lambs ,1991,23
+1533,Scott,Glenn,1,224,The Hunt for Red October ,1990,36
+522,Crispin,Glover,1,58,Back to the Future ,1985,30
+522,Crispin,Glover,1,210,Charlie's Angels ,2000,23
+522,Crispin,Glover,1,329,Charlie's Angels: Full Throttle ,2003,20
+619,Julian,Glover,1,69,Indiana Jones and the Last Crusade ,1989,29
+619,Julian,Glover,1,180,Troy ,2004,26
+1189,Danny,Glover,1,140,Lethal Weapon 2 ,1989,24
+1189,Danny,Glover,1,146,Lethal Weapon 3 ,1992,33
+1189,Danny,Glover,1,190,Lethal Weapon 4 ,1998,18
+1189,Danny,Glover,1,323,The Prince of Egypt ,1998,31
+2187,John,Glover,1,284,Batman & Robin ,1997,22
+545,Adam,Godley,1,60,Charlie and the Chocolate Factory ,2005,5
+2074,Ray,Godshall Sr.,1,267,The Last Samurai ,2003,26
+221,Angela,Goethals,1,26,Home Alone ,1990,28
+1771,Walton,Goggins,1,221,The Bourne Identity ,2002,19
+462,Whoopi,Goldberg,1,52,Ghost ,1990,15
+462,Whoopi,Goldberg,1,161,Sister Act ,1992,30
+462,Whoopi,Goldberg,1,331,The Rugrats Movie ,1998,11
+484,Adam,Goldberg,1,54,Saving Private Ryan ,1998,12
+484,Adam,Goldberg,1,107,A Beautiful Mind ,2001,14
+484,Adam,Goldberg,1,295,How to Lose a Guy in 10 Days ,2003,29
+1063,Bill,Goldberg,1,123,The Longest Yard ,2005,14
+98,Jeff,Goldblum,1,11,Jurassic Park ,1993,20
+98,Jeff,Goldblum,1,20,Independence Day ,1996,20
+98,Jeff,Goldblum,1,47,The Lost World: Jurassic Park ,1997,35
+98,Jeff,Goldblum,1,323,The Prince of Egypt ,1998,31
+568,Jenette,Goldstein,1,63,Terminator 2: Judgment Day ,1991,11
+463,Tony,Goldwyn,1,52,Ghost ,1990,15
+463,Tony,Goldwyn,1,106,Tarzan ,1999,16
+463,Tony,Goldwyn,1,267,The Last Samurai ,2003,26
+463,Tony,Goldwyn,1,328,The Pelican Brief ,1993,26
+884,Valeria,Golino,1,101,Rain Man ,1988,36
+400,Rick,Gonzalez,1,45,War of the Worlds ,2005,13
+1817,Caroline,Goodall,1,229,Hook ,1991,22
+1817,Caroline,Goodall,1,280,The Princess Diaries ,2001,19
+611,Cuba,Gooding Jr.,1,68,Pearl Harbor ,2001,29
+611,Cuba,Gooding Jr.,1,132,Jerry Maguire ,1996,27
+611,Cuba,Gooding Jr.,1,139,As Good as It Gets ,1997,27
+291,John,Goodman,1,34,"Monsters, Inc. ",2001,24
+291,John,Goodman,1,187,The Flintstones ,1994,31
+977,Hazelle,Goodman,1,112,Hannibal ,2001,24
+1942,Henry,Goodman,1,245,Notting Hill ,1999,21
+1832,Ginnifer,Goodwin,1,231,Walk the Line ,2005,24
+1862,Al,Gore,1,234,Fahrenheit 9/11 ,2004,13
+1091,Eliott,Goretsky,1,127,What Lies Beneath ,2000,23
+1160,Voyo,Goric,1,136,Rambo: First Blood Part II ,1985,40
+1567,Louis,Gossett Jr.,1,189,An Officer and a Gentleman ,1982,6
+476,Gilbert,Gottfried,1,53,Aladdin ,1992,56
+284,Carl,Gottlieb,1,33,Jaws ,1975,17
+306,Michael,Gough,1,35,Batman ,1989,18
+306,Michael,Gough,1,78,Batman Forever ,1995,23
+306,Michael,Gough,1,116,Batman Returns ,1992,36
+306,Michael,Gough,1,284,Batman & Robin ,1997,22
+306,Michael,Gough,1,326,Sleepy Hollow ,1999,11
+115,Alexander,Gould,1,13,Finding Nemo ,2003,21
+712,Elliott,Gould,1,80,Ocean's Eleven ,2001,36
+1047,Harold,Gould,1,121,The Sting ,1973,25
+1047,Harold,Gould,1,269,Freaky Friday ,2003,22
+546,Heather,Graham,1,61,Austin Powers: The Spy Who Shagged Me ,1999,39
+1073,Kyle,Graham,1,125,Scary Movie ,2000,20
+2020,Lauren,Graham,1,257,The Pacifier ,2005,13
+331,Kelsey,Grammer,1,38,Toy Story 2 ,1999,42
+1777,Beth,Grant,1,222,Speed ,1994,36
+1936,Hugh,Grant,1,245,Notting Hill ,1999,21
+1363,Charles,Gray,1,160,The Rocky Horror Picture Show ,1975,6
+940,Jason,Gray-Stanford,1,107,A Beautiful Mind ,2001,14
+1651,Maria,Grazia Cucinotta,1,201,The World Is Not Enough ,1999,14
+512,Seth,Green,1,57,Austin Powers in Goldmember ,2002,21
+512,Seth,Green,1,61,Austin Powers: The Spy Who Shagged Me ,1999,39
+512,Seth,Green,1,293,The Italian Job ,2003,16
+682,Graham,Greene,1,77,Dances with Wolves ,1990,14
+682,Graham,Greene,1,169,The Green Mile ,1999,13
+682,Graham,Greene,1,318,Maverick ,1994,9
+682,Graham,Greene,1,341,Die Hard: With a Vengeance ,1995,32
+1810,Peter,Greene,1,228,The Mask ,1994,36
+1235,Bruce,Greenwood,1,145,"I, Robot ",2004,32
+1235,Bruce,Greenwood,1,242,Double Jeopardy ,1999,1
+721,Judy,Greer,1,81,What Women Want ,2000,8
+318,Jon,Gries,1,36,Men in Black ,1997,40
+1325,Bob,Griffin,1,156,The Blair Witch Project ,1999,28
+152,Richard,Griffiths,1,16,Harry Potter and the Sorcerer's Stone ,2001,15
+152,Richard,Griffiths,1,30,Harry Potter and the Chamber of Secrets ,2002,18
+152,Richard,Griffiths,1,37,Harry Potter and the Prisoner of Azkaban ,2004,22
+152,Richard,Griffiths,1,326,Sleepy Hollow ,1999,11
+1656,Rachel,Griffiths,1,202,My Best Friend's Wedding ,1997,41
+210,Rupert,Grint,1,25,Harry Potter and the Goblet of Fire ,2005,24
+210,Rupert,Grint,1,30,Harry Potter and the Chamber of Secrets ,2002,18
+1132,Steven,Grives,1,133,Scooby-Doo ,2002,26
+1228,Mary,Gross,1,144,The Santa Clause ,1994,14
+1097,Ioan,Gruffudd,1,129,Fantastic Four ,2005,7
+2352,Mark,Gruner,1,308,Jaws 2 ,1978,15
+566,Castulo,Guerra,1,63,Terminator 2: Judgment Day ,1991,11
+1305,Christopher,Guest,1,153,A Few Good Men ,1992,31
+1593,Cary,Guffey,1,193,Close Encounters of the Third Kind ,1977,27
+2033,Carla,Gugino,1,259,Spy Kids ,2001,7
+2033,Carla,Gugino,1,264,Spy Kids 3-D: Game Over ,2003,16
+895,Paul,Guilfoyle,1,102,Air Force One ,1997,31
+142,Robert,Guillaume,1,15,The Lion King ,1994,28
+17,Alec,Guinness,1,2,Star Wars ,1977,15
+17,Alec,Guinness,1,24,Star Wars: Episode V - The Empire Strikes Back ,1980,19
+17,Alec,Guinness,1,265,Doctor Zhivago ,1965,23
+845,David,Gulpilil,1,96,Crocodile Dundee ,1986,16
+726,Bob,Gunton,1,82,The Perfect Storm ,2000,31
+726,Bob,Gunton,1,175,Patch Adams ,1998,17
+726,Bob,Gunton,1,279,Ace Ventura: When Nature Calls ,1995,15
+953,Steve,Guttenberg,1,109,Three Men and a Baby ,1987,19
+1490,Luis,Guzmán,1,179,Anger Management ,2003,10
+1084,Fred,Gwynne,1,126,Fatal Attraction ,1987,31
+652,Jake,Gyllenhaal,1,74,The Day After Tomorrow ,2004,19
+748,William,H. Macy,1,85,Jurassic Park III ,2001,28
+748,William,H. Macy,1,102,Air Force One ,1997,31
+2116,Buddy,Hackett,1,272,The Little Mermaid ,1989,38
+1052,Gene,Hackman,1,122,The Firm ,1993,21
+1052,Gene,Hackman,1,177,Superman ,1978,26
+1052,Gene,Hackman,1,214,The Birdcage ,1996,22
+1052,Gene,Hackman,1,266,Enemy of the State ,1998,41
+1052,Gene,Hackman,1,281,Superman II ,1980,34
+1052,Gene,Hackman,1,324,Unforgiven ,1992,25
+2293,Thomas,Haden Church,1,299,George of the Jungle ,1997,22
+2263,Kathryn,Hahn,1,295,How to Lose a Guy in 10 Days ,2003,29
+1616,Yan,Hai,1,196,Wo hu cang long ,2000,12
+1346,Jacob,Haines,1,158,Look Who's Talking ,1989,27
+308,Jerry,Hall,1,35,Batman ,1989,18
+1602,Arsenio,Hall,1,195,Coming to America ,1988,36
+2222,William,Hall Jr.,1,290,Driving Miss Daisy ,1989,24
+1331,Jackie,Hallex,1,156,The Blair Witch Project ,1999,28
+13,Mark,Hamill,1,2,Star Wars ,1977,15
+13,Mark,Hamill,1,19,Star Wars: Episode VI - Return of the Jedi ,1983,6
+13,Mark,Hamill,1,24,Star Wars: Episode V - The Empire Strikes Back ,1980,19
+283,Murray,Hamilton,1,33,Jaws ,1975,17
+283,Murray,Hamilton,1,301,The Graduate ,1967,26
+283,Murray,Hamilton,1,308,Jaws 2 ,1978,15
+560,Linda,Hamilton,1,63,Terminator 2: Judgment Day ,1991,11
+1772,Josh,Hamilton,1,221,The Bourne Identity ,2002,19
+1081,Ellen,Hamilton Latzen,1,126,Fatal Attraction ,1987,31
+1433,Evan,Handler,1,170,Ransom ,1996,26
+448,Anne,Haney,1,50,Mrs. Doubtfire ,1993,27
+448,Anne,Haney,1,83,Liar Liar ,1997,39
+123,Tom,Hanks,1,14,Forrest Gump ,1994,27
+123,Tom,Hanks,1,38,Toy Story 2 ,1999,42
+123,Tom,Hanks,1,46,Cast Away ,2000,10
+123,Tom,Hanks,1,54,Saving Private Ryan ,1998,12
+123,Tom,Hanks,1,71,Toy Story ,1995,19
+123,Tom,Hanks,1,97,The Polar Express ,2004,18
+123,Tom,Hanks,1,103,Apollo 13 ,1995,4
+123,Tom,Hanks,1,113,Catch Me If You Can ,2002,22
+123,Tom,Hanks,1,169,The Green Mile ,1999,13
+123,Tom,Hanks,1,204,Sleepless in Seattle ,1993,29
+123,Tom,Hanks,1,247,You've Got Mail ,1998,8
+123,Tom,Hanks,1,251,Big ,1988,23
+123,Tom,Hanks,1,283,A League of Their Own ,1992,22
+123,Tom,Hanks,1,304,Road to Perdition ,2002,26
+453,Colin,Hanks,1,51,King Kong ,2005,10
+583,John,Hannah,1,65,The Mummy Returns ,2001,24
+583,John,Hannah,1,128,The Mummy ,1999,18
+2518,Adam,Hann-Byrd,1,337,Jumanji ,1995,27
+1216,Alyson,Hannigan,1,143,American Pie 2 ,2001,24
+1216,Alyson,Hannigan,1,302,American Wedding ,2003,34
+1216,Alyson,Hannigan,1,316,American Pie ,1999,18
+2075,Masato,Harada,1,267,The Last Samurai ,2003,26
+2152,Tom,Hardy,1,277,Black Hawk Down ,2001,16
+678,Otis,Harlan,1,76,Snow White and the Seven Dwarfs ,1937,12
+2267,Shalom,Harlow,1,295,How to Lose a Guy in 10 Days ,2003,29
+2080,Angie,Harmon,1,268,Fun with Dick and Jane ,2005,5
+2088,Mark,Harmon,1,269,Freaky Friday ,2003,22
+2213,Woody,Harrelson,1,289,Indecent Proposal ,1993,23
+60,Rosemary,Harris,1,6,Spider-Man ,2002,23
+60,Rosemary,Harris,1,9,Spider-Man 2 ,2004,10
+145,Richard,Harris,1,16,Harry Potter and the Sorcerer's Stone ,2001,15
+145,Richard,Harris,1,73,Gladiator ,2000,16
+145,Richard,Harris,1,324,Unforgiven ,1992,25
+900,Ed,Harris,1,103,Apollo 13 ,1995,4
+900,Ed,Harris,1,107,A Beautiful Mind ,2001,14
+900,Ed,Harris,1,122,The Firm ,1993,21
+900,Ed,Harris,1,178,The Rock ,1996,14
+1019,Jonathan,Harris,1,117,A Bug's Life ,1998,22
+1166,Moira,Harris,1,137,Terminator 3: Rise of the Machines ,2003,11
+1272,Phil,Harris,1,150,The Jungle Book ,1967,30
+1515,Steve,Harris,1,183,Minority Report ,2002,11
+1676,Jared,Harris,1,205,Mr. Deeds ,2002,15
+1961,Wood,Harris,1,248,Remember the Titans ,2000,33
+154,Ian,Hart,1,16,Harry Potter and the Sorcerer's Stone ,2001,15
+154,Ian,Hart,1,266,Enemy of the State ,1998,41
+2014,Christopher,Hart,1,255,The Addams Family ,1991,18
+2154,Lisa,Hart Carroll,1,278,Terms of Endearment ,1983,14
+852,Leslie,Harter Zemeckis,1,97,The Polar Express ,2004,18
+609,Josh,Hartnett,1,68,Pearl Harbor ,2001,29
+609,Josh,Hartnett,1,277,Black Hawk Down ,2001,16
+1703,Teri,Hatcher,1,209,Tomorrow Never Dies ,1997,26
+1703,Teri,Hatcher,1,259,Spy Kids ,2001,7
+2166,Anne,Hathaway,1,280,The Princess Diaries ,2001,19
+556,Rutger,Hauer,1,62,Batman Begins ,2005,19
+1402,Cole,Hauser,1,166,Good Will Hunting ,1997,16
+1402,Cole,Hauser,1,200,2 Fast 2 Furious ,2003,13
+2221,Joann,Havrilla,1,290,Driving Miss Daisy ,1989,24
+729,John,Hawkes,1,82,The Perfect Storm ,2000,31
+2282,Goldie,Hawn,1,297,The First Wives Club ,1996,16
+931,Nigel,Hawthorne,1,106,Tarzan ,1999,16
+1473,Sterling,Hayden,1,176,The Godfather ,1972,17
+1473,Sterling,Hayden,1,306,Nine to Five ,1980,29
+998,Richard,Haydn,1,115,The Sound of Music ,1965,10
+2001,Salma,Hayek,1,254,Wild Wild West ,1999,21
+2001,Salma,Hayek,1,264,Spy Kids 3-D: Game Over ,2003,16
+2482,Helen,Hayes,1,332,Airport ,1970,14
+2488,Sean,Hayes,1,333,The Cat in the Hat ,2003,20
+2197,Tony,Haygarth,1,286,Chicken Run ,2000,13
+1605,Shari,Headley,1,195,Coming to America ,1988,36
+1534,Anthony,Heald,1,185,The Silence of the Lambs ,1991,23
+218,John,Heard,1,26,Home Alone ,1990,28
+218,John,Heard,1,98,Home Alone 2: Lost in New York ,1992,33
+218,John,Heard,1,251,Big ,1988,23
+218,John,Heard,1,328,The Pelican Brief ,1993,26
+2011,Dan,Hedaya,1,255,The Addams Family ,1991,18
+2011,Dan,Hedaya,1,297,The First Wives Club ,1996,16
+2011,Dan,Hedaya,1,318,Maverick ,1994,9
+1048,John,Heffernan,1,121,The Sting ,1973,25
+2483,Van,Heflin,1,332,Airport ,1970,14
+1212,Susan,Hegarty,1,142,Lilo & Stitch ,2002,21
+1580,Martin,Henderson,1,192,The Ring ,2002,16
+194,Georgie,Henley,1,23,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe ",2005,28
+932,Lance,Henriksen,1,106,Tarzan ,1999,16
+325,Lenny,Henry,1,37,Harry Potter and the Prisoner of Azkaban ,2004,22
+1661,Mike,Henry,1,203,Smokey and the Bandit ,1977,13
+2236,Justin,Henry,1,292,Kramer vs. Kramer ,1979,10
+2308,Buck,Henry,1,301,The Graduate ,1967,26
+1805,Shuler,Hensley,1,227,Van Helsing ,2004,13
+1847,Katharine,Hepburn,1,233,On Golden Pond ,1981,24
+689,Jimmy,Herman,1,77,Dances with Wolves ,1990,14
+2272,Mark,Herrier,1,296,Porky's ,1982,9
+1202,Grant,Heslov,1,141,True Lies ,1994,26
+1202,Grant,Heslov,1,214,The Birdcage ,1996,22
+578,Barton,Heyman,1,64,The Exorcist ,1973,5
+2128,Catherine,Hicks,1,273,Star Trek IV: The Voyage Home ,1986,29
+2332,Chuck,Hicks,1,305,Dick Tracy ,1990,22
+352,Anthony,Higgins,1,40,Raiders of the Lost Ark ,1981,23
+538,Freddie,Highmore,1,60,Charlie and the Chocolate Factory ,2005,5
+9,Bernard,Hill,1,1,Titanic ,1997,32
+1780,Amy,Hill,1,223,50 First Dates ,2004,29
+1780,Amy,Hill,1,333,The Cat in the Hat ,2003,20
+1828,John,Hillerman,1,230,Blazing Saddles ,1974,31
+1837,Tyler,Hilton,1,231,Walk the Line ,2005,24
+2324,Ciarán,Hinds,1,304,Road to Perdition ,2002,26
+1243,Damon,Hines,1,146,Lethal Weapon 3 ,1992,33
+305,Pat,Hingle,1,35,Batman ,1989,18
+305,Pat,Hingle,1,78,Batman Forever ,1995,23
+305,Pat,Hingle,1,116,Batman Returns ,1992,36
+305,Pat,Hingle,1,284,Batman & Robin ,1997,22
+1361,Peter,Hinwood,1,160,The Rocky Horror Picture Show ,1975,6
+166,Judd,Hirsch,1,20,Independence Day ,1996,20
+166,Judd,Hirsch,1,107,A Beautiful Mind ,2001,14
+1112,Lou,Hirsch,1,130,Who Framed Roger Rabbit ,1988,33
+1453,Judith,Hoag,1,174,Teenage Mutant Ninja Turtles ,1990,32
+2321,Tyler,Hoechlin,1,304,Road to Perdition ,2002,26
+240,Dustin,Hoffman,1,28,Meet the Fockers ,2004,26
+240,Dustin,Hoffman,1,91,Tootsie ,1982,31
+240,Dustin,Hoffman,1,101,Rain Man ,1988,36
+240,Dustin,Hoffman,1,229,Hook ,1991,22
+240,Dustin,Hoffman,1,292,Kramer vs. Kramer ,1979,10
+240,Dustin,Hoffman,1,301,The Graduate ,1967,26
+1867,Kara,Hoffman,1,235,Lemony Snicket's A Series of Unfortunate Events ,2004,24
+1868,Shelby,Hoffman,1,235,Lemony Snicket's A Series of Unfortunate Events ,2004,24
+1671,Gaby,Hoffmann,1,204,Sleepless in Seattle ,1993,29
+842,Paul,Hogan,1,96,Crocodile Dundee ,1986,16
+842,Paul,Hogan,1,274,Crocodile' Dundee II ,1988,30
+1239,Fiona,Hogan,1,145,"I, Robot ",2004,32
+1747,Hulk,Hogan,1,217,Rocky III ,1982,34
+1053,Hal,Holbrook,1,122,The Firm ,1993,21
+1103,Laurie,Holden,1,129,Fantastic Four ,2005,7
+1947,William,Holden,1,246,The Towering Inferno ,1974,17
+443,Polly,Holliday,1,50,Mrs. Doubtfire ,1993,27
+1276,Sterling,Holloway,1,150,The Jungle Book ,1967,30
+718,Lauren,Holly,1,81,What Women Want ,2000,8
+718,Lauren,Holly,1,199,Dumb & Dumber ,1994,20
+2373,Ian,Holm,1,311,The Aviator ,2004,18
+552,Katie,Holmes,1,62,Batman Begins ,2005,19
+1791,James,Hong,1,225,Mulan ,1998,24
+2026,Kegan,Hoover,1,257,The Pacifier ,2005,13
+971,Anthony,Hopkins,1,112,Hannibal ,2001,24
+971,Anthony,Hopkins,1,185,The Silence of the Lambs ,1991,23
+1982,Bo,Hopkins,1,250,American Graffiti ,1973,14
+1773,Dennis,Hopper,1,222,Speed ,1994,36
+2198,Jane,Horrocks,1,286,Chicken Run ,2000,13
+1106,Bob,Hoskins,1,130,Who Framed Roger Rabbit ,1988,33
+1106,Bob,Hoskins,1,229,Hook ,1991,22
+647,Djimon,Hounsou,1,73,Gladiator ,2000,16
+1757,Whitney,Houston,1,219,The Bodyguard ,1992,27
+155,Alan,Howard,1,17,The Lord of the Rings: The Fellowship of the Ring ,2001,21
+268,Ron,Howard,1,250,American Graffiti ,1973,14
+275,Clint,Howard,1,32,How the Grinch Stole Christmas ,2000,27
+275,Clint,Howard,1,150,The Jungle Book ,1967,30
+416,Arliss,Howard,1,47,The Lost World: Jurassic Park ,1997,35
+601,Leslie,Howard,1,67,Gone with the Wind ,1939,28
+1482,Trevor,Howard,1,177,Superman ,1978,26
+1889,Terrence,Howard,1,239,Big Momma's House ,2000,14
+983,Brian,Howe,1,113,Catch Me If You Can ,2002,22
+1317,Julia,Hsu,1,155,Rush Hour ,1998,27
+1825,David,Huddleston,1,230,Blazing Saddles ,1974,31
+382,Ernie,Hudson,1,43,Ghost Busters ,1984,13
+382,Ernie,Hudson,1,260,Ghostbusters II ,1989,26
+382,Ernie,Hudson,1,285,Miss Congeniality ,2000,21
+1926,Larry,Hudson,1,243,8 Mile ,2002,27
+2093,Haley,Hudson,1,269,Freaky Friday ,2003,22
+2262,Kate,Hudson,1,295,How to Lose a Guy in 10 Days ,2003,29
+904,Miko,Hughes,1,103,Apollo 13 ,1995,4
+2388,Sally,Hughes,1,313,In the Line of Fire ,1993,8
+1294,Tom,Hulce,1,152,Animal House ,1978,32
+1294,Tom,Hulce,1,339,The Hunchback of Notre Dame ,1996,13
+1294,Tom,Hulce,1,340,Parenthood ,1989,35
+355,Helen,Hunt,1,41,Twister ,1996,36
+355,Helen,Hunt,1,81,What Women Want ,2000,8
+355,Helen,Hunt,1,139,As Good as It Gets ,1997,27
+890,Bonnie,Hunt,1,101,Rain Man ,1988,36
+890,Bonnie,Hunt,1,132,Jerry Maguire ,1996,27
+890,Bonnie,Hunt,1,164,Cheaper by the Dozen ,2003,24
+890,Bonnie,Hunt,1,169,The Green Mile ,1999,13
+890,Bonnie,Hunt,1,337,Jumanji ,1995,27
+1286,Linda,Hunt,1,151,Pocahontas ,1995,23
+1974,Will,Hunt,1,249,"The Karate Kid, Part II ",1986,18
+260,Holly,Hunter,1,31,The Incredibles ,2004,21
+260,Holly,Hunter,1,122,The Firm ,1993,21
+668,Rachael,Huntley,1,75,Mr. & Mrs. Smith ,2005,7
+548,Elizabeth,Hurley,1,61,Austin Powers: The Spy Who Shagged Me ,1999,39
+1962,Ryan,Hurst,1,248,Remember the Titans ,2000,33
+1996,William,Hurt,1,253,The Village ,2004,46
+2006,Anjelica,Huston,1,255,The Addams Family ,1991,18
+2374,Danny,Huston,1,311,The Aviator ,2004,18
+1427,Doug,Hutchison,1,169,The Green Mile ,1999,13
+2367,Timothy,Hutton,1,310,The General's Daughter ,1999,3
+1093,Jonathan,Hyde,1,128,The Mummy ,1999,18
+1093,Jonathan,Hyde,1,337,Jumanji ,1995,27
+1018,David,Hyde Pierce,1,117,A Bug's Life ,1998,22
+785,Alex,Hyde-White,1,89,Pretty Woman ,1990,15
+1218,Thomas,Ian Nicholas,1,143,American Pie 2 ,2001,24
+1218,Thomas,Ian Nicholas,1,302,American Wedding ,2003,34
+1218,Thomas,Ian Nicholas,1,316,American Pie ,1999,18
+2501,Eric,Idle,1,335,Casper ,1995,27
+1938,Rhys,Ifans,1,245,Notting Hill ,1999,21
+1033,Michael,Imperioli,1,119,Shark Tale ,2004,26
+324,Lee,Ingleby,1,37,Harry Potter and the Prisoner of Azkaban ,2004,22
+1337,Laura,Innes,1,157,Deep Impact ,1998,28
+137,Jeremy,Irons,1,15,The Lion King ,1994,28
+137,Jeremy,Irons,1,341,Die Hard: With a Vengeance ,1995,32
+812,Michael,Ironside,1,92,Top Gun ,1986,34
+812,Michael,Ironside,1,232,Total Recall ,1990,24
+1061,Michael,Irvin,1,123,The Longest Yard ,2005,14
+273,Bill,Irwin,1,32,How the Grinch Stole Christmas ,2000,27
+2016,Jason,Isaacs,1,256,The Patriot ,2000,19
+2016,Jason,Isaacs,1,277,Black Hawk Down ,2001,16
+2102,Ryo,Ishibashi,1,270,The Grudge ,2004,31
+763,Marcel,Iures,1,86,Mission: Impossible ,1996,29
+976,Zeljko,Ivanek,1,112,Hannibal ,2001,24
+1503,Kimberly,J. Brown,1,181,Bringing Down the House ,2003,25
+573,Lee,J. Cobb,1,64,The Exorcist ,1973,5
+519,Michael,J. Fox,1,58,Back to the Future ,1985,30
+519,Michael,J. Fox,1,159,Stuart Little ,1999,24
+519,Michael,J. Fox,1,236,Back to the Future Part II ,1989,22
+465,Christopher,J. Keene,1,52,Ghost ,1990,15
+1591,Warren,J. Kemmerling,1,193,Close Encounters of the Third Kind ,1977,27
+1092,Kevin,J. O'Connor,1,128,The Mummy ,1999,18
+1092,Kevin,J. O'Connor,1,227,Van Helsing ,2004,13
+1981,Wolfman,Jack,1,250,American Graffiti ,1973,14
+502,Hugh,Jackman,1,56,X2 ,2003,26
+502,Hugh,Jackman,1,124,X-Men ,2000,27
+502,Hugh,Jackman,1,227,Van Helsing ,2004,13
+1740,Janet,Jackson,1,216,Nutty Professor II: The Klumps ,2000,32
+646,Derek,Jacobi,1,73,Gladiator ,2000,16
+2083,Carlos,Jacott,1,268,Fun with Dick and Jane ,2005,5
+1698,Anne,Jacques,1,208,Ocean's Twelve ,2004,30
+1311,Petr,Jákl,1,154,xXx ,2002,23
+444,Lisa,Jakub,1,50,Mrs. Doubtfire ,1993,27
+792,Kevin,James,1,90,Hitch ,2005,17
+1778,Hawthorne,James,1,222,Speed ,1994,36
+2175,Clifton,James,1,281,Superman II ,1980,34
+117,Allison,Janney,1,13,Finding Nemo ,2003,21
+117,Allison,Janney,1,188,American Beauty ,1999,23
+505,Famke,Janssen,1,56,X2 ,2003,26
+505,Famke,Janssen,1,124,X-Men ,2000,27
+505,Famke,Janssen,1,288,GoldenEye ,1995,23
+419,Harvey,Jason,1,47,The Lost World: Jurassic Park ,1997,35
+2323,Jennifer,Jason Leigh,1,304,Road to Perdition ,2002,26
+858,Jimmy,Jax' Pinchak,1,97,The Polar Express ,2004,18
+1704,Ricky,Jay,1,209,Tomorrow Never Dies ,1997,26
+2528,Tony,Jay,1,339,The Hunchback of Notre Dame ,1996,13
+344,Eddie,Jemison,1,39,Bruce Almighty ,2003,15
+1811,Richard,Jeni,1,228,The Mask ,1994,36
+1877,Ken,Jenkins,1,237,The Sum of All Fears ,2002,12
+2079,Richard,Jenkins,1,268,Fun with Dick and Jane ,2005,5
+889,Lucinda,Jenney,1,101,Rain Man ,1988,36
+2258,Roy,Jenson,1,294,Every Which Way But Loose ,1978,13
+2283,Sarah,Jessica Parker,1,297,The First Wives Club ,1996,16
+752,Michael,Jeter,1,85,Jurassic Park III ,2001,28
+752,Michael,Jeter,1,169,The Green Mile ,1999,13
+88,Hristo,Jivkov,1,10,The Passion of the Christ ,2004,9
+526,Wendie,Jo Sperber,1,58,Back to the Future ,1985,30
+185,Haley,Joel Osment,1,22,The Sixth Sense ,1999,25
+2212,Gottfried,John,1,288,GoldenEye ,1995,23
+984,Frank,John Hughes,1,113,Catch Me If You Can ,2002,22
+1834,Dan,John Miller,1,231,Walk the Line ,2005,24
+2396,Glynis,Johns,1,315,Mary Poppins ,1964,33
+716,Ashley,Johnson,1,81,What Women Want ,2000,8
+1414,Reggie,Johnson,1,167,Platoon ,1986,16
+1526,Richard,Johnson,1,184,Lara Croft: Tomb Raider ,2001,23
+1972,Garth,Johnson,1,249,"The Karate Kid, Part II ",1986,18
+1973,Brett,Johnson,1,249,"The Karate Kid, Part II ",1986,18
+1842,Mel,Johnson Jr.,1,232,Total Recall ,1990,24
+663,Angelina,Jolie,1,75,Mr. & Mrs. Smith ,2005,7
+663,Angelina,Jolie,1,119,Shark Tale ,2004,26
+663,Angelina,Jolie,1,184,Lara Croft: Tomb Raider ,2001,23
+663,Angelina,Jolie,1,317,Gone in Sixty Seconds ,2000,32
+255,Toby,Jones,1,30,Harry Potter and the Chamber of Secrets ,2002,18
+424,Cherry,Jones,1,48,Signs ,2002,15
+424,Cherry,Jones,1,253,The Village ,2004,46
+1493,January,Jones,1,179,Anger Management ,2003,10
+1493,January,Jones,1,302,American Wedding ,2003,34
+1496,Nathan,Jones,1,180,Troy ,2004,26
+1921,Evan,Jones,1,243,8 Mile ,2002,27
+1952,Jennifer,Jones,1,246,The Towering Inferno ,1974,17
+2338,Henry,Jones,1,306,Nine to Five ,1980,29
+2338,Henry,Jones,1,314,Butch Cassidy and the Sundance Kid ,1969,27
+2448,Jeffrey,Jones,1,326,Sleepy Hollow ,1999,11
+1783,Richard,Jordan,1,224,The Hunt for Red October ,1990,36
+1909,Ashley,Judd,1,242,Double Jeopardy ,1999,1
+2058,Mike,Judge,1,264,Spy Kids 3-D: Game Over ,2003,16
+2007,Raul,Julia,1,255,The Addams Family ,1991,18
+1371,Tanveer,K. Atwal,1,162,The Matrix Revolutions ,2003,27
+778,Chua,Kah Joo,1,88,Indiana Jones and the Temple of Doom ,1984,24
+1195,Steve,Kahan,1,140,Lethal Weapon 2 ,1989,24
+1195,Steve,Kahan,1,146,Lethal Weapon 3 ,1992,33
+1195,Steve,Kahan,1,190,Lethal Weapon 4 ,1998,18
+351,Wolf,Kahler,1,40,Raiders of the Lost Ark ,1981,23
+370,John,Kalangis,1,42,My Big Fat Greek Wedding ,2002,16
+425,Patricia,Kalember,1,48,Signs ,2002,15
+2529,Paul,Kandel,1,339,The Hunchback of Notre Dame ,1996,13
+479,Brad,Kane,1,53,Aladdin ,1992,56
+2025,Carol,Kane,1,257,The Pacifier ,2005,13
+1827,Alex,Karras,1,230,Blazing Saddles ,1974,31
+1827,Alex,Karras,1,296,Porky's ,1982,9
+2017,Tchéky,Karyo,1,256,The Patriot ,2000,19
+2017,Tchéky,Karyo,1,288,GoldenEye ,1995,23
+1284,John,Kassir,1,151,Pocahontas ,1995,23
+902,Mary,Kate Schellhardt,1,103,Apollo 13 ,1995,4
+698,Andreas,Katsulas,1,79,The Fugitive ,1993,16
+2317,Jonathan,Katz,1,303,Daddy Day Care ,2003,38
+1629,Mary,Kay Place,1,198,Sweet Home Alabama ,2002,30
+1109,Stubby,Kaye,1,130,Who Framed Roger Rabbit ,1988,33
+1223,Eddie,Kaye Thomas,1,143,American Pie 2 ,2001,24
+1223,Eddie,Kaye Thomas,1,302,American Wedding ,2003,34
+1223,Eddie,Kaye Thomas,1,316,American Pie ,1999,18
+371,Lainie,Kazan,1,42,My Big Fat Greek Wedding ,2002,16
+771,Jonathan,Ke Quan,1,88,Indiana Jones and the Temple of Doom ,1984,24
+1800,James,Keane,1,226,Seabiscuit ,2003,33
+302,Michael,Keaton,1,35,Batman ,1989,18
+302,Michael,Keaton,1,116,Batman Returns ,1992,36
+1477,Diane,Keaton,1,176,The Godfather ,1972,17
+1477,Diane,Keaton,1,211,Something's Gotta Give ,2003,34
+1477,Diane,Keaton,1,297,The First Wives Club ,1996,16
+2139,Catherine,Keener,1,275,The 40 Year Old Virgin ,2005,13
+640,Jack,Kehler,1,72,Men in Black II ,2002,27
+1050,Jack,Kehoe,1,121,The Sting ,1973,25
+878,Harvey,Keitel,1,100,National Treasure ,2004,20
+878,Harvey,Keitel,1,161,Sister Act ,1992,30
+1565,David,Keith,1,189,An Officer and a Gentleman ,1982,6
+2122,DeForest,Kelley,1,273,Star Trek IV: The Voyage Home ,1986,29
+131,George,Kelly,1,14,Forrest Gump ,1994,27
+138,Moira,Kelly,1,15,The Lion King ,1994,28
+539,David,Kelly,1,60,Charlie and the Chocolate Factory ,2005,5
+1758,Gary,Kemp,1,219,The Bodyguard ,1992,27
+1807,Will,Kemp,1,227,Van Helsing ,2004,13
+2347,Jamie,Kennedy,1,307,Scream ,1996,17
+2347,Jamie,Kennedy,1,321,Scream 2 ,1997,38
+2481,George,Kennedy,1,332,Airport ,1970,14
+1192,Patsy,Kensit,1,140,Lethal Weapon 2 ,1989,24
+1510,Paul,Kersey,1,182,Hulk ,2003,5
+2523,Andrew,Kevin Walker,1,338,Se7en ,1995,34
+605,Evelyn,Keyes,1,67,Gone with the Wind ,1939,28
+1554,Irwin,Keyes,1,187,The Flintstones ,1994,31
+195,Skandar,Keynes,1,23,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe ",2005,28
+1483,Margot,Kidder,1,177,Superman ,1978,26
+1483,Margot,Kidder,1,281,Superman II ,1980,34
+692,Nicole,Kidman,1,78,Batman Forever ,1995,23
+2320,Laura,Kightlinger,1,303,Daddy Day Care ,2003,38
+2301,Richard,Kiley,1,300,Phenomenon ,1996,26
+691,Val,Kilmer,1,78,Batman Forever ,1995,23
+691,Val,Kilmer,1,92,Top Gun ,1986,34
+691,Val,Kilmer,1,323,The Prince of Egypt ,1998,31
+1517,Patrick,Kilpatrick,1,183,Minority Report ,2002,11
+2530,Charles,Kimbrough,1,339,The Hunchback of Notre Dame ,1996,13
+1017,Richard,Kind,1,117,A Bug's Life ,1998,22
+436,Alan,King,1,49,Rush Hour 2 ,2001,19
+856,Brendan,King,1,97,The Polar Express ,2004,18
+1123,Regina,King,1,132,Jerry Maguire ,1996,27
+1123,Regina,King,1,266,Enemy of the State ,1998,41
+1123,Regina,King,1,303,Daddy Day Care ,2003,38
+1326,Jim,King,1,156,The Blair Witch Project ,1999,28
+1943,Lorelei,King,1,245,Notting Hill ,1999,21
+2155,Betty,King,1,278,Terms of Endearment ,1983,14
+1181,Greg,Kinnear,1,139,As Good as It Gets ,1997,27
+1181,Greg,Kinnear,1,247,You've Got Mail ,1998,8
+1054,Terry,Kinney,1,122,The Firm ,1993,21
+1352,Bruno,Kirby,1,159,Stuart Little ,1999,24
+1352,Bruno,Kirby,1,213,City Slickers ,1991,21
+1352,Bruno,Kirby,1,215,"Good Morning, Vietnam ",1987,39
+1964,Craig,Kirkwood,1,248,Remember the Titans ,2000,33
+468,Rick,Kleber,1,52,Ghost ,1990,15
+1217,Chris,Klein,1,143,American Pie 2 ,2001,24
+1217,Chris,Klein,1,316,American Pie ,1999,18
+2268,Robert,Klein,1,295,How to Lose a Guy in 10 Days ,2003,29
+2111,Elaine,Klimaszewski,1,271,Scary Movie 3 ,2003,22
+1999,Kevin,Kline,1,254,Wild Wild West ,1999,21
+1999,Kevin,Kline,1,339,The Hunchback of Notre Dame ,1996,13
+335,Wayne,Knight,1,38,Toy Story 2 ,1999,42
+335,Wayne,Knight,1,106,Tarzan ,1999,16
+335,Wayne,Knight,1,238,Basic Instinct ,1992,33
+1183,Shirley,Knight,1,139,As Good as It Gets ,1997,27
+2273,Wyatt,Knight,1,296,Porky's ,1982,9
+176,Keira,Knightley,1,21,Pirates of the Caribbean: The Curse of the Black Pearl ,2003,21
+632,Christopher,Knights,1,70,Madagascar ,2005,27
+1450,Don,Knotts,1,173,Chicken Little ,2005,19
+511,Beyoncé,Knowles,1,57,Austin Powers in Goldmember ,2002,21
+637,Johnny,Knoxville,1,72,Men in Black II ,2002,27
+2125,Walter,Koenig,1,273,Star Trek IV: The Voyage Home ,1986,29
+1818,Charlie,Korsmo,1,229,Hook ,1991,22
+1818,Charlie,Korsmo,1,305,Dick Tracy ,1990,22
+1454,Elias,Koteas,1,174,Teenage Mutant Ninja Turtles ,1990,32
+1156,Martin,Kove,1,136,Rambo: First Blood Part II ,1985,40
+1156,Martin,Kove,1,249,"The Karate Kid, Part II ",1986,18
+2077,John,Koyama,1,267,The Last Samurai ,2003,26
+843,Linda,Kozlowski,1,96,Crocodile Dundee ,1986,16
+843,Linda,Kozlowski,1,274,Crocodile' Dundee II ,1988,30
+699,Jeroen,Krabbé,1,79,The Fugitive ,1993,16
+285,Jeffrey,Kramer,1,33,Jaws ,1975,17
+285,Jeffrey,Kramer,1,308,Jaws 2 ,1978,15
+1685,Peter,Krause,1,206,The Truman Show ,1998,14
+452,Thomas,Kretschmann,1,51,King Kong ,2005,10
+768,Kris,Kristofferson,1,87,Planet of the Apes ,2001,22
+1696,Ed,Kross,1,208,Ocean's Twelve ,2004,30
+876,Diane,Kruger,1,100,National Treasure ,2004,20
+876,Diane,Kruger,1,180,Troy ,2004,26
+1226,David,Krumholtz,1,144,The Santa Clause ,1994,14
+1226,David,Krumholtz,1,163,The Santa Clause 2 ,2002,26
+1076,Karen,Kruper,1,125,Scary Movie ,2000,20
+2203,Lisa,Kudrow,1,287,Analyze This ,1999,20
+1283,Judy,Kuhn,1,151,Pocahontas ,1995,23
+1468,Daniella,Kuhn,1,175,Patch Adams ,1998,17
+734,Swoosie,Kurtz,1,83,Liar Liar ,1997,39
+66,Samuel,L. Jackson,1,7,Star Wars: Episode III - Revenge of the Sith ,2005,15
+66,Samuel,L. Jackson,1,11,Jurassic Park ,1993,20
+66,Samuel,L. Jackson,1,18,Star Wars: Episode II - Attack of the Clones ,2002,23
+66,Samuel,L. Jackson,1,31,The Incredibles ,2004,21
+66,Samuel,L. Jackson,1,154,xXx ,2002,23
+66,Samuel,L. Jackson,1,244,S.W.A.T. ,2003,21
+66,Samuel,L. Jackson,1,276,A Time to Kill ,1996,17
+66,Samuel,L. Jackson,1,282,Pulp Fiction ,1994,35
+66,Samuel,L. Jackson,1,341,Die Hard: With a Vengeance ,1995,32
+706,Paul,L. Nolan,1,80,Ocean's Eleven ,2001,36
+2411,Paul,L. Smith,1,318,Maverick ,1994,9
+1547,Mark,L. Taylor,1,186,"Honey, I Shrunk the Kids ",1989,17
+2429,Vanessa,L. Williams,1,322,Eraser ,1996,30
+1607,Eriq,La Salle,1,195,Coming to America ,1988,36
+679,Lucille,La Verne,1,76,Snow White and the Seven Dwarfs ,1937,12
+2461,Shia,LaBeouf,1,329,Charlie's Angels: Full Throttle ,2003,20
+348,Ronald,Lacey,1,40,Raiders of the Lost Ark ,1981,23
+1383,Art,LaFleur,1,163,The Santa Clause 2 ,2002,26
+1761,Michele,Lamar Richards,1,219,The Bodyguard ,1992,27
+2178,Phil,LaMarr,1,282,Pulp Fiction ,1994,35
+2477,Burt,Lancaster,1,332,Airport ,1970,14
+2401,Elsa,Lanchester,1,315,Mary Poppins ,1964,33
+141,Nathan,Lane,1,15,The Lion King ,1994,28
+141,Nathan,Lane,1,159,Stuart Little ,1999,24
+141,Nathan,Lane,1,214,The Birdcage ,1996,22
+724,Diane,Lane,1,82,The Perfect Storm ,2000,31
+801,Jessica,Lange,1,91,Tootsie ,1982,31
+920,Angela,Lansbury,1,105,Beauty and the Beast ,1991,24
+1851,William,Lanteau,1,233,On Golden Pond ,1981,24
+473,Linda,Larkin,1,53,Aladdin ,1992,56
+1500,Queen,Latifah,1,181,Bringing Down the House ,2003,25
+988,Joey,Lauren Adams,1,114,Big Daddy ,1999,24
+1347,Hugh,Laurie,1,159,Stuart Little ,1999,24
+1347,Hugh,Laurie,1,171,101 Dalmatians ,1996,15
+1869,Jude,Law,1,235,Lemony Snicket's A Series of Unfortunate Events ,2004,24
+1869,Jude,Law,1,311,The Aviator ,2004,18
+1168,Christopher,Lawford,1,137,Terminator 3: Rise of the Machines ,2003,11
+445,Matthew,Lawrence,1,50,Mrs. Doubtfire ,1993,27
+464,Stanley,Lawrence,1,52,Ghost ,1990,15
+1393,Martin,Lawrence,1,165,Bad Boys II ,2003,19
+1393,Martin,Lawrence,1,239,Big Momma's House ,2000,14
+2415,Elizabeth,Lawrence,1,319,Sleeping with the Enemy ,1991,16
+1537,Paul,Lazar,1,185,The Silence of the Lambs ,1991,23
+1976,Paul,Le Mat,1,250,American Graffiti ,1973,14
+2391,Cloris,Leachman,1,314,Butch Cassidy and the Sundance Kid ,1969,27
+828,Denis,Leary,1,94,Ice Age ,2002,22
+828,Denis,Leary,1,117,A Bug's Life ,1998,22
+2015,Heath,Ledger,1,256,The Patriot ,2000,19
+68,Christopher,Lee,1,7,Star Wars: Episode III - Revenge of the Sith ,2005,15
+68,Christopher,Lee,1,18,Star Wars: Episode II - Attack of the Clones ,2002,23
+68,Christopher,Lee,1,60,Charlie and the Chocolate Factory ,2005,5
+68,Christopher,Lee,1,326,Sleepy Hollow ,1999,11
+261,Jason,Lee,1,31,The Incredibles ,2004,21
+261,Jason,Lee,1,330,Vanilla Sky ,2001,5
+795,Robinne,Lee,1,90,Hitch ,2005,17
+1000,Anna,Lee,1,115,The Sound of Music ,1965,10
+417,Vanessa,Lee Chester,1,47,The Lost World: Jurassic Park ,1997,35
+1197,Jamie,Lee Curtis,1,141,True Lies ,1994,26
+1197,Jamie,Lee Curtis,1,269,Freaky Friday ,2003,22
+2522,R.,Lee Ermey,1,338,Se7en ,1995,34
+796,Nathan,Lee Graham,1,90,Hitch ,2005,17
+311,Tommy,Lee Jones,1,36,Men in Black ,1997,40
+311,Tommy,Lee Jones,1,72,Men in Black II ,2002,27
+311,Tommy,Lee Jones,1,78,Batman Forever ,1995,23
+311,Tommy,Lee Jones,1,79,The Fugitive ,1993,16
+311,Tommy,Lee Jones,1,242,Double Jeopardy ,1999,1
+311,Tommy,Lee Jones,1,291,Love Story ,1970,33
+528,Frances,Lee McCain,1,58,Back to the Future ,1985,30
+528,Frances,Lee McCain,1,175,Patch Adams ,1998,17
+614,William,Lee Scott,1,68,Pearl Harbor ,2001,29
+614,William,Lee Scott,1,317,Gone in Sixty Seconds ,2000,32
+827,John,Leguizamo,1,94,Ice Age ,2002,22
+600,Vivien,Leigh,1,67,Gone with the Wind ,1939,28
+1535,Kasi,Lemmons,1,185,The Silence of the Lambs ,1991,23
+2129,Mark,Lenard,1,273,Star Trek IV: The Voyage Home ,1986,29
+2265,Thomas,Lennon,1,295,How to Lose a Guy in 10 Days ,2003,29
+1319,Kai,Lennox,1,155,Rush Hour ,1998,27
+1323,Joshua,Leonard,1,156,The Blair Witch Project ,1999,28
+749,Téa,Leoni,1,85,Jurassic Park III ,2001,28
+749,Téa,Leoni,1,157,Deep Impact ,1998,28
+749,Téa,Leoni,1,268,Fun with Dick and Jane ,2005,5
+2506,Chauncey,Leopardi,1,335,Casper ,1995,27
+1111,Richard,LeParmentier,1,130,Who Framed Roger Rabbit ,1988,33
+1444,Michael,Lerner,1,172,Godzilla ,1998,23
+1476,Al,Lettieri,1,176,The Godfather ,1972,17
+1313,Ken,Leung,1,155,Rush Hour ,1998,27
+1252,Ted,Levine,1,147,The Fast and the Furious ,2001,16
+1252,Ted,Levine,1,185,The Silence of the Lambs ,1991,23
+1252,Ted,Levine,1,254,Wild Wild West ,1999,21
+2441,Anna,Levine,1,324,Unforgiven ,1992,25
+1501,Eugene,Levy,1,181,Bringing Down the House ,2003,25
+1501,Eugene,Levy,1,302,American Wedding ,2003,34
+1501,Eugene,Levy,1,316,American Pie ,1999,18
+120,Vicki,Lewis,1,13,Finding Nemo ,2003,21
+120,Vicki,Lewis,1,172,Godzilla ,1998,23
+2254,Geoffrey,Lewis,1,294,Every Which Way But Loose ,1978,13
+2254,Geoffrey,Lewis,1,318,Maverick ,1994,9
+1571,Jet,Li,1,190,Lethal Weapon 4 ,1998,18
+1129,Matthew,Lillard,1,133,Scooby-Doo ,2002,26
+1129,Matthew,Lillard,1,307,Scream ,1996,17
+1249,Chad,Lindberg,1,147,The Fast and the Furious ,2001,16
+1249,Chad,Lindberg,1,267,The Last Samurai ,2003,26
+2499,Riki,Lindhome,1,334,Million Dollar Baby ,2004,23
+1430,Delroy,Lindo,1,170,Ransom ,1996,26
+1430,Delroy,Lindo,1,317,Gone in Sixty Seconds ,2000,32
+1776,Richard,Lineback,1,222,Speed ,1994,36
+2532,Paul,Linke,1,340,Parenthood ,1989,35
+1102,Hamish,Linklater,1,129,Fantastic Four ,2005,7
+1679,Laura,Linney,1,206,The Truman Show ,1998,14
+93,Luca,Lionello,1,10,The Passion of the Christ ,2004,9
+972,Ray,Liotta,1,112,Hannibal ,2001,24
+1124,Jonathan,Lipnicki,1,132,Jerry Maguire ,1996,27
+1124,Jonathan,Lipnicki,1,159,Stuart Little ,1999,24
+248,John,Lithgow,1,29,Shrek ,2001,22
+248,John,Lithgow,1,278,Terms of Endearment ,1983,14
+1822,Cleavon,Little,1,230,Blazing Saddles ,1974,31
+1315,Robert,Littman,1,155,Rush Hour ,1998,27
+1708,Lucy,Liu,1,210,Charlie's Angels ,2000,23
+1708,Lucy,Liu,1,329,Charlie's Angels: Full Throttle ,2003,20
+1650,Desmond,Llewelyn,1,201,The World Is Not Enough ,1999,14
+1650,Desmond,Llewelyn,1,209,Tomorrow Never Dies ,1997,26
+47,Jake,Lloyd,1,5,Star Wars: Episode I - The Phantom Menace ,1999,22
+520,Christopher,Lloyd,1,58,Back to the Future ,1985,30
+520,Christopher,Lloyd,1,130,Who Framed Roger Rabbit ,1988,33
+520,Christopher,Lloyd,1,236,Back to the Future Part II ,1989,22
+520,Christopher,Lloyd,1,255,The Addams Family ,1991,18
+1225,Eric,Lloyd,1,144,The Santa Clause ,1994,14
+1225,Eric,Lloyd,1,163,The Santa Clause 2 ,2002,26
+438,Lisa,Lo Cicero,1,49,Rush Hour 2 ,2001,19
+1362,Meat,Loaf,1,160,The Rocky Horror Picture Show ,1975,6
+2253,Sondra,Locke,1,294,Every Which Way But Loose ,1978,13
+2381,Lennie,Loftin,1,312,Daredevil ,2003,31
+159,Daniel,Logan,1,18,Star Wars: Episode II - Attack of the Clones ,2002,23
+2291,Bellina,Logan,1,298,Interview with the Vampire: The Vampire Chronicles ,1994,16
+171,Robert,Loggia,1,20,Independence Day ,1996,20
+171,Robert,Loggia,1,189,An Officer and a Gentleman ,1982,6
+171,Robert,Loggia,1,251,Big ,1988,23
+1149,Donal,Logue,1,135,Runaway Bride ,1999,29
+1149,Donal,Logue,1,256,The Patriot ,2000,19
+2087,Lindsay,Lohan,1,269,Freaky Friday ,2003,22
+1164,Kristanna,Loken,1,137,Terminator 3: Rise of the Machines ,2003,11
+1463,Daniel,London,1,175,Patch Adams ,1998,17
+432,John,Lone,1,49,Rush Hour 2 ,2001,19
+1887,Nia,Long,1,239,Big Momma's House ,2000,14
+1992,Justin,Long,1,252,Dodgeball: A True Underdog Story ,2004,37
+1138,Betty,Lou Gerson,1,134,One Hundred and One Dalmatians ,1961,24
+1027,Jonathan,Loughran,1,118,The Waterboy ,1998,14
+1027,Jonathan,Loughran,1,179,Anger Management ,2003,10
+1171,John,Louie,1,138,Gremlins ,1984,8
+262,Dominique,Louis,1,31,The Incredibles ,2004,21
+1014,Julia,Louis-Dreyfus,1,117,A Bug's Life ,1998,22
+1297,Mary,Louise Weller,1,152,Animal House ,1978,32
+1125,Todd,Louiso,1,132,Jerry Maguire ,1996,27
+871,Faizon,Love,1,99,Elf ,2003,31
+1193,Darlene,Love,1,140,Lethal Weapon 2 ,1989,24
+1193,Darlene,Love,1,146,Lethal Weapon 3 ,1992,33
+1193,Darlene,Love,1,190,Lethal Weapon 4 ,1998,18
+1986,Jon,Lovitz,1,251,Big ,1988,23
+1986,Jon,Lovitz,1,283,A League of Their Own ,1992,22
+547,Rob,Lowe,1,61,Austin Powers: The Spy Who Shagged Me ,1999,39
+547,Rob,Lowe,1,220,Wayne's World ,1992,27
+1673,Carey,Lowell,1,204,Sleepless in Seattle ,1993,29
+938,Josh,Lucas,1,107,A Beautiful Mind ,2001,14
+938,Josh,Lucas,1,182,Hulk ,2003,5
+938,Josh,Lucas,1,198,Sweet Home Alabama ,2002,30
+1172,Keye,Luke,1,138,Gremlins ,1984,8
+1623,Dolph,Lundgren,1,197,Rocky IV ,1985,17
+1612,Sihung,Lung,1,196,Wo hu cang long ,2000,12
+2219,Patti,LuPone,1,290,Driving Miss Daisy ,1989,24
+1709,Kelly,Lynch,1,210,Charlie's Angels ,2000,23
+2144,Jane,Lynch,1,275,The 40 Year Old Virgin ,2005,13
+1262,Karen,Lynn Gorney,1,149,Saturday Night Fever ,1977,31
+1836,Shelby,Lynne,1,231,Walk the Line ,2005,24
+1632,Melanie,Lynskey,1,198,Sweet Home Alabama ,2002,30
+1219,Natasha,Lyonne,1,143,American Pie 2 ,2001,24
+1219,Natasha,Lyonne,1,316,American Pie ,1999,18
+1803,Carl,M. Craig,1,226,Seabiscuit ,2003,33
+1989,Kimberlee,M. Davis,1,251,Big ,1988,23
+42,David,M. O'Dell,1,4,E.T. the Extra-Terrestrial ,1982,19
+2223,Alvin,M. Sugarman,1,290,Driving Miss Daisy ,1989,24
+1314,Tzi,Ma,1,155,Rush Hour ,1998,27
+709,Bernie,Mac,1,80,Ocean's Eleven ,2001,36
+709,Bernie,Mac,1,329,Charlie's Angels: Full Throttle ,2003,20
+1968,Ralph,Macchio,1,249,"The Karate Kid, Part II ",1986,18
+680,James,MacDonald,1,76,Snow White and the Seven Dwarfs ,1937,12
+575,Jack,MacGowran,1,64,The Exorcist ,1973,5
+2227,Ali,MacGraw,1,291,Love Story ,1970,33
+2526,Bob,Mack,1,338,Se7en ,1995,34
+2497,Anthony,Mackie,1,334,Million Dollar Baby ,2004,23
+1550,Kyle,MacLachlan,1,187,The Flintstones ,1994,31
+2153,Shirley,MacLaine,1,278,Terms of Endearment ,1983,14
+1912,John,Maclaren,1,242,Double Jeopardy ,1999,1
+36,Robert,MacNaughton,1,4,E.T. the Extra-Terrestrial ,1982,19
+2038,Peter,MacNicol,1,260,Ghostbusters II ,1989,26
+2188,Elle,Macpherson,1,284,Batman & Robin ,1997,22
+1040,Michael,Madsen,1,120,Die Another Day ,2002,14
+55,Tobey,Maguire,1,6,Spider-Man ,2002,23
+55,Tobey,Maguire,1,9,Spider-Man 2 ,2004,10
+1801,Valerie,Mahaffey,1,226,Seabiscuit ,2003,33
+2385,John,Mahoney,1,313,In the Line of Fire ,1993,8
+1404,Rachel,Majorowski,1,166,Good Will Hunting ,1997,16
+1366,Wendy,Makkena,1,161,Sister Act ,1992,30
+2141,Romany,Malco,1,275,The 40 Year Old Virgin ,2005,13
+2092,Ryan,Malgarini,1,269,Freaky Friday ,2003,22
+1200,Art,Malik,1,141,True Lies ,1994,26
+622,Kevork,Malikyan,1,69,Indiana Jones and the Last Crusade ,1989,29
+2146,Shelley,Malil,1,275,The 40 Year Old Virgin ,2005,13
+2010,Judith,Malina,1,255,The Addams Family ,1991,18
+1670,Ross,Malinger,1,204,Sleepless in Seattle ,1993,29
+2382,John,Malkovich,1,313,In the Line of Fire ,1993,8
+2382,John,Malkovich,1,325,Con Air ,1997,18
+1970,Bruce,Malmuth,1,249,"The Karate Kid, Part II ",1986,18
+1975,Evan,Malmuth,1,249,"The Karate Kid, Part II ",1986,18
+1886,Dorothy,Malone,1,238,Basic Instinct ,1992,33
+2449,Jena,Malone,1,327,Contact ,1997,25
+1067,Tyler,Mane,1,124,X-Men ,2000,27
+1203,Marshall,Manesh,1,141,True Lies ,1994,26
+62,Joe,Manganiello,1,6,Spider-Man ,2002,23
+837,Gabriel,Mann,1,95,The Bourne Supremacy ,2004,18
+837,Gabriel,Mann,1,221,The Bourne Identity ,2002,19
+993,Leslie,Mann,1,114,Big Daddy ,1999,24
+993,Leslie,Mann,1,275,The 40 Year Old Virgin ,2005,13
+993,Leslie,Mann,1,299,George of the Jungle ,1997,22
+1287,Danny,Mann,1,151,Pocahontas ,1995,23
+1925,Taryn,Manning,1,243,8 Mile ,2002,27
+746,Dinah,Manoff,1,84,Grease ,1978,30
+498,William,Mapother,1,55,Mission: Impossible II ,2000,20
+498,William,Mapother,1,270,The Grudge ,2004,31
+1647,Sophie,Marceau,1,201,The World Is Not Enough ,1999,14
+670,Stephanie,March,1,75,Mr. & Mrs. Smith ,2005,7
+1488,Vanessa,Marcil,1,178,The Rock ,1996,14
+1792,Miriam,Margolyes,1,225,Mulan ,1998,24
+383,David,Margulies,1,43,Ghost Busters ,1984,13
+383,David,Margulies,1,260,Ghostbusters II ,1989,26
+1421,Julianna,Margulies,1,168,Dinosaur ,2000,28
+1742,Anna,Maria Horsford,1,216,Nutty Professor II: The Klumps ,2000,32
+2036,Cheech,Marin,1,259,Spy Kids ,2001,7
+2117,Jason,Marin,1,272,The Little Mermaid ,1989,38
+1031,Ziggy,Marley,1,119,Shark Tale ,2004,26
+1474,John,Marley,1,176,The Godfather ,1972,17
+1474,John,Marley,1,291,Love Story ,1970,33
+1497,Adoni,Maropis,1,180,Troy ,2004,26
+2118,Kenneth,Mars,1,272,The Little Mermaid ,1989,38
+2118,Kenneth,Mars,1,314,Butch Cassidy and the Sundance Kid ,1969,27
+506,James,Marsden,1,56,X2 ,2003,26
+506,James,Marsden,1,124,X-Men ,2000,27
+779,Garry,Marshall,1,173,Chicken Little ,2005,19
+779,Garry,Marshall,1,283,A League of Their Own ,1992,22
+1303,James,Marshall,1,153,A Few Good Men ,1992,31
+39,K.C.,Martel,1,4,E.T. the Extra-Terrestrial ,1982,19
+1385,Steve,Martin,1,164,Cheaper by the Dozen ,2003,24
+1385,Steve,Martin,1,181,Bringing Down the House ,2003,25
+1385,Steve,Martin,1,323,The Prince of Egypt ,1998,31
+1385,Steve,Martin,1,340,Parenthood ,1989,35
+2389,Strother,Martin,1,314,Butch Cassidy and the Sundance Kid ,1969,27
+2478,Dean,Martin,1,332,Airport ,1970,14
+1977,Charles,Martin Smith,1,250,American Graffiti ,1973,14
+2498,Margo,Martindale,1,334,Million Dollar Baby ,2004,23
+1933,Olivier,Martinez,1,244,S.W.A.T. ,2003,21
+2350,Joseph,Mascolo,1,308,Jaws 2 ,1978,15
+1330,Mark,Mason,1,156,The Blair Witch Project ,1999,28
+579,Peter,Masterson,1,64,The Exorcist ,1973,5
+1659,Christopher,Masterson,1,202,My Best Friend's Wedding ,1997,41
+1812,Orestes,Matacena,1,228,The Mask ,1994,36
+2167,Heather,Matarazzo,1,280,The Princess Diaries ,2001,19
+1291,Tim,Matheson,1,152,Animal House ,1978,32
+894,Liesel,Matthews,1,102,Air Force One ,1997,31
+2322,Rob,Maxey,1,304,Road to Perdition ,2002,26
+20,Peter,Mayhew,1,2,Star Wars ,1977,15
+20,Peter,Mayhew,1,19,Star Wars: Episode VI - Return of the Jedi ,1983,6
+20,Peter,Mayhew,1,24,Star Wars: Episode V - The Empire Strikes Back ,1980,19
+694,Debi,Mazar,1,78,Batman Forever ,1995,23
+102,Joseph,Mazzello,1,11,Jurassic Park ,1993,20
+531,Rachel,McAdams,1,59,Wedding Crashers ,2005,15
+1578,Nichole,McAuley,1,191,The Nutty Professor ,1996,22
+199,James,McAvoy,1,23,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe ",2005,28
+1237,Chi,McBride,1,145,"I, Robot ",2004,32
+1937,Richard,McCabe,1,245,Notting Hill ,1999,21
+1666,Macon,McCalman,1,203,Smokey and the Bandit ,1977,13
+962,Thomas,McCarthy,1,110,Meet the Parents ,2000,22
+2105,Jenny,McCarthy,1,271,Scary Movie 3 ,2003,22
+1405,Colleen,McCauley,1,166,Good Will Hunting ,1997,16
+914,Belinda,McClory,1,104,The Matrix ,1999,28
+525,Marc,McClure,1,58,Back to the Future ,1985,30
+1667,Linda,McClure,1,203,Smokey and the Bandit ,1977,13
+2119,Edie,McClurg,1,272,The Little Mermaid ,1989,38
+2288,Virginia,McCollam,1,298,Interview with the Vampire: The Vampire Chronicles ,1994,16
+2147,Matthew,McConaughey,1,276,A Time to Kill ,1996,17
+2147,Matthew,McConaughey,1,295,How to Lose a Guy in 10 Days ,2003,29
+2147,Matthew,McConaughey,1,327,Contact ,1997,25
+1075,Mark,McConchie,1,125,Scary Movie ,2000,20
+2289,John,McConnell,1,298,Interview with the Vampire: The Vampire Chronicles ,1994,16
+1663,Pat,McCormick,1,203,Smokey and the Bandit ,1977,13
+1796,David,McCullough,1,226,Seabiscuit ,2003,33
+2383,Dylan,McDermott,1,313,In the Line of Fire ,1993,8
+50,Ian,McDiarmid,1,5,Star Wars: Episode I - The Phantom Menace ,1999,22
+50,Ian,McDiarmid,1,7,Star Wars: Episode III - Revenge of the Sith ,2005,15
+50,Ian,McDiarmid,1,18,Star Wars: Episode II - Attack of the Clones ,2002,23
+50,Ian,McDiarmid,1,19,Star Wars: Episode VI - Return of the Jedi ,1983,6
+50,Ian,McDiarmid,1,326,Sleepy Hollow ,1999,11
+1208,Kevin,McDonald,1,142,Lilo & Stitch ,2002,21
+165,Mary,McDonnell,1,20,Independence Day ,1996,20
+165,Mary,McDonnell,1,77,Dances with Wolves ,1990,14
+1516,Neal,McDonough,1,183,Minority Report ,2002,11
+1712,Frances,McDormand,1,211,Something's Gotta Give ,2003,34
+2259,James,McEachin,1,294,Every Which Way But Loose ,1978,13
+1681,Natascha,McElhone,1,206,The Truman Show ,1998,14
+1878,Bruce,McGill,1,237,The Sum of All Fears ,2002,12
+1878,Bruce,McGill,1,342,Collateral ,2004,26
+809,Kelly,McGillis,1,92,Top Gun ,1986,34
+2150,Patrick,McGoohan,1,276,A Time to Kill ,1996,17
+1736,Tom,McGowan,1,214,The Birdcage ,1996,22
+2346,Rose,McGowan,1,307,Scream ,1996,17
+625,Tom,McGrath,1,70,Madagascar ,2005,27
+2277,Doug,McGrath,1,296,Porky's ,1982,9
+1743,Melinda,McGraw,1,216,Nutty Professor II: The Klumps ,2000,32
+45,Ewan,McGregor,1,5,Star Wars: Episode I - The Phantom Menace ,1999,22
+45,Ewan,McGregor,1,7,Star Wars: Episode III - Revenge of the Sith ,2005,15
+45,Ewan,McGregor,1,18,Star Wars: Episode II - Attack of the Clones ,2002,23
+45,Ewan,McGregor,1,277,Black Hawk Down ,2001,16
+1438,Tim,McInnerny,1,171,101 Dalmatians ,1996,15
+203,Judy,McIntosh,1,23,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe ",2005,28
+503,Ian,McKellen,1,56,X2 ,2003,26
+503,Ian,McKellen,1,124,X-Men ,2000,27
+2066,Siobhan,McKenna,1,265,Doctor Zhivago ,1965,23
+1850,Doug,McKeon,1,233,On Golden Pond ,1981,24
+2260,Bill,McKinney,1,294,Every Which Way But Loose ,1978,13
+1101,Julian,McMahon,1,129,Fantastic Four ,2005,7
+2510,Tim,McMullen,1,336,Shakespeare in Love ,1998,44
+2159,Ian,McNeice,1,279,Ace Ventura: When Nature Calls ,1995,15
+2452,Timothy,McNeil,1,327,Contact ,1997,25
+1105,Kevin,McNulty,1,129,Fantastic Four ,2005,7
+1946,Steve,McQueen,1,246,The Towering Inferno ,1974,17
+967,Michael,McShane,1,111,Robin Hood: Prince of Thieves ,1991,16
+2445,Colm,Meaney,1,325,Con Air ,1997,18
+1285,Russell,Means,1,151,Pocahontas ,1995,23
+844,John,Meillon,1,96,Crocodile Dundee ,1986,16
+844,John,Meillon,1,274,Crocodile' Dundee II ,1988,30
+439,Mei,Melançon,1,49,Rush Hour 2 ,2001,19
+151,Harry,Melling,1,16,Harry Potter and the Sorcerer's Stone ,2001,15
+151,Harry,Melling,1,30,Harry Potter and the Chamber of Secrets ,2002,18
+151,Harry,Melling,1,37,Harry Potter and the Prisoner of Azkaban ,2004,22
+1148,Christopher,Meloni,1,135,Runaway Bride ,1999,29
+791,Eva,Mendes,1,90,Hitch ,2005,17
+791,Eva,Mendes,1,200,2 Fast 2 Furious ,2003,13
+860,Mark,Mendonca,1,97,The Polar Express ,2004,18
+2340,Marian,Mercer,1,306,Nine to Five ,1980,29
+1745,Burgess,Meredith,1,217,Rocky III ,1982,34
+1745,Burgess,Meredith,1,241,Rocky ,1976,15
+635,Laurie,Metcalf,1,71,Toy Story ,1995,19
+635,Laurie,Metcalf,1,321,Scream 2 ,1997,38
+2084,Aaron,Michael Drozin,1,268,Fun with Dick and Jane ,2005,5
+1714,Paul,Michael Glaser,1,211,Something's Gotta Give ,2003,34
+2081,John,Michael Higgins,1,268,Fun with Dick and Jane ,2005,5
+2089,Chad,Michael Murray,1,269,Freaky Friday ,2003,22
+1211,Kevin,Michael Richardson,1,142,Lilo & Stitch ,2002,21
+2266,Michael,Michele,1,295,How to Lose a Guy in 10 Days ,2003,29
+1128,Sarah,Michelle Gellar,1,133,Scooby-Doo ,2002,26
+1128,Sarah,Michelle Gellar,1,270,The Grudge ,2004,31
+1128,Sarah,Michelle Gellar,1,321,Scream 2 ,1997,38
+2281,Bette,Midler,1,297,The First Wives Club ,1996,16
+1403,John,Mighton,1,166,Good Will Hunting ,1997,16
+654,Dash,Mihok,1,74,The Day After Tomorrow ,2004,19
+2304,Michael,Milhoan,1,300,Phenomenon ,1996,26
+1722,Tomas,Milian,1,212,Traffic ,2000,20
+2229,Ray,Milland,1,291,Love Story ,1970,33
+254,Chris,Miller,1,29,Shrek ,2001,22
+254,Chris,Miller,1,70,Madagascar ,2005,27
+572,Jason,Miller,1,64,The Exorcist ,1973,5
+1263,Barry,Miller,1,149,Saturday Night Fever ,1977,31
+1573,Larry,Miller,1,191,The Nutty Professor ,1996,22
+1573,Larry,Miller,1,216,Nutty Professor II: The Klumps ,2000,32
+2297,Kelly,Miller,1,299,George of the Jungle ,1997,22
+1617,De,Ming Wang,1,196,Wo hu cang long ,2000,12
+1368,Robert,Miranda,1,161,Sister Act ,1992,30
+2437,Helen,Mirren,1,323,The Prince of Egypt ,1998,31
+603,Thomas,Mitchell,1,67,Gone with the Wind ,1939,28
+1379,Elizabeth,Mitchell,1,163,The Santa Clause 2 ,2002,26
+1891,Ella,Mitchell,1,239,Big Momma's House ,2000,14
+2278,Chuck,Mitchell,1,296,Porky's ,1982,9
+2464,Delaina,Mitchell,1,330,Vanilla Sky ,2001,5
+1577,Jamal,Mixon,1,191,The Nutty Professor ,1996,22
+1577,Jamal,Mixon,1,216,Nutty Professor II: The Klumps ,2000,32
+518,Diane,Mizota,1,57,Austin Powers in Goldmember ,2002,21
+2233,Robert,Modica,1,291,Love Story ,1970,33
+1752,Donald,Moffat,1,218,Clear and Present Danger ,1994,9
+1122,Jay,Mohr,1,132,Jerry Maguire ,1996,27
+81,Alfred,Molina,1,9,Spider-Man 2 ,2004,10
+81,Alfred,Molina,1,40,Raiders of the Lost Ark ,1981,23
+81,Alfred,Molina,1,318,Maverick ,1994,9
+1553,Richard,Moll,1,187,The Flintstones ,1994,31
+1394,Jordi,Mollà,1,165,Bad Boys II ,2003,19
+2531,Heidi,Mollenhauer,1,339,The Hunchback of Notre Dame ,1996,13
+270,Taylor,Momsen,1,32,How the Grinch Stole Christmas ,2000,27
+669,Michelle,Monaghan,1,75,Mr. & Mrs. Smith ,2005,7
+2271,Dan,Monahan,1,296,Porky's ,1982,9
+2192,Steve,Monroe,1,285,Miss Congeniality ,2000,21
+2057,Ricardo,Montalban,1,264,Spy Kids 3-D: Game Over ,2003,16
+2240,Bill,Moor,1,292,Kramer vs. Kramer ,1979,10
+413,Julianne,Moore,1,47,The Lost World: Jurassic Park ,1997,35
+413,Julianne,Moore,1,79,The Fugitive ,1993,16
+413,Julianne,Moore,1,112,Hannibal ,2001,24
+461,Demi,Moore,1,52,Ghost ,1990,15
+461,Demi,Moore,1,153,A Few Good Men ,1992,31
+461,Demi,Moore,1,289,Indecent Proposal ,1993,23
+461,Demi,Moore,1,329,Charlie's Angels: Full Throttle ,2003,20
+461,Demi,Moore,1,339,The Hunchback of Notre Dame ,1996,13
+1176,Arnie,Moore,1,138,Gremlins ,1984,8
+1993,Joel,Moore,1,252,Dodgeball: A True Underdog Story ,2004,37
+2168,Mandy,Moore,1,280,The Princess Diaries ,2001,19
+2225,Muriel,Moore,1,290,Driving Miss Daisy ,1989,24
+1940,Dylan,Moran,1,245,Notting Hill ,1999,21
+380,Rick,Moranis,1,43,Ghost Busters ,1984,13
+380,Rick,Moranis,1,186,"Honey, I Shrunk the Kids ",1989,17
+380,Rick,Moranis,1,187,The Flintstones ,1994,31
+380,Rick,Moranis,1,260,Ghostbusters II ,1989,26
+380,Rick,Moranis,1,340,Parenthood ,1989,35
+751,Trevor,Morgan,1,85,Jurassic Park III ,2001,28
+87,Maia,Morgenstern,1,10,The Passion of the Christ ,2004,9
+2500,Cathy,Moriarty,1,335,Casper ,1995,27
+1793,Pat,Morita,1,225,Mulan ,1998,24
+1793,Pat,Morita,1,249,"The Karate Kid, Part II ",1986,18
+633,John,Morris,1,71,Toy Story ,1995,19
+158,Temuera,Morrison,1,18,Star Wars: Episode II - Attack of the Clones ,2002,23
+1426,David,Morse,1,169,The Green Mile ,1999,13
+1426,David,Morse,1,178,The Rock ,1996,14
+1426,David,Morse,1,327,Contact ,1997,25
+564,Joe,Morton,1,63,Terminator 2: Judgment Day ,1991,11
+564,Joe,Morton,1,127,What Lies Beneath ,2000,23
+564,Joe,Morton,1,222,Speed ,1994,36
+1985,David,Moscow,1,251,Big ,1988,23
+196,William,Moseley,1,23,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe ",2005,28
+908,Carrie-Anne,Moss,1,104,The Matrix ,1999,28
+992,Josh,Mostel,1,114,Big Daddy ,1999,24
+992,Josh,Mostel,1,213,City Slickers ,1991,21
+2165,Sam,Motoana Phillips,1,279,Ace Ventura: When Nature Calls ,1995,15
+1233,Bridget,Moynahan,1,145,"I, Robot ",2004,32
+2442,David,Mucci,1,324,Unforgiven ,1992,25
+1309,Richy,Müller,1,154,xXx ,2002,23
+1654,Dermot,Mulroney,1,202,My Best Friend's Wedding ,1997,41
+1381,Liliana,Mumy,1,163,The Santa Clause 2 ,2002,26
+1381,Liliana,Mumy,1,164,Cheaper by the Dozen ,2003,24
+1085,Meg,Mundy,1,126,Fatal Attraction ,1987,31
+886,Jack,Murdock,1,101,Rain Man ,1988,36
+25,Eddie,Murphy,1,3,Shrek 2 ,2004,45
+25,Eddie,Murphy,1,29,Shrek ,2001,22
+25,Eddie,Murphy,1,44,Beverly Hills Cop ,1984,22
+25,Eddie,Murphy,1,131,Beverly Hills Cop II ,1987,38
+25,Eddie,Murphy,1,148,Doctor Dolittle ,1998,23
+25,Eddie,Murphy,1,191,The Nutty Professor ,1996,22
+25,Eddie,Murphy,1,195,Coming to America ,1988,36
+25,Eddie,Murphy,1,216,Nutty Professor II: The Klumps ,2000,32
+25,Eddie,Murphy,1,225,Mulan ,1998,24
+25,Eddie,Murphy,1,258,Dr. Dolittle 2 ,2001,12
+25,Eddie,Murphy,1,303,Daddy Day Care ,2003,38
+82,Donna,Murphy,1,9,Spider-Man 2 ,2004,10
+554,Cillian,Murphy,1,62,Batman Begins ,2005,19
+1008,Michael,Murphy,1,116,Batman Returns ,1992,36
+1920,Brittany,Murphy,1,243,8 Mile ,2002,27
+2505,Terry,Murphy,1,335,Casper ,1995,27
+376,Bill,Murray,1,43,Ghost Busters ,1984,13
+376,Bill,Murray,1,91,Tootsie ,1982,31
+376,Bill,Murray,1,210,Charlie's Angels ,2000,23
+376,Bill,Murray,1,260,Ghostbusters II ,1989,26
+24,Mike,Myers,1,3,Shrek 2 ,2004,45
+24,Mike,Myers,1,29,Shrek ,2001,22
+24,Mike,Myers,1,57,Austin Powers in Goldmember ,2002,21
+24,Mike,Myers,1,61,Austin Powers: The Spy Who Shagged Me ,1999,39
+24,Mike,Myers,1,220,Wayne's World ,1992,27
+24,Mike,Myers,1,333,The Cat in the Hat ,2003,20
+1624,Stu,Nahan,1,197,Rocky IV ,1985,17
+1365,Kathy,Najimy,1,161,Sister Act ,1992,30
+1154,Charles,Napier,1,136,Rambo: First Blood Part II ,1985,40
+2428,Elise,Neal,1,321,Scream 2 ,1997,38
+2316,Kevin,Nealon,1,303,Daddy Day Care ,2003,38
+44,Liam,Neeson,1,5,Star Wars: Episode I - The Phantom Menace ,1999,22
+44,Liam,Neeson,1,62,Batman Begins ,2005,19
+96,Sam,Neill,1,11,Jurassic Park ,1993,20
+96,Sam,Neill,1,85,Jurassic Park III ,2001,28
+96,Sam,Neill,1,224,The Hunt for Red October ,1990,36
+1001,Portia,Nelson,1,115,The Sound of Music ,1965,10
+2485,Barry,Nelson,1,332,Airport ,1970,14
+975,Francesca,Neri,1,112,Hannibal ,2001,24
+1899,Franco,Nero,1,240,Die Hard 2 ,1990,35
+2269,Bebe,Neuwirth,1,295,How to Lose a Guy in 10 Days ,2003,29
+2269,Bebe,Neuwirth,1,337,Jumanji ,1995,27
+2417,Claudette,Nevins,1,319,Sleeping with the Enemy ,1991,16
+182,Giles,New,1,21,Pirates of the Caribbean: The Curse of the Black Pearl ,2003,21
+866,Bob,Newhart,1,99,Elf ,2003,31
+1043,Paul,Newman,1,121,The Sting ,1973,25
+1043,Paul,Newman,1,246,The Towering Inferno ,1974,17
+1043,Paul,Newman,1,304,Road to Perdition ,2002,26
+1043,Paul,Newman,1,314,Butch Cassidy and the Sundance Kid ,1969,27
+263,Teddy,Newton,1,31,The Incredibles ,2004,21
+492,Thandie,Newton,1,55,Mission: Impossible II ,2000,20
+738,Olivia,Newton-John,1,84,Grease ,1978,30
+657,Austin,Nichols,1,74,The Day After Tomorrow ,2004,19
+755,Taylor,Nichols,1,85,Jurassic Park III ,2001,28
+2126,Nichelle,Nichols,1,273,Star Trek IV: The Voyage Home ,1986,29
+301,Jack,Nicholson,1,35,Batman ,1989,18
+301,Jack,Nicholson,1,139,As Good as It Gets ,1997,27
+301,Jack,Nicholson,1,153,A Few Good Men ,1992,31
+301,Jack,Nicholson,1,179,Anger Management ,2003,10
+301,Jack,Nicholson,1,211,Something's Gotta Give ,2003,34
+301,Jack,Nicholson,1,262,One Flew Over the Cuckoo's Nest ,1975,33
+301,Jack,Nicholson,1,278,Terms of Endearment ,1983,14
+1155,Julia,Nickson-Soul,1,136,Rambo: First Blood Part II ,1985,40
+644,Connie,Nielsen,1,73,Gladiator ,2000,16
+1116,Brigitte,Nielsen,1,131,Beverly Hills Cop II ,1987,38
+1116,Brigitte,Nielsen,1,197,Rocky IV ,1985,17
+183,M.,Night Shyamalan,1,48,Signs ,2002,15
+951,Leonard,Nimoy,1,273,Star Trek IV: The Voyage Home ,1986,29
+750,Alessandro,Nivola,1,85,Jurassic Park III ,2001,28
+750,Alessandro,Nivola,1,261,Face/Off ,1997,36
+1005,Marni,Nixon,1,115,The Sound of Music ,1965,10
+1005,Marni,Nixon,1,225,Mulan ,1998,24
+1763,DeVaughn,Nixon,1,219,The Bodyguard ,1992,27
+1644,Amaury,Nolasco,1,200,2 Fast 2 Furious ,2003,13
+1429,Brawley,Nolte,1,170,Ransom ,1996,26
+1509,Nick,Nolte,1,182,Hulk ,2003,5
+192,Bruce,Norris,1,22,The Sixth Sense ,1999,25
+256,Jim,Norton,1,30,Harry Potter and the Chamber of Secrets ,2002,18
+2247,Edward,Norton,1,293,The Italian Job ,2003,16
+2204,Kresimir,Novakovic,1,287,Analyze This ,1999,20
+2503,Don,Novello,1,335,Casper ,1995,27
+2430,Danny,Nucci,1,322,Eraser ,1996,30
+64,Bill,Nunn,1,6,Spider-Man ,2002,23
+64,Bill,Nunn,1,9,Spider-Man 2 ,2004,10
+64,Bill,Nunn,1,161,Sister Act ,1992,30
+317,Mike,Nussbaum,1,36,Men in Black ,1997,40
+2230,Russell,Nype,1,291,Love Story ,1970,33
+1513,Kevin,O. Rankin,1,182,Hulk ,2003,5
+655,Jay,O. Sanders,1,74,The Day After Tomorrow ,2004,19
+2491,Brittany,Oaks,1,333,The Cat in the Hat ,2003,20
+2055,Hugh,O'Brian,1,263,Twins ,1988,36
+1357,Richard,O'Brien,1,160,The Rocky Horror Picture Show ,1975,6
+2171,Sean,O'Bryan,1,280,The Princess Diaries ,2001,19
+1121,Jerry,O'Connell,1,132,Jerry Maguire ,1996,27
+1121,Jerry,O'Connell,1,321,Scream 2 ,1997,38
+2261,William,O'Connell,1,294,Every Which Way But Loose ,1978,13
+1191,Derrick,O'Connor,1,140,Lethal Weapon 2 ,1989,24
+2076,Masashi,Odate,1,267,The Last Samurai ,2003,26
+535,Keir,O'Donnell,1,59,Wedding Crashers ,2005,15
+693,Chris,O'Donnell,1,78,Batman Forever ,1995,23
+693,Chris,O'Donnell,1,284,Batman & Robin ,1997,22
+934,Rosie,O'Donnell,1,106,Tarzan ,1999,16
+934,Rosie,O'Donnell,1,187,The Flintstones ,1994,31
+934,Rosie,O'Donnell,1,204,Sleepless in Seattle ,1993,29
+934,Rosie,O'Donnell,1,283,A League of Their Own ,1992,22
+2509,Steve,O'Donnell,1,336,Shakespeare in Love ,1998,44
+924,David,Ogden Stiers,1,105,Beauty and the Beast ,1991,24
+924,David,Ogden Stiers,1,142,Lilo & Stitch ,2002,21
+924,David,Ogden Stiers,1,151,Pocahontas ,1995,23
+924,David,Ogden Stiers,1,339,The Hunchback of Notre Dame ,1996,13
+1794,Soon-Tek,Oh,1,225,Mulan ,1998,24
+1484,Jack,O'Halloran,1,177,Superman ,1978,26
+1484,Jack,O'Halloran,1,281,Superman II ,1980,34
+220,Catherine,O'Hara,1,26,Home Alone ,1990,28
+220,Catherine,O'Hara,1,98,Home Alone 2: Lost in New York ,1992,33
+220,Catherine,O'Hara,1,235,Lemony Snicket's A Series of Unfortunate Events ,2004,24
+921,Paige,O'Hara,1,105,Beauty and the Beast ,1991,24
+181,Damian,O'Hare,1,21,Pirates of the Caribbean: The Curse of the Black Pearl ,2003,21
+2162,Sophie,Okonedo,1,279,Ace Ventura: When Nature Calls ,1995,15
+553,Gary,Oldman,1,62,Batman Begins ,2005,19
+553,Gary,Oldman,1,102,Air Force One ,1997,31
+553,Gary,Oldman,1,112,Hannibal ,2001,24
+2059,Matt,O'Leary,1,264,Spy Kids 3-D: Game Over ,2003,16
+1695,Irene,Olga López,1,207,Erin Brockovich ,2000,13
+1545,Robert,Oliveri,1,186,"Honey, I Shrunk the Kids ",1989,17
+2408,Timothy,Olyphant,1,317,Gone in Sixty Seconds ,2000,32
+2408,Timothy,Olyphant,1,321,Scream 2 ,1997,38
+2228,Ryan,O'Neal,1,291,Love Story ,1970,33
+604,Barbara,O'Neil,1,67,Gone with the Wind ,1939,28
+1544,Amy,O'Neill,1,186,"Honey, I Shrunk the Kids ",1989,17
+1725,Michael,O'Neill,1,212,Traffic ,2000,20
+1725,Michael,O'Neill,1,226,Seabiscuit ,2003,33
+1185,Lupe,Ontiveros,1,139,As Good as It Gets ,1997,27
+922,Jerry,Orbach,1,105,Beauty and the Beast ,1991,24
+1267,Bruce,Ornstein,1,149,Saturday Night Fever ,1977,31
+2334,Ed,O'Ross,1,305,Dick Tracy ,1990,22
+2380,Leland,Orser,1,312,Daredevil ,2003,31
+373,Sarah,Osman,1,42,My Big Fat Greek Wedding ,2002,16
+398,Miranda,Otto,1,45,War of the Worlds ,2005,13
+398,Miranda,Otto,1,127,What Lies Beneath ,2000,23
+1705,Götz,Otto,1,209,Tomorrow Never Dies ,1997,26
+1145,Tudor,Owen,1,134,One Hundred and One Dalmatians ,1961,24
+1770,Clive,Owen,1,221,The Bourne Identity ,2002,19
+49,Frank,Oz,1,5,Star Wars: Episode I - The Phantom Menace ,1999,22
+49,Frank,Oz,1,7,Star Wars: Episode III - Revenge of the Sith ,2005,15
+49,Frank,Oz,1,18,Star Wars: Episode II - Attack of the Clones ,2002,23
+49,Frank,Oz,1,19,Star Wars: Episode VI - Return of the Jedi ,1983,6
+49,Frank,Oz,1,24,Star Wars: Episode V - The Empire Strikes Back ,1980,19
+49,Frank,Oz,1,34,"Monsters, Inc. ",2001,24
+1466,Irma,P. Hall,1,175,Patch Adams ,1998,17
+1466,Irma,P. Hall,1,342,Collateral ,2004,26
+1471,Al,Pacino,1,176,The Godfather ,1972,17
+1983,Manuel,Padilla Jr.,1,250,American Graffiti ,1973,14
+1455,Josh,Pais,1,174,Teenage Mutant Ninja Turtles ,1990,32
+307,Jack,Palance,1,35,Batman ,1989,18
+307,Jack,Palance,1,213,City Slickers ,1991,21
+1348,Chazz,Palminteri,1,159,Stuart Little ,1999,24
+1348,Chazz,Palminteri,1,287,Analyze This ,1999,20
+2521,Gwyneth,Paltrow,1,338,Se7en ,1995,34
+1015,Hayden,Panettiere,1,117,A Bug's Life ,1998,22
+1015,Hayden,Panettiere,1,168,Dinosaur ,2000,28
+1015,Hayden,Panettiere,1,248,Remember the Titans ,2000,33
+1082,Stuart,Pankin,1,126,Fatal Attraction ,1987,31
+697,Joe,Pantoliano,1,79,The Fugitive ,1993,16
+697,Joe,Pantoliano,1,104,The Matrix ,1999,28
+697,Joe,Pantoliano,1,165,Bad Boys II ,2003,19
+697,Joe,Pantoliano,1,312,Daredevil ,2003,31
+2433,Michael,Papajohn,1,322,Eraser ,1996,30
+1265,Paul,Pape,1,149,Saturday Night Fever ,1977,31
+507,Anna,Paquin,1,56,X2 ,2003,26
+507,Anna,Paquin,1,124,X-Men ,2000,27
+1966,Kip,Pardue,1,248,Remember the Titans ,2000,33
+2264,Annie,Parisse,1,295,How to Lose a Guy in 10 Days ,2003,29
+52,Ray,Park,1,5,Star Wars: Episode I - The Phantom Menace ,1999,22
+52,Ray,Park,1,124,X-Men ,2000,27
+455,Evan,Parke,1,51,King Kong ,2005,10
+1104,David,Parker,1,129,Fantastic Four ,2005,7
+2337,Dolly,Parton,1,306,Nine to Five ,1980,29
+1034,Vincent,Pastore,1,119,Shark Tale ,2004,26
+686,Robert,Pastorelli,1,77,Dances with Wolves ,1990,14
+686,Robert,Pastorelli,1,322,Eraser ,1996,30
+1144,J.,Pat O'Malley,1,134,One Hundred and One Dalmatians ,1961,24
+1144,J.,Pat O'Malley,1,150,The Jungle Book ,1967,30
+1622,Michael,Pataki,1,197,Rocky IV ,1985,17
+562,Robert,Patrick,1,63,Terminator 2: Judgment Day ,1991,11
+562,Robert,Patrick,1,231,Walk the Line ,2005,24
+562,Robert,Patrick,1,259,Spy Kids ,2001,7
+562,Robert,Patrick,1,329,Charlie's Angels: Full Throttle ,2003,20
+1590,J.,Patrick McNamara,1,193,Close Encounters of the Third Kind ,1977,27
+1461,Jay,Patterson,1,174,Teenage Mutant Ninja Turtles ,1990,32
+595,Will,Patton,1,66,Armageddon ,1998,9
+595,Will,Patton,1,248,Remember the Titans ,2000,33
+595,Will,Patton,1,317,Gone in Sixty Seconds ,2000,32
+711,Timothy,Paul Perez,1,80,Ocean's Eleven ,2001,36
+1312,Jan,Pavel Filipensky,1,154,xXx ,2002,23
+8,Bill,Paxton,1,1,Titanic ,1997,32
+8,Bill,Paxton,1,41,Twister ,1996,36
+8,Bill,Paxton,1,103,Apollo 13 ,1995,4
+8,Bill,Paxton,1,141,True Lies ,1994,26
+1731,David,Paymer,1,213,City Slickers ,1991,21
+728,Allen,Payne,1,82,The Perfect Storm ,2000,31
+1838,Waylon,Payne,1,231,Walk the Line ,2005,24
+741,Barry,Pearl,1,84,Grease ,1978,30
+251,Clive,Pearse,1,29,Shrek ,2001,22
+100,Bob,Peck,1,11,Jurassic Park ,1993,20
+2537,Anthony,Peck,1,341,Die Hard: With a Vengeance ,1995,32
+1713,Amanda,Peet,1,211,Something's Gotta Give ,2003,34
+857,Andy,Pellick,1,97,The Polar Express ,2004,18
+118,Austin,Pendleton,1,13,Finding Nemo ,2003,21
+1318,Chris,Penn,1,155,Rush Hour ,1998,27
+132,Bob,Penny,1,14,Forrest Gump ,1994,27
+483,Barry,Pepper,1,54,Saving Private Ryan ,1998,12
+483,Barry,Pepper,1,169,The Green Mile ,1999,13
+483,Barry,Pepper,1,266,Enemy of the State ,1998,41
+1386,Piper,Perabo,1,164,Cheaper by the Dozen ,2003,24
+1549,Elizabeth,Perkins,1,187,The Flintstones ,1994,31
+1549,Elizabeth,Perkins,1,251,Big ,1988,23
+720,Valerie,Perrine,1,81,What Women Want ,2000,8
+720,Valerie,Perrine,1,177,Superman ,1978,26
+720,Valerie,Perrine,1,281,Superman II ,1980,34
+2056,Nehemiah,Persoff,1,263,Twins ,1988,36
+216,Joe,Pesci,1,26,Home Alone ,1990,28
+216,Joe,Pesci,1,98,Home Alone 2: Lost in New York ,1992,33
+216,Joe,Pesci,1,140,Lethal Weapon 2 ,1989,24
+216,Joe,Pesci,1,146,Lethal Weapon 3 ,1992,33
+216,Joe,Pesci,1,190,Lethal Weapon 4 ,1998,18
+1266,Donna,Pescow,1,149,Saturday Night Fever ,1977,31
+297,Bob,Peterson,1,34,"Monsters, Inc. ",2001,24
+2249,Stefano,Petronelli,1,293,The Italian Job ,2003,16
+2183,Lori,Petty,1,283,A League of Their Own ,1992,22
+1007,Michelle,Pfeiffer,1,116,Batman Returns ,1992,36
+1007,Michelle,Pfeiffer,1,127,What Lies Beneath ,2000,23
+1007,Michelle,Pfeiffer,1,323,The Prince of Egypt ,1998,31
+212,James,Phelps,1,25,Harry Potter and the Goblet of Fire ,2005,24
+212,James,Phelps,1,30,Harry Potter and the Chamber of Secrets ,2002,18
+213,Oliver,Phelps,1,25,Harry Potter and the Goblet of Fire ,2005,24
+1919,Mekhi,Phifer,1,243,8 Mile ,2002,27
+1529,Leslie,Phillips,1,184,Lara Croft: Tomb Raider ,2001,23
+1530,Robert,Phillips,1,184,Lara Croft: Tomb Raider ,2001,23
+1980,Mackenzie,Phillips,1,250,American Graffiti ,1973,14
+2539,Sam,Phillips,1,341,Die Hard: With a Vengeance ,1995,32
+421,Joaquin,Phoenix,1,48,Signs ,2002,15
+421,Joaquin,Phoenix,1,73,Gladiator ,2000,16
+421,Joaquin,Phoenix,1,231,Walk the Line ,2005,24
+421,Joaquin,Phoenix,1,253,The Village ,2004,46
+620,River,Phoenix,1,69,Indiana Jones and the Last Crusade ,1989,29
+1824,Slim,Pickens,1,230,Blazing Saddles ,1974,31
+244,Spencer,Pickren,1,28,Meet the Fockers ,2004,26
+245,Bradley,Pickren,1,28,Meet the Fockers ,2004,26
+923,Bradley,Pierce,1,105,Beauty and the Beast ,1991,24
+923,Bradley,Pierce,1,337,Jumanji ,1995,27
+1037,Rosamund,Pike,1,120,Die Another Day ,2002,14
+628,Jada,Pinkett Smith,1,70,Madagascar ,2005,27
+628,Jada,Pinkett Smith,1,191,The Nutty Professor ,1996,22
+628,Jada,Pinkett Smith,1,321,Scream 2 ,1997,38
+628,Jada,Pinkett Smith,1,342,Collateral ,2004,26
+1441,Maria,Pitillo,1,172,Godzilla ,1998,23
+662,Brad,Pitt,1,75,Mr. & Mrs. Smith ,2005,7
+662,Brad,Pitt,1,80,Ocean's Eleven ,2001,36
+662,Brad,Pitt,1,180,Troy ,2004,26
+662,Brad,Pitt,1,208,Ocean's Twelve ,2004,30
+662,Brad,Pitt,1,298,Interview with the Vampire: The Vampire Chronicles ,1994,16
+662,Brad,Pitt,1,338,Se7en ,1995,34
+2109,Jeremy,Piven,1,271,Scary Movie 3 ,2003,22
+1568,Tony,Plana,1,189,An Officer and a Gentleman ,1982,6
+1256,Oliver,Platt,1,148,Doctor Dolittle ,1998,23
+1256,Oliver,Platt,1,276,A Time to Kill ,1996,17
+1256,Oliver,Platt,1,289,Indecent Proposal ,1993,23
+2534,Martha,Plimpton,1,340,Parenthood ,1989,35
+1423,Joan,Plowright,1,168,Dinosaur ,2000,28
+1423,Joan,Plowright,1,171,101 Dalmatians ,1996,15
+1423,Joan,Plowright,1,181,Bringing Down the House ,2003,25
+879,Christopher,Plummer,1,100,National Treasure ,2004,20
+879,Christopher,Plummer,1,107,A Beautiful Mind ,2001,14
+879,Christopher,Plummer,1,115,The Sound of Music ,1965,10
+1775,Glenn,Plummer,1,222,Speed ,1994,36
+2177,Amanda,Plummer,1,282,Pulp Fiction ,1994,35
+949,Roman,Podhora,1,108,Chicago ,2002,35
+1934,Larry,Poindexter,1,244,S.W.A.T. ,2003,21
+800,Sydney,Pollack,1,91,Tootsie ,1982,31
+1302,Kevin,Pollak,1,153,A Few Good Men ,1992,31
+1302,Kevin,Pollak,1,258,Dr. Dolittle 2 ,2001,12
+242,Teri,Polo,1,28,Meet the Fockers ,2004,26
+242,Teri,Polo,1,110,Meet the Parents ,2000,22
+495,John,Polson,1,55,Mission: Impossible II ,2000,20
+2379,Ellen,Pompeo,1,312,Daredevil ,2003,31
+408,Yelena,Popovic,1,46,Cast Away ,2000,10
+197,Anna,Popplewell,1,23,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe ",2005,28
+46,Natalie,Portman,1,5,Star Wars: Episode I - The Phantom Menace ,1999,22
+46,Natalie,Portman,1,7,Star Wars: Episode III - Revenge of the Sith ,2005,15
+46,Natalie,Portman,1,18,Star Wars: Episode II - Attack of the Clones ,2002,23
+1369,Richard,Portnow,1,161,Sister Act ,1992,30
+1955,Parker,Posey,1,247,You've Got Mail ,1998,8
+822,Markie,Post,1,93,There's Something About Mary ,1998,23
+414,Pete,Postlethwaite,1,47,The Lost World: Jurassic Park ,1997,35
+834,Franka,Potente,1,95,The Bourne Supremacy ,2004,18
+834,Franka,Potente,1,221,The Bourne Identity ,2002,19
+1464,Monica,Potter,1,175,Patch Adams ,1998,17
+2024,Chris,Potter,1,257,The Pacifier ,2005,13
+334,Annie,Potts,1,38,Toy Story 2 ,1999,42
+334,Annie,Potts,1,43,Ghost Busters ,1984,13
+334,Annie,Potts,1,71,Toy Story ,1995,19
+334,Annie,Potts,1,260,Ghostbusters II ,1989,26
+1258,Kyla,Pratt,1,148,Doctor Dolittle ,1998,23
+1258,Kyla,Pratt,1,258,Dr. Dolittle 2 ,2001,12
+1467,Harve,Presnell,1,175,Patch Adams ,1998,17
+1467,Harve,Presnell,1,205,Mr. Deeds ,2002,15
+1467,Harve,Presnell,1,261,Face/Off ,1997,36
+2339,Lawrence,Pressman,1,306,Nine to Five ,1980,29
+1120,Kelly,Preston,1,132,Jerry Maguire ,1996,27
+1120,Kelly,Preston,1,263,Twins ,1988,36
+1120,Kelly,Preston,1,333,The Cat in the Hat ,2003,20
+1306,J.A.,Preston,1,153,A Few Good Men ,1992,31
+1657,Carrie,Preston,1,202,My Best Friend's Wedding ,1997,41
+1274,Louis,Prima,1,150,The Jungle Book ,1967,30
+1127,Freddie,Prinze Jr.,1,133,Scooby-Doo ,2002,26
+1115,Jürgen,Prochnow,1,131,Beverly Hills Cop II ,1987,38
+447,Robert,Prosky,1,50,Mrs. Doubtfire ,1993,27
+21,David,Prowse,1,2,Star Wars ,1977,15
+21,David,Prowse,1,24,Star Wars: Episode V - The Empire Strikes Back ,1980,19
+178,Jonathan,Pryce,1,21,Pirates of the Caribbean: The Curse of the Black Pearl ,2003,21
+178,Jonathan,Pryce,1,209,Tomorrow Never Dies ,1997,26
+2422,Richard,Pryor,1,320,Stir Crazy ,1980,17
+164,Bill,Pullman,1,20,Independence Day ,1996,20
+164,Bill,Pullman,1,204,Sleepless in Seattle ,1993,29
+164,Bill,Pullman,1,270,The Grudge ,2004,31
+164,Bill,Pullman,1,283,A League of Their Own ,1992,22
+164,Bill,Pullman,1,335,Casper ,1995,27
+499,Dominic,Purcell,1,55,Mission: Impossible II ,2000,20
+772,Amrish,Puri,1,88,Indiana Jones and the Temple of Doom ,1984,24
+542,Missi,Pyle,1,60,Charlie and the Chocolate Factory ,2005,5
+542,Missi,Pyle,1,181,Bringing Down the House ,2003,25
+542,Missi,Pyle,1,252,Dodgeball: A True Underdog Story ,2004,37
+170,Randy,Quaid,1,20,Independence Day ,1996,20
+651,Dennis,Quaid,1,74,The Day After Tomorrow ,2004,19
+53,Hugh,Quarshie,1,5,Star Wars: Episode I - The Phantom Menace ,1999,22
+901,Kathleen,Quinlan,1,103,Apollo 13 ,1995,4
+1358,Patricia,Quinn,1,160,The Rocky Horror Picture Show ,1975,6
+1410,Francesco,Quinn,1,167,Platoon ,1986,16
+2048,Dean,R. Brooks,1,262,One Flew Over the Cuckoo's Nest ,1975,33
+394,Gilbert,R. Hill,1,44,Beverly Hills Cop ,1984,22
+394,Gilbert,R. Hill,1,131,Beverly Hills Cop II ,1987,38
+885,Gerald,R. Molen,1,101,Rain Man ,1988,36
+848,Steve,Rackman,1,96,Crocodile Dundee ,1986,16
+149,Daniel,Radcliffe,1,16,Harry Potter and the Sorcerer's Stone ,2001,15
+149,Daniel,Radcliffe,1,25,Harry Potter and the Goblet of Fire ,2005,24
+149,Daniel,Radcliffe,1,30,Harry Potter and the Chamber of Secrets ,2002,18
+149,Daniel,Radcliffe,1,37,Harry Potter and the Prisoner of Azkaban ,2004,22
+2101,Ted,Raimi,1,270,The Grudge ,2004,31
+2242,Jack,Ramage,1,292,Kramer vs. Kramer ,1979,10
+379,Harold,Ramis,1,43,Ghost Busters ,1984,13
+379,Harold,Ramis,1,260,Ghostbusters II ,1989,26
+1396,Theresa,Randle,1,165,Bad Boys II ,2003,19
+1958,John,Randolph,1,247,You've Got Mail ,1998,8
+121,Joe,Ranft,1,13,Finding Nemo ,2003,21
+121,Joe,Ranft,1,117,A Bug's Life ,1998,22
+798,Michael,Rapaport,1,90,Hitch ,2005,17
+939,Anthony,Rapp,1,107,A Beautiful Mind ,2001,14
+222,Devin,Ratray,1,26,Home Alone ,1990,28
+222,Devin,Ratray,1,98,Home Alone 2: Lost in New York ,1992,33
+298,John,Ratzenberger,1,34,"Monsters, Inc. ",2001,24
+298,John,Ratzenberger,1,38,Toy Story 2 ,1999,42
+298,John,Ratzenberger,1,71,Toy Story ,1995,19
+322,Adrian,Rawlins,1,37,Harry Potter and the Prisoner of Azkaban ,2004,22
+2287,Stephen,Rea,1,298,Interview with the Vampire: The Vampire Chronicles ,1994,16
+288,Chris,Rebello,1,33,Jaws ,1975,17
+172,James,Rebhorn,1,20,Independence Day ,1996,20
+172,James,Rebhorn,1,110,Meet the Parents ,2000,22
+684,Floyd,Red Crow' Westerman,1,77,Dances with Wolves ,1990,14
+2045,William,Redfield,1,262,One Flew Over the Cuckoo's Nest ,1975,33
+1044,Robert,Redford,1,121,The Sting ,1973,25
+1044,Robert,Redford,1,289,Indecent Proposal ,1993,23
+1044,Robert,Redford,1,314,Butch Cassidy and the Sundance Kid ,1969,27
+761,Vanessa,Redgrave,1,86,Mission: Impossible ,1996,29
+761,Vanessa,Redgrave,1,157,Deep Impact ,1998,28
+645,Oliver,Reed,1,73,Gladiator ,2000,16
+1023,Jerry,Reed,1,118,The Waterboy ,1998,14
+1023,Jerry,Reed,1,203,Smokey and the Bandit ,1977,13
+1424,Della,Reese,1,168,Dinosaur ,2000,28
+1478,Christopher,Reeve,1,177,Superman ,1978,26
+1478,Christopher,Reeve,1,281,Superman II ,1980,34
+607,George,Reeves,1,67,Gone with the Wind ,1939,28
+906,Keanu,Reeves,1,104,The Matrix ,1999,28
+906,Keanu,Reeves,1,211,Something's Gotta Give ,2003,34
+906,Keanu,Reeves,1,222,Speed ,1994,36
+906,Keanu,Reeves,1,340,Parenthood ,1989,35
+1220,Tara,Reid,1,143,American Pie 2 ,2001,24
+1220,Tara,Reid,1,316,American Pie ,1999,18
+386,Judge,Reinhold,1,44,Beverly Hills Cop ,1984,22
+386,Judge,Reinhold,1,131,Beverly Hills Cop II ,1987,38
+386,Judge,Reinhold,1,144,The Santa Clause ,1994,14
+386,Judge,Reinhold,1,163,The Santa Clause 2 ,2002,26
+2516,Sandra,Reinton,1,336,Shakespeare in Love ,1998,44
+1118,Paul,Reiser,1,131,Beverly Hills Cop II ,1987,38
+1277,Bruce,Reitherman,1,150,The Jungle Book ,1967,30
+1088,James,Remar,1,127,What Lies Beneath ,2000,23
+1088,James,Remar,1,200,2 Fast 2 Furious ,2003,13
+1931,Jeremy,Renner,1,244,S.W.A.T. ,2003,21
+759,Jean,Reno,1,86,Mission: Impossible ,1996,29
+759,Jean,Reno,1,172,Godzilla ,1998,23
+2107,Simon,Rex,1,271,Scary Movie 3 ,2003,22
+1059,Burt,Reynolds,1,123,The Longest Yard ,2005,14
+1059,Burt,Reynolds,1,203,Smokey and the Bandit ,1977,13
+1665,George,Reynolds,1,203,Smokey and the Bandit ,1977,13
+493,Ving,Rhames,1,55,Mission: Impossible II ,2000,20
+493,Ving,Rhames,1,86,Mission: Impossible ,1996,29
+493,Ving,Rhames,1,142,Lilo & Stitch ,2002,21
+493,Ving,Rhames,1,282,Pulp Fiction ,1994,35
+493,Ving,Rhames,1,325,Con Air ,1997,18
+1528,Julian,Rhind-Tutt,1,184,Lara Croft: Tomb Raider ,2001,23
+1528,Julian,Rhind-Tutt,1,245,Notting Hill ,1999,21
+349,John,Rhys-Davies,1,40,Raiders of the Lost Ark ,1981,23
+349,John,Rhys-Davies,1,69,Indiana Jones and the Last Crusade ,1989,29
+486,Giovanni,Ribisi,1,54,Saving Private Ryan ,1998,12
+486,Giovanni,Ribisi,1,317,Gone in Sixty Seconds ,2000,32
+1236,Adrian,Ricard,1,145,"I, Robot ",2004,32
+2009,Christina,Ricci,1,255,The Addams Family ,1991,18
+2009,Christina,Ricci,1,326,Sleepy Hollow ,1999,11
+2009,Christina,Ricci,1,335,Casper ,1995,27
+1863,Condoleezza,Rice,1,234,Fahrenheit 9/11 ,2004,13
+2490,Taylor,Rice,1,333,The Cat in the Hat ,2003,20
+103,Ariana,Richards,1,11,Jurassic Park ,1993,20
+1649,Denise,Richards,1,201,The World Is Not Enough ,1999,14
+1437,Joely,Richardson,1,171,101 Dalmatians ,1996,15
+1437,Joely,Richardson,1,256,The Patriot ,2000,19
+2067,Ralph,Richardson,1,265,Doctor Zhivago ,1965,23
+2199,Miranda,Richardson,1,286,Chicken Run ,2000,13
+2199,Miranda,Richardson,1,326,Sleepy Hollow ,1999,11
+631,Andy,Richter,1,70,Madagascar ,2005,27
+631,Andy,Richter,1,258,Dr. Dolittle 2 ,2001,12
+332,Don,Rickles,1,38,Toy Story 2 ,1999,42
+332,Don,Rickles,1,71,Toy Story ,1995,19
+966,Alan,Rickman,1,111,Robin Hood: Prince of Thieves ,1991,16
+1296,Peter,Riegert,1,152,Animal House ,1978,32
+1296,Peter,Riegert,1,228,The Mask ,1994,36
+2207,Joseph,Rigano,1,287,Analyze This ,1999,20
+2495,Lucia,Rijker,1,334,Million Dollar Baby ,2004,23
+2474,Jack,Riley,1,331,The Rugrats Movie ,1998,11
+1724,Emilio,Rivera,1,212,Traffic ,2000,20
+1562,Sam,Robards,1,188,American Beauty ,1999,23
+2533,Jason,Robards,1,340,Parenthood ,1989,35
+399,Tim,Robbins,1,45,War of the Worlds ,2005,13
+399,Tim,Robbins,1,92,Top Gun ,1986,34
+781,Julia,Roberts,1,89,Pretty Woman ,1990,15
+781,Julia,Roberts,1,135,Runaway Bride ,1999,29
+781,Julia,Roberts,1,202,My Best Friend's Wedding ,1997,41
+781,Julia,Roberts,1,207,Erin Brockovich ,2000,13
+781,Julia,Roberts,1,208,Ocean's Twelve ,2004,30
+781,Julia,Roberts,1,229,Hook ,1991,22
+781,Julia,Roberts,1,245,Notting Hill ,1999,21
+781,Julia,Roberts,1,319,Sleeping with the Enemy ,1991,16
+781,Julia,Roberts,1,328,The Pelican Brief ,1993,26
+1833,Dallas,Roberts,1,231,Walk the Line ,2005,24
+59,Cliff,Robertson,1,6,Spider-Man ,2002,23
+891,Kim,Robillard,1,101,Rain Man ,1988,36
+403,Ann,Robinson,1,45,War of the Worlds ,2005,13
+586,The,Rock,1,65,The Mummy Returns ,2001,24
+626,Chris,Rock,1,70,Madagascar ,2005,27
+626,Chris,Rock,1,123,The Longest Yard ,2005,14
+626,Chris,Rock,1,190,Lethal Weapon 4 ,1998,18
+687,Charles,Rocket,1,77,Dances with Wolves ,1990,14
+687,Charles,Rocket,1,199,Dumb & Dumber ,1994,20
+2069,Jeffrey,Rockland,1,265,Doctor Zhivago ,1965,23
+1428,Sam,Rockwell,1,169,The Green Mile ,1999,13
+1428,Sam,Rockwell,1,210,Charlie's Angels ,2000,23
+1692,George,Rocky Sullivan,1,207,Erin Brockovich ,2000,13
+1247,Michelle,Rodriguez,1,147,The Fast and the Furious ,2001,16
+1247,Michelle,Rodriguez,1,244,S.W.A.T. ,2003,21
+1691,Valente,Rodriguez,1,207,Erin Brockovich ,2000,13
+700,Daniel,Roebuck,1,79,The Fugitive ,1993,16
+2142,Seth,Rogen,1,275,The 40 Year Old Virgin ,2005,13
+1150,Reg,Rogers,1,135,Runaway Bride ,1999,29
+2504,Fred,Rogers,1,335,Casper ,1995,27
+660,Sasha,Roiz,1,74,The Day After Tomorrow ,2004,19
+2220,Esther,Rolle,1,290,Driving Miss Daisy ,1989,24
+1196,Mark,Rolston,1,140,Lethal Weapon 2 ,1989,24
+826,Ray,Romano,1,94,Ice Age ,2002,22
+2431,Andy,Romano,1,322,Eraser ,1996,30
+508,Rebecca,Romijn,1,56,X2 ,2003,26
+508,Rebecca,Romijn,1,124,X-Men ,2000,27
+1308,Michael,Roof,1,154,xXx ,2002,23
+119,Stephen,Root,1,13,Finding Nemo ,2003,21
+119,Stephen,Root,1,94,Ice Age ,2002,22
+119,Stephen,Root,1,252,Dodgeball: A True Underdog Story ,2004,37
+1505,Michael,Rosenbaum,1,181,Bringing Down the House ,2003,25
+1885,Chelcie,Ross,1,238,Basic Instinct ,1992,33
+2306,Katharine,Ross,1,301,The Graduate ,1967,26
+2306,Katharine,Ross,1,314,Butch Cassidy and the Sundance Kid ,1969,27
+815,Rick,Rossovich,1,92,Top Gun ,1986,34
+653,Emmy,Rossum,1,74,The Day After Tomorrow ,2004,19
+764,Tim,Roth,1,87,Planet of the Apes ,2001,22
+764,Tim,Roth,1,282,Pulp Fiction ,1994,35
+2294,Richard,Roundtree,1,299,George of the Jungle ,1997,22
+1636,Victoria,Rowell,1,199,Dumb & Dumber ,1994,20
+494,Richard,Roxburgh,1,55,Mission: Impossible II ,2000,20
+494,Richard,Roxburgh,1,227,Van Helsing ,2004,13
+544,Deep,Roy,1,60,Charlie and the Chocolate Factory ,2005,5
+2440,Saul,Rubinek,1,324,Unforgiven ,1992,25
+360,Alan,Ruck,1,41,Twister ,1996,36
+360,Alan,Ruck,1,222,Speed ,1994,36
+2140,Paul,Rudd,1,275,The 40 Year Old Virgin ,2005,13
+1781,Maya,Rudolph,1,223,50 First Dates ,2004,29
+1987,Mercedes,Ruehl,1,251,Big ,1988,23
+2543,Mark,Ruffalo,1,342,Collateral ,2004,26
+2303,Vyto,Ruginis,1,300,Phenomenon ,1996,26
+1253,Ja,Rule,1,147,The Fast and the Furious ,2001,16
+175,Geoffrey,Rush,1,21,Pirates of the Caribbean: The Curse of the Black Pearl ,2003,21
+175,Geoffrey,Rush,1,336,Shakespeare in Love ,1998,44
+2314,Deborah,Rush,1,302,American Wedding ,2003,34
+1543,Jared,Rushton,1,186,"Honey, I Shrunk the Kids ",1989,17
+1543,Jared,Rushton,1,251,Big ,1988,23
+2463,Kurt,Russell,1,330,Vanilla Sky ,2001,5
+391,James,Russo,1,44,Beverly Hills Cop ,1984,22
+1241,Rene,Russo,1,146,Lethal Weapon 3 ,1992,33
+1241,Rene,Russo,1,170,Ransom ,1996,26
+1241,Rene,Russo,1,190,Lethal Weapon 4 ,1998,18
+1241,Rene,Russo,1,313,In the Line of Fire ,1993,8
+606,Ann,Rutherford,1,67,Gone with the Wind ,1939,28
+735,Mitch,Ryan,1,83,Liar Liar ,1997,39
+1669,Meg,Ryan,1,204,Sleepless in Seattle ,1993,29
+1669,Meg,Ryan,1,247,You've Got Mail ,1998,8
+2120,Will,Ryan,1,272,The Little Mermaid ,1989,38
+276,Josh,Ryan Evans,1,32,How the Grinch Stole Christmas ,2000,27
+1852,Christopher,Rydell,1,233,On Golden Pond ,1981,24
+1675,Winona,Ryder,1,205,Mr. Deeds ,2002,15
+412,Dmitri,S. Boudrine,1,46,Cast Away ,2000,10
+1472,Richard,S. Castellano,1,176,The Godfather ,1972,17
+2133,Charles,S. Dutton,1,274,Crocodile' Dundee II ,1988,30
+2133,Charles,S. Dutton,1,276,A Time to Kill ,1996,17
+2035,Daryl,Sabara,1,259,Spy Kids ,2001,7
+2035,Daryl,Sabara,1,264,Spy Kids 3-D: Game Over ,2003,16
+140,Ernie,Sabella,1,15,The Lion King ,1994,28
+1897,William,Sadler,1,240,Die Hard 2 ,1990,35
+1462,James,Saito,1,174,Teenage Mutant Ninja Turtles ,1990,32
+480,Lea,Salonga,1,53,Aladdin ,1992,56
+784,Laura,San Giacomo,1,89,Pretty Woman ,1990,15
+404,Paul,Sanchez,1,46,Cast Away ,2000,10
+434,Roselyn,Sanchez,1,49,Rush Hour 2 ,2001,19
+1327,Sandra,Sánchez,1,156,The Blair Witch Project ,1999,28
+695,Elizabeth,Sanders,1,78,Batman Forever ,1995,23
+1206,Chris,Sanders,1,142,Lilo & Stitch ,2002,21
+1275,George,Sanders,1,150,The Jungle Book ,1967,30
+987,Adam,Sandler,1,114,Big Daddy ,1999,24
+987,Adam,Sandler,1,118,The Waterboy ,1998,14
+987,Adam,Sandler,1,123,The Longest Yard ,2005,14
+987,Adam,Sandler,1,179,Anger Management ,2003,10
+987,Adam,Sandler,1,205,Mr. Deeds ,2002,15
+987,Adam,Sandler,1,223,50 First Dates ,2004,29
+1753,Miguel,Sandoval,1,218,Clear and Present Danger ,1994,9
+2460,Rodrigo,Santoro,1,329,Charlie's Angels: Full Throttle ,2003,20
+1074,Leanne,Santos,1,125,Scary Movie ,2000,20
+1065,Bob,Sapp,1,123,The Longest Yard ,2005,14
+1355,Susan,Sarandon,1,160,The Rocky Horror Picture Show ,1975,6
+1884,Leilani,Sarelle,1,238,Basic Instinct ,1992,33
+345,Paul,Satterfield,1,39,Bruce Almighty ,2003,15
+1721,Michael,Saucedo,1,212,Traffic ,2000,20
+31,Jennifer,Saunders,1,3,Shrek 2 ,2004,45
+943,Cliff,Saunders,1,108,Chicago ,2002,35
+517,Fred,Savage,1,57,Austin Powers in Goldmember ,2002,21
+1447,Doug,Savant,1,172,Godzilla ,1998,23
+2200,Julia,Sawalha,1,286,Chicken Run ,2000,13
+91,Mattia,Sbragia,1,10,The Passion of the Christ ,2004,9
+2250,Fabio,Scarpa,1,293,The Italian Job ,2003,16
+1087,Diana,Scarwid,1,127,What Lies Beneath ,2000,23
+1344,Jason,Schaller,1,158,Look Who's Talking ,1989,27
+1686,Heidi,Schanz,1,206,The Truman Show ,1998,14
+279,Roy,Scheider,1,33,Jaws ,1975,17
+279,Roy,Scheider,1,308,Jaws 2 ,1978,15
+1335,Maximilian,Schell,1,157,Deep Impact ,1998,28
+1011,Vincent,Schiavelli,1,116,Batman Returns ,1992,36
+1011,Vincent,Schiavelli,1,209,Tomorrow Never Dies ,1997,26
+420,Richard,Schiff,1,47,The Lost World: Jurassic Park ,1997,35
+420,Richard,Schiff,1,148,Doctor Dolittle ,1998,23
+1389,Kevin,Schmidt,1,164,Cheaper by the Dozen ,2003,24
+995,Rob,Schneider,1,114,Big Daddy ,1999,24
+995,Rob,Schneider,1,223,50 First Dates ,2004,29
+648,David,Schofield,1,73,Gladiator ,2000,16
+1432,Liev,Schreiber,1,170,Ransom ,1996,26
+1432,Liev,Schreiber,1,237,The Sum of All Fears ,2002,12
+1251,Matt,Schulze,1,147,The Fast and the Furious ,2001,16
+2169,Robert,Schwartzman,1,280,The Princess Diaries ,2001,19
+559,Arnold,Schwarzenegger,1,63,Terminator 2: Judgment Day ,1991,11
+559,Arnold,Schwarzenegger,1,137,Terminator 3: Rise of the Machines ,2003,11
+559,Arnold,Schwarzenegger,1,141,True Lies ,1994,26
+559,Arnold,Schwarzenegger,1,232,Total Recall ,1990,24
+559,Arnold,Schwarzenegger,1,263,Twins ,1988,36
+559,Arnold,Schwarzenegger,1,284,Batman & Robin ,1997,22
+559,Arnold,Schwarzenegger,1,322,Eraser ,1996,30
+627,David,Schwimmer,1,70,Madagascar ,2005,27
+855,Peter,Scolari,1,97,The Polar Express ,2004,18
+1030,Martin,Scorsese,1,119,Shark Tale ,2004,26
+2211,Izabella,Scorupco,1,288,GoldenEye ,1995,23
+491,Dougray,Scott,1,55,Mission: Impossible II ,2000,20
+1231,Judith,Scott,1,144,The Santa Clause ,1994,14
+1522,Klea,Scott,1,183,Minority Report ,2002,11
+1522,Klea,Scott,1,342,Collateral ,2004,26
+1819,Amber,Scott,1,229,Hook ,1991,22
+701,L.,Scott Caldwell,1,79,The Fugitive ,1993,16
+1210,Jason,Scott Lee,1,142,Lilo & Stitch ,2002,21
+760,Kristin,Scott Thomas,1,86,Mission: Impossible ,1996,29
+477,Douglas,Seale,1,53,Aladdin ,1992,56
+2479,Jean,Seberg,1,332,Airport ,1970,14
+2416,Kyle,Secor,1,319,Sleeping with the Enemy ,1991,16
+1398,Jon,Seda,1,165,Bad Boys II ,2003,19
+873,Amy,Sedaris,1,99,Elf ,2003,31
+873,Amy,Sedaris,1,173,Chicken Little ,2005,19
+2299,Kyra,Sedgwick,1,300,Phenomenon ,1996,26
+2290,Mike,Seelig,1,298,Interview with the Vampire: The Vampire Chronicles ,1994,16
+1341,George,Segal,1,158,Look Who's Talking ,1989,27
+952,Tom,Selleck,1,109,Three Men and a Baby ,1987,19
+497,Rade,Serbedzija,1,55,Mission: Impossible II ,2000,20
+454,Andy,Serkis,1,51,King Kong ,2005,10
+1456,Raymond,Serra,1,174,Teenage Mutant Ninja Turtles ,1990,32
+773,Roshan,Seth,1,88,Indiana Jones and the Temple of Doom ,1984,24
+533,Jane,Seymour,1,59,Wedding Crashers ,2005,15
+888,Ralph,Seymour,1,101,Rain Man ,1988,36
+358,Philip,Seymour Hoffman,1,41,Twister ,1996,36
+358,Philip,Seymour Hoffman,1,175,Patch Adams ,1998,17
+2545,Barry,Shabaka Henley,1,342,Collateral ,2004,26
+201,Kiran,Shah,1,23,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe ",2005,28
+1269,Martin,Shakar,1,149,Saturday Night Fever ,1977,31
+315,Tony,Shalhoub,1,36,Men in Black ,1997,40
+315,Tony,Shalhoub,1,72,Men in Black II ,2002,27
+315,Tony,Shalhoub,1,259,Spy Kids ,2001,7
+274,Molly,Shannon,1,32,How the Grinch Stole Christmas ,2000,27
+1397,Michael,Shannon,1,165,Bad Boys II ,2003,19
+1397,Michael,Shannon,1,330,Vanilla Sky ,2001,5
+2061,Omar,Sharif,1,265,Doctor Zhivago ,1965,23
+2121,William,Shatner,1,273,Star Trek IV: The Voyage Home ,1986,29
+2121,William,Shatner,1,285,Miss Congeniality ,2000,21
+150,Fiona,Shaw,1,16,Harry Potter and the Sorcerer's Stone ,2001,15
+150,Fiona,Shaw,1,30,Harry Potter and the Chamber of Secrets ,2002,18
+150,Fiona,Shaw,1,37,Harry Potter and the Prisoner of Azkaban ,2004,22
+162,Sebastian,Shaw,1,19,Star Wars: Episode VI - Return of the Jedi ,1983,6
+280,Robert,Shaw,1,33,Jaws ,1975,17
+280,Robert,Shaw,1,121,The Sting ,1973,25
+2398,Reta,Shaw,1,315,Mary Poppins ,1964,33
+267,Wallace,Shawn,1,31,The Incredibles ,2004,21
+267,Wallace,Shawn,1,38,Toy Story 2 ,1999,42
+267,Wallace,Shawn,1,71,Toy Story ,1995,19
+267,Wallace,Shawn,1,173,Chicken Little ,2005,19
+821,Lin,Shaye,1,93,There's Something About Mary ,1998,23
+1445,Harry,Shearer,1,172,Godzilla ,1998,23
+1445,Harry,Shearer,1,173,Chicken Little ,2005,19
+979,Martin,Sheen,1,113,Catch Me If You Can ,2002,22
+1408,Charlie,Sheen,1,167,Platoon ,1986,16
+1408,Charlie,Sheen,1,271,Scary Movie 3 ,2003,22
+2151,Sam,Shepard,1,277,Black Hawk Down ,2001,16
+2151,Sam,Shepard,1,328,The Pelican Brief ,1993,26
+2513,Antony,Sher,1,336,Shakespeare in Love ,1998,44
+1070,Dave,Sheridan,1,125,Scary Movie ,2000,20
+1240,Peter,Shinkoda,1,145,"I, Robot ",2004,32
+1618,Talia,Shire,1,197,Rocky IV ,1985,17
+1618,Talia,Shire,1,217,Rocky III ,1982,34
+1618,Talia,Shire,1,241,Rocky ,1976,15
+94,Hristo,Shopov,1,10,The Passion of the Christ ,2004,9
+2438,Martin,Short,1,323,The Prince of Egypt ,1998,31
+649,John,Shrapnel,1,73,Gladiator ,2000,16
+649,John,Shrapnel,1,171,101 Dalmatians ,1996,15
+649,John,Shrapnel,1,180,Troy ,2004,26
+1871,Elisabeth,Shue,1,236,Back to the Future Part II ,1989,22
+1874,Casey,Siemaszko,1,236,Back to the Future Part II ,1989,22
+2455,James,Sikking,1,328,The Pelican Brief ,1993,26
+1749,Al,Silvani,1,217,Rocky III ,1982,34
+1749,Al,Silvani,1,241,Rocky ,1976,15
+1114,Joel,Silver,1,130,Who Framed Roger Rabbit ,1988,33
+2186,Alicia,Silverstone,1,284,Batman & Robin ,1997,22
+61,J.K.,Simmons,1,6,Spider-Man ,2002,23
+61,J.K.,Simmons,1,9,Spider-Man 2 ,2004,10
+1953,O.J.,Simpson,1,246,The Towering Inferno ,1974,17
+264,Jean,Sincere,1,31,The Incredibles ,2004,21
+1604,Madge,Sinclair,1,195,Coming to America ,1988,36
+846,Ritchie,Singer,1,96,Crocodile Dundee ,1986,16
+125,Gary,Sinise,1,14,Forrest Gump ,1994,27
+125,Gary,Sinise,1,103,Apollo 13 ,1995,4
+125,Gary,Sinise,1,170,Ransom ,1996,26
+1422,Peter,Siragusa,1,168,Dinosaur ,2000,28
+1458,Michelan,Sisti,1,174,Teenage Mutant Ninja Turtles ,1990,32
+481,Tom,Sizemore,1,54,Saving Private Ryan ,1998,12
+481,Tom,Sizemore,1,68,Pearl Harbor ,2001,29
+481,Tom,Sizemore,1,277,Black Hawk Down ,2001,16
+1400,Stellan,Skarsgård,1,166,Good Will Hunting ,1997,16
+811,Tom,Skerritt,1,92,Top Gun ,1986,34
+811,Tom,Skerritt,1,327,Contact ,1997,25
+849,Gerry,Skilton,1,96,Crocodile Dundee ,1986,16
+1693,Pat,Skipper,1,207,Erin Brockovich ,2000,13
+965,Christian,Slater,1,111,Robin Hood: Prince of Thieves ,1991,16
+965,Christian,Slater,1,298,Interview with the Vampire: The Vampire Chronicles ,1994,16
+1684,Blair,Slater,1,206,The Truman Show ,1998,14
+1729,Helen,Slater,1,213,City Slickers ,1991,21
+1502,Jean,Smart,1,181,Bringing Down the House ,2003,25
+1502,Jean,Smart,1,198,Sweet Home Alabama ,2002,30
+146,Maggie,Smith,1,16,Harry Potter and the Sorcerer's Stone ,2001,15
+146,Maggie,Smith,1,161,Sister Act ,1992,30
+146,Maggie,Smith,1,229,Hook ,1991,22
+146,Maggie,Smith,1,297,The First Wives Club ,1996,16
+168,Will,Smith,1,20,Independence Day ,1996,20
+168,Will,Smith,1,36,Men in Black ,1997,40
+168,Will,Smith,1,72,Men in Black II ,2002,27
+168,Will,Smith,1,90,Hitch ,2005,17
+168,Will,Smith,1,119,Shark Tale ,2004,26
+168,Will,Smith,1,145,"I, Robot ",2004,32
+168,Will,Smith,1,165,Bad Boys II ,2003,19
+168,Will,Smith,1,254,Wild Wild West ,1999,21
+168,Will,Smith,1,266,Enemy of the State ,1998,41
+359,Lois,Smith,1,41,Twister ,1996,36
+359,Lois,Smith,1,126,Fatal Attraction ,1987,31
+658,Arjay,Smith,1,74,The Day After Tomorrow ,2004,19
+1184,Yeardley,Smith,1,139,As Good as It Gets ,1997,27
+1244,Ebonie,Smith,1,146,Lethal Weapon 3 ,1992,33
+1391,Jacob,Smith,1,164,Cheaper by the Dozen ,2003,24
+1391,Jacob,Smith,1,180,Troy ,2004,26
+1536,Brooke,Smith,1,185,The Silence of the Lambs ,1991,23
+1739,Juney,Smith,1,215,"Good Morning, Vietnam ",1987,39
+1971,Eddie,Smith,1,249,"The Karate Kid, Part II ",1986,18
+67,Jimmy,Smits,1,7,Star Wars: Episode III - Revenge of the Sith ,2005,15
+2022,Brittany,Snow,1,257,The Pacifier ,2005,13
+323,Geraldine,Somerville,1,37,Harry Potter and the Prisoner of Azkaban ,2004,22
+1465,Josef,Sommer,1,175,Patch Adams ,1998,17
+1699,David,Sontag,1,208,Ocean's Twelve ,2004,30
+1700,Larry,Sontag,1,208,Ocean's Twelve ,2004,30
+2470,Kath,Soucie,1,331,The Rugrats Movie ,1998,11
+1013,Kevin,Spacey,1,117,A Bug's Life ,1998,22
+1013,Kevin,Spacey,1,188,American Beauty ,1999,23
+1013,Kevin,Spacey,1,276,A Time to Kill ,1996,17
+1013,Kevin,Spacey,1,338,Se7en ,1995,34
+2467,David,Spade,1,331,The Rugrats Movie ,1998,11
+207,Timothy,Spall,1,25,Harry Potter and the Goblet of Fire ,2005,24
+207,Timothy,Spall,1,235,Lemony Snicket's A Series of Unfortunate Events ,2004,24
+207,Timothy,Spall,1,286,Chicken Run ,2000,13
+207,Timothy,Spall,1,330,Vanilla Sky ,2001,5
+1485,John,Spencer,1,178,The Rock ,1996,14
+2325,Craig,Spidle,1,304,Road to Perdition ,2002,26
+1905,Joe,Spinell,1,241,Rocky ,1976,15
+2302,Brent,Spiner,1,300,Phenomenon ,1996,26
+1489,Gregory,Sporleder,1,178,The Rock ,1996,14
+990,Cole,Sprouse,1,114,Big Daddy ,1999,24
+991,Dylan,Sprouse,1,114,Big Daddy ,1999,24
+2110,Timothy,Stack,1,271,Scary Movie 3 ,2003,22
+1162,Nick,Stahl,1,137,Terminator 3: Rise of the Machines ,2003,11
+1152,Sylvester,Stallone,1,136,Rambo: First Blood Part II ,1985,40
+1152,Sylvester,Stallone,1,197,Rocky IV ,1985,17
+1152,Sylvester,Stallone,1,217,Rocky III ,1982,34
+1152,Sylvester,Stallone,1,241,Rocky ,1976,15
+1152,Sylvester,Stallone,1,264,Spy Kids 3-D: Game Over ,2003,16
+1133,Charles,Stan Frazier,1,133,Scooby-Doo ,2002,26
+2423,Georg,Stanford Brown,1,320,Stir Crazy ,1980,17
+1956,Jean,Stapleton,1,247,You've Got Mail ,1998,8
+2484,Maureen,Stapleton,1,332,Airport ,1970,14
+1634,Mike,Starr,1,199,Dumb & Dumber ,1994,20
+1634,Mike,Starr,1,219,The Bodyguard ,1992,27
+1830,Jack,Starrett,1,230,Blazing Saddles ,1974,31
+2245,Jason,Statham,1,293,The Italian Job ,2003,16
+2201,Imelda,Staunton,1,286,Chicken Run ,2000,13
+1173,Don,Steele,1,138,Gremlins ,1984,8
+868,Mary,Steenburgen,1,99,Elf ,2003,31
+868,Mary,Steenburgen,1,340,Parenthood ,1989,35
+2375,Gwen,Stefani,1,311,The Aviator ,2004,18
+2368,Leslie,Stefanson,1,310,The General's Daughter ,1999,3
+2064,Rod,Steiger,1,265,Doctor Zhivago ,1965,23
+2502,Ben,Stein,1,335,Casper ,1995,27
+1036,Toby,Stephens,1,120,Die Another Day ,2002,14
+277,Mindy,Sterling,1,32,How the Grinch Stole Christmas ,2000,27
+277,Mindy,Sterling,1,57,Austin Powers in Goldmember ,2002,21
+277,Mindy,Sterling,1,61,Austin Powers: The Spy Who Shagged Me ,1999,39
+217,Daniel,Stern,1,26,Home Alone ,1990,28
+217,Daniel,Stern,1,98,Home Alone 2: Lost in New York ,1992,33
+217,Daniel,Stern,1,213,City Slickers ,1991,21
+1546,Carl,Steven,1,186,"Honey, I Shrunk the Kids ",1989,17
+2333,Lawrence,Steven Meyers,1,305,Dick Tracy ,1990,22
+501,Patrick,Stewart,1,56,X2 ,2003,26
+501,Patrick,Stewart,1,124,X-Men ,2000,27
+501,Patrick,Stewart,1,173,Chicken Little ,2005,19
+501,Patrick,Stewart,1,323,The Prince of Egypt ,1998,31
+989,Jon,Stewart,1,114,Big Daddy ,1999,24
+835,Julia,Stiles,1,95,The Bourne Supremacy ,2004,18
+835,Julia,Stiles,1,221,The Bourne Identity ,2002,19
+238,Ben,Stiller,1,28,Meet the Fockers ,2004,26
+238,Ben,Stiller,1,70,Madagascar ,2005,27
+238,Ben,Stiller,1,93,There's Something About Mary ,1998,23
+238,Ben,Stiller,1,110,Meet the Parents ,2000,22
+238,Ben,Stiller,1,252,Dodgeball: A True Underdog Story ,2004,37
+813,John,Stockwell,1,92,Top Gun ,1986,34
+897,Dean,Stockwell,1,102,Air Force One ,1997,31
+897,Dean,Stockwell,1,131,Beverly Hills Cop II ,1987,38
+774,Philip,Stone,1,88,Indiana Jones and the Temple of Doom ,1984,24
+1840,Sharon,Stone,1,232,Total Recall ,1990,24
+1840,Sharon,Stone,1,238,Basic Instinct ,1992,33
+1390,Alyson,Stoner,1,164,Cheaper by the Dozen ,2003,24
+418,Peter,Stormare,1,47,The Lost World: Jurassic Park ,1997,35
+418,Peter,Stormare,1,66,Armageddon ,1998,9
+418,Peter,Stormare,1,165,Bad Boys II ,2003,19
+2366,Madeleine,Stowe,1,310,The General's Daughter ,1999,3
+2206,Michael,Straka,1,287,Analyze This ,1999,20
+1540,Marcia,Strassman,1,186,"Honey, I Shrunk the Kids ",1989,17
+1056,David,Strathairn,1,122,The Firm ,1993,21
+1056,David,Strathairn,1,283,A League of Their Own ,1992,22
+1870,Meryl,Streep,1,235,Lemony Snicket's A Series of Unfortunate Events ,2004,24
+1870,Meryl,Streep,1,292,Kramer vs. Kramer ,1979,10
+239,Barbra,Streisand,1,28,Meet the Fockers ,2004,26
+2098,KaDee,Strickland,1,270,The Grudge ,2004,31
+1250,Johnny,Strong,1,147,The Fast and the Furious ,2001,16
+2471,Tara,Strong,1,331,The Rugrats Movie ,1998,11
+1779,Lusia,Strus,1,223,50 First Dates ,2004,29
+2012,Carel,Struycken,1,255,The Addams Family ,1991,18
+7,Gloria,Stuart,1,1,Titanic ,1997,32
+1279,Chad,Stuart,1,150,The Jungle Book ,1967,30
+1738,Chintara,Sukapatana,1,215,"Good Morning, Vietnam ",1987,39
+1658,Susan,Sullivan,1,202,My Best Friend's Wedding ,1997,41
+2331,Neil,Summers,1,305,Dick Tracy ,1990,22
+458,John,Sumner,1,51,King Kong ,2005,10
+1965,Ethan,Suplee,1,248,Remember the Titans ,2000,33
+410,Semion,Suradikov,1,46,Cast Away ,2000,10
+1301,Kiefer,Sutherland,1,153,A Few Good Men ,1992,31
+1301,Kiefer,Sutherland,1,276,A Time to Kill ,1996,17
+1541,Kristine,Sutherland,1,186,"Honey, I Shrunk the Kids ",1989,17
+2149,Donald,Sutherland,1,276,A Time to Kill ,1996,17
+2149,Donald,Sutherland,1,293,The Italian Job ,2003,16
+426,Ted,Sutton,1,48,Signs ,2002,15
+1222,Mena,Suvari,1,143,American Pie 2 ,2001,24
+1222,Mena,Suvari,1,188,American Beauty ,1999,23
+2040,Dominique,Swain,1,261,Face/Off ,1997,36
+2492,Hilary,Swank,1,334,Million Dollar Baby ,2004,23
+996,Kristy,Swanson,1,114,Big Daddy ,1999,24
+1328,Ed,Swanson,1,156,The Blair Witch Project ,1999,28
+460,Patrick,Swayze,1,52,Ghost ,1990,15
+1417,D.B.,Sweeney,1,168,Dinosaur ,2000,28
+1717,Tanya,Sweet,1,211,Something's Gotta Give ,2003,34
+43,Richard,Swingler,1,4,E.T. the Extra-Terrestrial ,1982,19
+198,Tilda,Swinton,1,23,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe ",2005,28
+198,Tilda,Swinton,1,330,Vanilla Sky ,2001,5
+206,Eric,Sykes,1,25,Harry Potter and the Goblet of Fire ,2005,24
+1569,Harold,Sylvester,1,189,An Officer and a Gentleman ,1982,6
+1746,Mr.,T,1,217,Rocky III ,1982,34
+1504,Angus,T. Jones,1,181,Bringing Down the House ,2003,25
+2546,Richard,T. Jones,1,342,Collateral ,2004,26
+259,Craig,T. Nelson,1,31,The Incredibles ,2004,21
+259,Craig,T. Nelson,1,320,Stir Crazy ,1980,17
+353,Vic,Tablian,1,40,Raiders of the Lost Ark ,1981,23
+767,Cary-Hiroyuki,Tagawa,1,87,Planet of the Apes ,2001,22
+2124,George,Takei,1,273,Star Trek IV: The Voyage Home ,1986,29
+882,Oleg,Taktarov,1,100,National Treasure ,2004,20
+1229,Paige,Tamada,1,144,The Santa Clause ,1994,14
+1584,Amber,Tamblyn,1,192,The Ring ,2002,16
+271,Jeffrey,Tambor,1,32,How the Grinch Stole Christmas ,2000,27
+271,Jeffrey,Tambor,1,93,There's Something About Mary ,1998,23
+271,Jeffrey,Tambor,1,148,Doctor Dolittle ,1998,23
+2218,Jessica,Tandy,1,290,Driving Miss Daisy ,1989,24
+2205,Bart,Tangredi,1,287,Analyze This ,1999,20
+384,Steven,Tash,1,43,Ghost Busters ,1984,13
+870,Daniel,Tay,1,99,Elf ,2003,31
+541,Noah,Taylor,1,60,Charlie and the Chocolate Factory ,2005,5
+541,Noah,Taylor,1,184,Lara Croft: Tomb Raider ,2001,23
+541,Noah,Taylor,1,330,Vanilla Sky ,2001,5
+1137,Rod,Taylor,1,134,One Hundred and One Dalmatians ,1961,24
+1431,Lili,Taylor,1,170,Ransom ,1996,26
+1551,Elizabeth,Taylor,1,187,The Flintstones ,1994,31
+1682,Holland,Taylor,1,206,The Truman Show ,1998,14
+1682,Holland,Taylor,1,264,Spy Kids 3-D: Game Over ,2003,16
+1682,Holland,Taylor,1,299,George of the Jungle ,1997,22
+1687,Ron,Taylor,1,206,The Truman Show ,1998,14
+1991,Christine,Taylor,1,252,Dodgeball: A True Underdog Story ,2004,37
+2031,Elayn,Taylor,1,258,Dr. Dolittle 2 ,2001,12
+2215,Rip,Taylor,1,289,Indecent Proposal ,1993,23
+2410,Dub,Taylor,1,318,Maverick ,1994,9
+135,Jonathan,Taylor Thomas,1,15,The Lion King ,1994,28
+208,David,Tennant,1,25,Harry Potter and the Goblet of Fire ,2005,24
+1769,Lee,Tergesen,1,220,Wayne's World ,1992,27
+2378,Scott,Terra,1,312,Daredevil ,2003,31
+1512,Todd,Tesen,1,182,Hulk ,2003,5
+1737,Tung,Thanh Tran,1,215,"Good Morning, Vietnam ",1987,39
+1186,Jill,the Dog,1,139,As Good as It Gets ,1997,27
+1187,Timer,the Dog,1,139,As Good as It Gets ,1997,27
+630,Cedric,the Entertainer,1,70,Madagascar ,2005,27
+630,Cedric,the Entertainer,1,94,Ice Age ,2002,22
+2244,Charlize,Theron,1,293,The Italian Job ,2003,16
+2459,Justin,Theroux,1,329,Charlie's Angels: Full Throttle ,2003,20
+2023,Max,Thieriot,1,257,The Pacifier ,2005,13
+1495,Lynne,Thigpen,1,179,Anger Management ,2003,10
+34,Henry,Thomas,1,4,E.T. the Extra-Terrestrial ,1982,19
+41,C.,Thomas Howell,1,4,E.T. the Extra-Terrestrial ,1982,19
+521,Lea,Thompson,1,58,Back to the Future ,1985,30
+521,Lea,Thompson,1,236,Back to the Future Part II ,1989,22
+362,Scott,Thomson,1,41,Twister ,1996,36
+2185,Uma,Thurman,1,284,Batman & Robin ,1997,22
+1434,Nancy,Ticotin,1,170,Ransom ,1996,26
+1715,Rachel,Ticotin,1,211,Something's Gotta Give ,2003,34
+1715,Rachel,Ticotin,1,232,Total Recall ,1990,24
+1715,Rachel,Ticotin,1,325,Con Air ,1997,18
+730,Maura,Tierney,1,83,Liar Liar ,1997,39
+1697,Don,Tiffany,1,208,Ocean's Twelve ,2004,30
+1459,Leif,Tilden,1,174,Teenage Mutant Ninja Turtles ,1990,32
+296,Jennifer,Tilly,1,34,"Monsters, Inc. ",2001,24
+296,Jennifer,Tilly,1,83,Liar Liar ,1997,39
+1110,Alan,Tilvern,1,130,Who Framed Roger Rabbit ,1988,33
+2090,Stephen,Tobolowsky,1,269,Freaky Friday ,2003,22
+1872,James,Tolkan,1,236,Back to the Future Part II ,1989,22
+714,Marisa,Tomei,1,81,What Women Want ,2000,8
+714,Marisa,Tomei,1,179,Anger Management ,2003,10
+659,Tamlyn,Tomita,1,74,The Day After Tomorrow ,2004,19
+2336,Lily,Tomlin,1,306,Nine to Five ,1980,29
+2395,David,Tomlinson,1,315,Mary Poppins ,1964,33
+1861,Jeffrey,Toobin,1,234,Fahrenheit 9/11 ,2004,13
+314,Rip,Torn,1,36,Men in Black ,1997,40
+314,Rip,Torn,1,72,Men in Black II ,2002,27
+314,Rip,Torn,1,252,Dodgeball: A True Underdog Story ,2004,37
+1089,Katharine,Towne,1,127,What Lies Beneath ,2000,23
+954,Nancy,Travis,1,109,Three Men and a Baby ,1987,19
+737,John,Travolta,1,84,Grease ,1978,30
+737,John,Travolta,1,149,Saturday Night Fever ,1977,31
+737,John,Travolta,1,158,Look Who's Talking ,1989,27
+737,John,Travolta,1,261,Face/Off ,1997,36
+737,John,Travolta,1,282,Pulp Fiction ,1994,35
+737,John,Travolta,1,300,Phenomenon ,1996,26
+737,John,Travolta,1,310,The General's Daughter ,1999,3
+2402,Arthur,Treacher,1,315,Mary Poppins ,1964,33
+2037,Danny,Trejo,1,259,Spy Kids ,2001,7
+148,Saunders,Triplets,1,16,Harry Potter and the Sorcerer's Stone ,2001,15
+1051,Jeanne,Tripplehorn,1,122,The Firm ,1993,21
+1051,Jeanne,Tripplehorn,1,238,Basic Instinct ,1992,33
+515,Verne,Troyer,1,57,Austin Powers in Goldmember ,2002,21
+515,Verne,Troyer,1,61,Austin Powers: The Spy Who Shagged Me ,1999,39
+1587,François,Truffaut,1,193,Close Encounters of the Third Kind ,1977,27
+1003,Daniel,Truhitte,1,115,The Sound of Music ,1965,10
+437,Kenneth,Tsang,1,49,Rush Hour 2 ,2001,19
+437,Kenneth,Tsang,1,120,Die Another Day ,2002,14
+814,Barry,Tubb,1,92,Top Gun ,1986,34
+742,Michael,Tucci,1,84,Grease ,1978,30
+2457,Stanley,Tucci,1,328,The Pelican Brief ,1993,26
+431,Chris,Tucker,1,49,Rush Hour 2 ,2001,19
+431,Chris,Tucker,1,155,Rush Hour ,1998,27
+831,Alan,Tudyk,1,94,Ice Age ,2002,22
+831,Alan,Tudyk,1,145,"I, Robot ",2004,32
+831,Alan,Tudyk,1,252,Dodgeball: A True Underdog Story ,2004,37
+851,Peter,Turnbull,1,96,Crocodile Dundee ,1986,16
+1460,Michael,Turney,1,174,Teenage Mutant Ninja Turtles ,1990,32
+1066,Nicholas,Turturro,1,123,The Longest Yard ,2005,14
+1494,John,Turturro,1,179,Anger Management ,2003,10
+1494,John,Turturro,1,205,Mr. Deeds ,2002,15
+2068,Rita,Tushingham,1,265,Doctor Zhivago ,1965,23
+594,Liv,Tyler,1,66,Armageddon ,1998,9
+246,Alanna,Ubach,1,28,Meet the Fockers ,2004,26
+2131,Hechter,Ubarry,1,274,Crocodile' Dundee II ,1988,30
+1182,Skeet,Ulrich,1,139,As Good as It Gets ,1997,27
+1182,Skeet,Ulrich,1,307,Scream ,1996,17
+1395,Gabrielle,Union,1,165,Bad Boys II ,2003,19
+836,Karl,Urban,1,95,The Bourne Supremacy ,2004,18
+793,Amber,Valletta,1,90,Hitch ,2005,17
+793,Amber,Valletta,1,127,What Lies Beneath ,2000,23
+2002,Frederique,Van Der Wal,1,254,Wild Wild West ,1999,21
+2447,Casper,Van Dien,1,326,Sleepy Hollow ,1999,11
+2394,Dick,Van Dyke,1,315,Mary Poppins ,1964,33
+1932,Brian,Van Holt,1,244,S.W.A.T. ,2003,21
+1881,Al,Vandecruys,1,237,The Sum of All Fears ,2002,12
+2003,Musetta,Vander,1,254,Wild Wild West ,1999,21
+365,Nia,Vardalos,1,42,My Big Fat Greek Wedding ,2002,16
+1004,Norma,Varden,1,115,The Sound of Music ,1965,10
+1719,Jacob,Vargas,1,212,Traffic ,2000,20
+333,Jim,Varney,1,38,Toy Story 2 ,1999,42
+333,Jim,Varney,1,71,Toy Story ,1995,19
+415,Vince,Vaughn,1,47,The Lost World: Jurassic Park ,1997,35
+415,Vince,Vaughn,1,59,Wedding Crashers ,2005,15
+415,Vince,Vaughn,1,75,Mr. & Mrs. Smith ,2005,7
+415,Vince,Vaughn,1,252,Dodgeball: A True Underdog Story ,2004,37
+1954,Robert,Vaughn,1,246,The Towering Inferno ,1974,17
+401,Yul,Vazquez,1,45,War of the Worlds ,2005,13
+401,Yul,Vazquez,1,135,Runaway Bride ,1999,29
+401,Yul,Vazquez,1,165,Bad Boys II ,2003,19
+2034,Alexa,Vega,1,259,Spy Kids ,2001,7
+2034,Alexa,Vega,1,264,Spy Kids 3-D: Game Over ,2003,16
+588,Patricia,Velasquez,1,65,The Mummy Returns ,2001,24
+1898,Reginald,VelJohnson,1,240,Die Hard 2 ,1990,35
+402,Lenny,Venito,1,45,War of the Worlds ,2005,13
+2420,Harley,Venton,1,319,Sleeping with the Enemy ,1991,16
+1292,John,Vernon,1,152,Animal House ,1978,32
+2091,Christina,Vidal,1,269,Freaky Friday ,2003,22
+369,Kaylee,Vieira,1,42,My Big Fat Greek Wedding ,2002,16
+1342,Abe,Vigoda,1,158,Look Who's Talking ,1989,27
+1798,Paul,Vincent O'Connor,1,226,Seabiscuit ,2003,33
+829,Goran,Visnjic,1,94,Ice Age ,2002,22
+2208,Joe,Viterelli,1,287,Analyze This ,1999,20
+612,Jon,Voight,1,68,Pearl Harbor ,2001,29
+612,Jon,Voight,1,86,Mission: Impossible ,1996,29
+612,Jon,Voight,1,100,National Treasure ,2004,20
+612,Jon,Voight,1,184,Lara Croft: Tomb Raider ,2001,23
+612,Jon,Voight,1,266,Enemy of the State ,1998,41
+2369,Daniel,von Bargen,1,310,The General's Daughter ,1999,3
+411,Peter,von Berg,1,46,Cast Away ,2000,10
+634,Erik,von Detten,1,71,Toy Story ,1995,19
+634,Erik,von Detten,1,280,The Princess Diaries ,2001,19
+571,Max,von Sydow,1,64,The Exorcist ,1973,5
+571,Max,von Sydow,1,183,Minority Report ,2002,11
+1579,Hamilton,von Watts,1,191,The Nutty Professor ,1996,22
+584,Arnold,Vosloo,1,65,The Mummy Returns ,2001,24
+584,Arnold,Vosloo,1,128,The Mummy ,1999,18
+2507,Spencer,Vrooman,1,335,Casper ,1995,27
+1856,George,W. Bush,1,234,Fahrenheit 9/11 ,2004,13
+514,Robert,Wagner,1,57,Austin Powers in Goldmember ,2002,21
+514,Robert,Wagner,1,61,Austin Powers: The Spy Who Shagged Me ,1999,39
+189,Donnie,Wahlberg,1,22,The Sixth Sense ,1999,25
+189,Donnie,Wahlberg,1,170,Ransom ,1996,26
+723,Mark,Wahlberg,1,82,The Perfect Storm ,2000,31
+723,Mark,Wahlberg,1,87,Planet of the Apes ,2001,22
+723,Mark,Wahlberg,1,293,The Italian Job ,2003,16
+1760,Ralph,Waite,1,219,The Bodyguard ,1992,27
+530,Christopher,Walken,1,59,Wedding Crashers ,2005,15
+530,Christopher,Walken,1,113,Catch Me If You Can ,2002,22
+530,Christopher,Walken,1,116,Batman Returns ,1992,36
+1246,Paul,Walker,1,147,The Fast and the Furious ,2001,16
+1246,Paul,Walker,1,200,2 Fast 2 Furious ,2003,13
+2232,Sydney,Walker,1,291,Love Story ,1970,33
+35,Dee,Wallace-Stone,1,4,E.T. the Extra-Terrestrial ,1982,19
+1304,J.T.,Walsh,1,153,A Few Good Men ,1992,31
+1304,J.T.,Walsh,1,215,"Good Morning, Vietnam ",1987,39
+1045,Ray,Walston,1,121,The Sting ,1973,25
+309,Tracey,Walter,1,35,Batman ,1989,18
+309,Tracey,Walter,1,213,City Slickers ,1991,21
+639,Patrick,Warburton,1,72,Men in Black II ,2002,27
+656,Sela,Ward,1,74,The Day After Tomorrow ,2004,19
+656,Sela,Ward,1,79,The Fugitive ,1993,16
+743,Kelly,Ward,1,84,Grease ,1978,30
+1630,Fred,Ward,1,198,Sweet Home Alabama ,2002,30
+10,David,Warner,1,1,Titanic ,1997,32
+10,David,Warner,1,87,Planet of the Apes ,2001,22
+32,Aron,Warner,1,3,Shrek 2 ,2004,45
+766,Estella,Warren,1,87,Planet of the Apes ,2001,22
+665,Kerry,Washington,1,75,Mr. & Mrs. Smith ,2005,7
+665,Kerry,Washington,1,129,Fantastic Four ,2005,7
+1888,Jascha,Washington,1,239,Big Momma's House ,2000,14
+1960,Denzel,Washington,1,248,Remember the Titans ,2000,33
+1960,Denzel,Washington,1,328,The Pelican Brief ,1993,26
+1238,Jerry,Wasserman,1,145,"I, Robot ",2004,32
+557,Ken,Watanabe,1,62,Batman Begins ,2005,19
+557,Ken,Watanabe,1,267,The Last Samurai ,2003,26
+1345,Jaryd,Waterhouse,1,158,Look Who's Talking ,1989,27
+209,Emma,Watson,1,25,Harry Potter and the Goblet of Fire ,2005,24
+209,Emma,Watson,1,30,Harry Potter and the Chamber of Secrets ,2002,18
+449,Naomi,Watts,1,51,King Kong ,2005,10
+449,Naomi,Watts,1,192,The Ring ,2002,16
+1620,Carl,Weathers,1,197,Rocky IV ,1985,17
+1620,Carl,Weathers,1,217,Rocky III ,1982,34
+1620,Carl,Weathers,1,241,Rocky ,1976,15
+378,Sigourney,Weaver,1,43,Ghost Busters ,1984,13
+378,Sigourney,Weaver,1,253,The Village ,2004,46
+378,Sigourney,Weaver,1,260,Ghostbusters II ,1989,26
+909,Hugo,Weaving,1,104,The Matrix ,1999,28
+2052,Chloe,Webb,1,263,Twins ,1988,36
+472,Scott,Weinger,1,53,Aladdin ,1992,56
+1910,Benjamin,Weir,1,242,Double Jeopardy ,1999,1
+2372,Peter,Weireter,1,310,The General's Daughter ,1999,3
+1440,Zohren,Weiss,1,171,101 Dalmatians ,1996,15
+1873,Jeffrey,Weissman,1,236,Back to the Future Part II ,1989,22
+582,Rachel,Weisz,1,65,The Mummy Returns ,2001,24
+582,Rachel,Weisz,1,128,The Mummy ,1999,18
+667,Chris,Weitz,1,75,Mr. & Mrs. Smith ,2005,7
+2426,Charles,Weldon,1,320,Stir Crazy ,1980,17
+475,Frank,Welker,1,53,Aladdin ,1992,56
+1387,Tom,Welling,1,164,Cheaper by the Dozen ,2003,24
+524,Claudia,Wells,1,58,Back to the Future ,1985,30
+2134,Kenneth,Welsh,1,274,Crocodile' Dundee II ,1988,30
+1804,David,Wenham,1,227,Van Helsing ,2004,13
+1143,Martha,Wentworth,1,134,One Hundred and One Dalmatians ,1961,24
+946,Dominic,West,1,108,Chicago ,2002,35
+1514,Celia,Weston,1,182,Hulk ,2003,5
+1514,Celia,Weston,1,253,The Village ,2004,46
+1728,Patricia,Wettig,1,213,City Slickers ,1991,21
+427,Merritt,Wever,1,48,Signs ,2002,15
+361,Sean,Whalen,1,41,Twister ,1996,36
+2348,Joseph,Whipp,1,307,Scream ,1996,17
+1409,Forest,Whitaker,1,167,Platoon ,1986,16
+1409,Forest,Whitaker,1,215,"Good Morning, Vietnam ",1987,39
+1409,Forest,Whitaker,1,300,Phenomenon ,1996,26
+2181,Duane,Whitaker,1,282,Pulp Fiction ,1994,35
+405,Lari,White,1,46,Cast Away ,2000,10
+925,Richard,White,1,105,Beauty and the Beast ,1991,24
+1506,Betty,White,1,181,Bringing Down the House ,2003,25
+1028,Al,Whiting,1,118,The Waterboy ,1998,14
+2202,Benjamin,Whitrow,1,286,Chicken Run ,2000,13
+1367,Mary,Wickes,1,161,Sister Act ,1992,30
+1367,Mary,Wickes,1,339,The Hunchback of Notre Dame ,1996,13
+1733,Dianne,Wiest,1,214,The Birdcage ,1996,22
+1733,Dianne,Wiest,1,340,Parenthood ,1989,35
+2353,Collin,Wilcox Paxton,1,308,Jaws 2 ,1978,15
+1823,Gene,Wilder,1,230,Blazing Saddles ,1974,31
+1823,Gene,Wilder,1,320,Stir Crazy ,1980,17
+374,Petra,Wildgoose,1,42,My Big Fat Greek Wedding ,2002,16
+2329,Jim,Wilkey,1,305,Dick Tracy ,1990,22
+555,Tom,Wilkinson,1,62,Batman Begins ,2005,19
+555,Tom,Wilkinson,1,155,Rush Hour ,1998,27
+555,Tom,Wilkinson,1,256,The Patriot ,2000,19
+555,Tom,Wilkinson,1,336,Shakespeare in Love ,1998,44
+1451,Fred,Willard,1,173,Chicken Little ,2005,19
+1451,Fred,Willard,1,302,American Wedding ,2003,34
+577,Reverend,William O'Malley,1,64,The Exorcist ,1973,5
+1221,Seann,William Scott,1,143,American Pie 2 ,2001,24
+1221,Seann,William Scott,1,302,American Wedding ,2003,34
+1221,Seann,William Scott,1,316,American Pie ,1999,18
+128,Rebecca,Williams,1,14,Forrest Gump ,1994,27
+187,Olivia,Williams,1,22,The Sixth Sense ,1999,25
+211,Mark,Williams,1,25,Harry Potter and the Goblet of Fire ,2005,24
+211,Mark,Williams,1,171,101 Dalmatians ,1996,15
+440,Robin,Williams,1,50,Mrs. Doubtfire ,1993,27
+440,Robin,Williams,1,53,Aladdin ,1992,56
+440,Robin,Williams,1,166,Good Will Hunting ,1997,16
+440,Robin,Williams,1,175,Patch Adams ,1998,17
+440,Robin,Williams,1,214,The Birdcage ,1996,22
+440,Robin,Williams,1,215,"Good Morning, Vietnam ",1987,39
+440,Robin,Williams,1,229,Hook ,1991,22
+440,Robin,Williams,1,337,Jumanji ,1995,27
+1662,Paul,Williams,1,203,Smokey and the Bandit ,1977,13
+1744,Gabriel,Williams,1,216,Nutty Professor II: The Klumps ,2000,32
+1815,Johnny,Williams,1,228,The Mask ,1994,36
+1978,Cindy,Williams,1,250,American Graffiti ,1973,14
+1994,Chris,Williams,1,252,Dodgeball: A True Underdog Story ,2004,37
+2239,JoBeth,Williams,1,292,Kramer vs. Kramer ,1979,10
+2239,JoBeth,Williams,1,320,Stir Crazy ,1980,17
+2370,Clarence,Williams III,1,310,The General's Daughter ,1999,3
+126,Mykelti,Williamson,1,14,Forrest Gump ,1994,27
+126,Mykelti,Williamson,1,325,Con Air ,1997,18
+1062,Walter,Williamson,1,123,The Longest Yard ,2005,14
+1730,Noble,Willingham,1,213,City Slickers ,1991,21
+1730,Noble,Willingham,1,215,"Good Morning, Vietnam ",1987,39
+184,Bruce,Willis,1,22,The Sixth Sense ,1999,25
+184,Bruce,Willis,1,66,Armageddon ,1998,9
+184,Bruce,Willis,1,158,Look Who's Talking ,1989,27
+184,Bruce,Willis,1,240,Die Hard 2 ,1990,35
+184,Bruce,Willis,1,282,Pulp Fiction ,1994,35
+184,Bruce,Willis,1,341,Die Hard: With a Vengeance ,1995,32
+243,Owen,Wilson,1,28,Meet the Fockers ,2004,26
+243,Owen,Wilson,1,59,Wedding Crashers ,2005,15
+243,Owen,Wilson,1,66,Armageddon ,1998,9
+243,Owen,Wilson,1,110,Meet the Parents ,2000,22
+446,Mara,Wilson,1,50,Mrs. Doubtfire ,1993,27
+1146,Rita,Wilson,1,135,Runaway Bride ,1999,29
+1146,Rita,Wilson,1,204,Sleepless in Seattle ,1993,29
+1242,Stuart,Wilson,1,146,Lethal Weapon 3 ,1992,33
+1242,Stuart,Wilson,1,266,Enemy of the State ,1998,41
+1257,Kristen,Wilson,1,148,Doctor Dolittle ,1998,23
+1257,Kristen,Wilson,1,258,Dr. Dolittle 2 ,2001,12
+1576,Patricia,Wilson,1,191,The Nutty Professor ,1996,22
+1710,Luke,Wilson,1,210,Charlie's Angels ,2000,23
+1923,De'Angelo,Wilson,1,243,8 Mile ,2002,27
+2008,Elizabeth,Wilson,1,255,The Addams Family ,1991,18
+2008,Elizabeth,Wilson,1,301,The Graduate ,1967,26
+2008,Elizabeth,Wilson,1,306,Nine to Five ,1980,29
+2054,Trey,Wilson,1,263,Twins ,1988,36
+1542,Thomas,Wilson Brown,1,186,"Honey, I Shrunk the Kids ",1989,17
+968,Michael,Wincott,1,111,Robin Hood: Prince of Thieves ,1991,16
+278,Rachel,Winfree,1,32,How the Grinch Stole Christmas ,2000,27
+1564,Debra,Winger,1,189,An Officer and a Gentleman ,1982,6
+1564,Debra,Winger,1,278,Terms of Endearment ,1983,14
+1022,Henry,Winkler,1,118,The Waterboy ,1998,14
+574,Kitty,Winn,1,64,The Exorcist ,1973,5
+3,Kate,Winslet,1,1,Titanic ,1997,32
+1626,Reese,Witherspoon,1,198,Sweet Home Alabama ,2002,30
+1626,Reese,Witherspoon,1,231,Walk the Line ,2005,24
+224,Hillary,Wolf,1,26,Home Alone ,1990,28
+224,Hillary,Wolf,1,98,Home Alone 2: Lost in New York ,1992,33
+1194,Traci,Wolfe,1,140,Lethal Weapon 2 ,1989,24
+1194,Traci,Wolfe,1,146,Lethal Weapon 3 ,1992,33
+1194,Traci,Wolfe,1,190,Lethal Weapon 4 ,1998,18
+2279,Roger,Womack,1,296,Porky's ,1982,9
+1855,Stevie,Wonder,1,234,Fahrenheit 9/11 ,2004,13
+104,B.D.,Wong,1,11,Jurassic Park ,1993,20
+702,Tom,Wood,1,79,The Fugitive ,1993,16
+999,Peggy,Wood,1,115,The Sound of Music ,1965,10
+1158,Andy,Wood,1,136,Rambo: First Blood Part II ,1985,40
+1334,Elijah,Wood,1,157,Deep Impact ,1998,28
+1418,Alfre,Woodard,1,168,Dinosaur ,2000,28
+1382,Danielle,Woodman,1,163,The Santa Clause 2 ,2002,26
+2341,Ren,Woods,1,306,Nine to Five ,1980,29
+2371,James,Woods,1,310,The General's Daughter ,1999,3
+2439,Jaimz,Woolvett,1,324,Unforgiven ,1992,25
+1141,Frederick,Worlock,1,134,One Hundred and One Dalmatians ,1961,24
+214,Bonnie,Wright,1,25,Harry Potter and the Goblet of Fire ,2005,24
+1002,Ben,Wright,1,115,The Sound of Music ,1965,10
+1002,Ben,Wright,1,134,One Hundred and One Dalmatians ,1961,24
+1892,Carl,Wright,1,239,Big Momma's House ,2000,14
+124,Robin,Wright Penn,1,14,Forrest Gump ,1994,27
+304,Robert,Wuhl,1,35,Batman ,1989,18
+304,Robert,Wuhl,1,215,"Good Morning, Vietnam ",1987,39
+2127,Jane,Wyatt,1,273,Star Trek IV: The Voyage Home ,1986,29
+2538,Nicholas,Wyman,1,341,Die Hard: With a Vengeance ,1995,32
+2486,Dana,Wynter,1,332,Airport ,1970,14
+786,Amy,Yasbeck,1,89,Pretty Woman ,1990,15
+786,Amy,Yasbeck,1,228,The Mask ,1994,36
+1723,Jose,Yenque,1,212,Traffic ,2000,20
+1610,Michelle,Yeoh,1,196,Wo hu cang long ,2000,12
+1610,Michelle,Yeoh,1,209,Tomorrow Never Dies ,1997,26
+776,David,Yip,1,88,Indiana Jones and the Temple of Doom ,1984,24
+513,Michael,York,1,57,Austin Powers in Goldmember ,2002,21
+513,Michael,York,1,61,Austin Powers: The Spy Who Shagged Me ,1999,39
+1392,Morgan,York,1,164,Cheaper by the Dozen ,2003,24
+1392,Morgan,York,1,257,The Pacifier ,2005,13
+2174,Susannah,York,1,281,Superman II ,1980,34
+777,Ric,Young,1,88,Indiana Jones and the Temple of Doom ,1984,24
+1619,Burt,Young,1,197,Rocky IV ,1985,17
+1619,Burt,Young,1,217,Rocky III ,1982,34
+1619,Burt,Young,1,241,Rocky ,1976,15
+435,Harris,Yulin,1,49,Rush Hour 2 ,2001,19
+435,Harris,Yulin,1,218,Clear and Present Danger ,1994,9
+435,Harris,Yulin,1,260,Ghostbusters II ,1989,26
+1041,Will,Yun Lee,1,120,Die Another Day ,2002,14
+1038,Rick,Yune,1,120,Die Another Day ,2002,14
+1038,Rick,Yune,1,147,The Fast and the Furious ,2001,16
+2099,Grace,Zabriskie,1,270,The Grudge ,2004,31
+2524,Daniel,Zacapa,1,338,Se7en ,1995,34
+1349,Steve,Zahn,1,159,Stuart Little ,1999,24
+1349,Steve,Zahn,1,173,Chicken Little ,2005,19
+1349,Steve,Zahn,1,247,You've Got Mail ,1998,8
+1349,Steve,Zahn,1,303,Daddy Day Care ,2003,38
+4,Billy,Zane,1,1,Titanic ,1997,32
+4,Billy,Zane,1,236,Back to the Future Part II ,1989,22
+2028,Lil',Zane,1,258,Dr. Dolittle 2 ,2001,12
+945,Renée,Zellweger,1,108,Chicago ,2002,35
+945,Renée,Zellweger,1,119,Shark Tale ,2004,26
+945,Renée,Zellweger,1,132,Jerry Maguire ,1996,27
+1614,Fa,Zeng Li,1,196,Wo hu cang long ,2000,12
+944,Catherine,Zeta-Jones,1,108,Chicago ,2002,35
+944,Catherine,Zeta-Jones,1,208,Ocean's Twelve ,2004,30
+433,Ziyi,Zhang,1,49,Rush Hour 2 ,2001,19
+433,Ziyi,Zhang,1,196,Wo hu cang long ,2000,12
+615,Greg,Zola,1,68,Pearl Harbor ,2001,29
+372,Marita,Zouravlioff,1,42,My Big Fat Greek Wedding ,2002,16
+191,Jeffrey,Zubernis,1,22,The Sixth Sense ,1999,25

@@ -1,0 +1,37 @@
+/* app-body */
+
+.app-body {
+  font-family: "Open Sans", "Segoe UI", "Helvetica Neue", "Helvetica", "Arial", "Verdana", sans-serif;
+  font-size: 14px;
+  line-height: 1.8;
+  color: #626161;
+  background-color: #ffffff;
+  letter-spacing: .01em;
+  margin: 0;
+  height: 100%;
+  overflow: auto;
+  min-width: 1024px;
+}
+
+
+/* app-root */
+
+.app-root {
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
+
+.loading-screen {
+  background-color: #ececec;
+  width: 100px;
+  flex: 1 1 auto;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.loading-screen__text {
+  font-size: 1rem;
+}

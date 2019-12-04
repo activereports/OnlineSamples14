@@ -1,0 +1,15 @@
+[
+  {"id": "RDL Reports|TOC", "image": "TOC.jpg"},
+  {"id": "RDL Reports|Map Control", "image": "MapControl.jpg"},
+  {"id": "RDL Reports|Postal Bar Codes", "image": "BarCodes.jpg"},
+  {"id": "RDL Reports|Dashboards", "image": "Dashboards.jpg"},
+  {"id": "RDL Reports|Banded List Control", "image": "BandedListControl.jpg"},
+  {"id": "RDL Reports|Document Map", "image": "DocumentMapAndTOC.jpg"},
+  {"id": "RDL Reports|Drill Down Reports", "image": "DrillDownReports.jpg"},
+  {"id": "RDL Reports|Tablix Control", "image": "MatrixControl.jpg"},
+  {"id": "RDL Reports|Others", "image": "RDLOthers.jpg"},
+  {"id": "Page Reports|Layers", "image": "PreprintedLayouts.jpg"},
+  {"id": "Page Reports|Bar Codes", "image": "BarCodes.jpg"},
+  {"id": "Page Reports|Duplicate Copy Report", "image": "DuplicateCopyReport.jpg"},
+  {"id": "Page Reports|Others", "image": "PageReportsOther.jpg"}
+]
