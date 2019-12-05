@@ -9,7 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 using GrapeCity.ActiveReports.Aspnetcore.Viewer;
 using Microsoft.Extensions.Logging;
 using GrapeCity.ActiveReports.Web.Viewer;
-using System.Data.SQLite.EF6;
+using System.Data.SQLite.Linq;
 
 namespace PlantPerfomance_AngularCore
 {
