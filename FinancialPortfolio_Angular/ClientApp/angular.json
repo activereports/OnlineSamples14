@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "FinancialPortfolio_Angular(Core)": {
+    "FinancialPortfolio_Angular": {
       "root": "",
       "sourceRoot": "src",
       "projectType": "application",
@@ -49,18 +49,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "FinancialPortfolio_Angular(Core):build"
+            "browserTarget": "FinancialPortfolio_Angular:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "FinancialPortfolio_Angular(Core):build:production"
+              "browserTarget": "FinancialPortfolio_Angular:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "FinancialPortfolio_Angular(Core):build"
+            "browserTarget": "FinancialPortfolio_Angular:build"
           }
         },
         "lint": {
@@ -77,13 +77,13 @@
         }
       }
     },
-    "FinancialPortfolio_Angular(Core)-e2e": {
+    "FinancialPortfolio_Angular-e2e": {
       "root": "e2e",
       "sourceRoot": "e2e",
       "projectType": "application"
     }
   },
-  "defaultProject": "FinancialPortfolio_Angular(Core)",
+  "defaultProject": "FinancialPortfolio_Angular",
   "schematics": {
     "@schematics/angular:component": {
       "prefix": "app",

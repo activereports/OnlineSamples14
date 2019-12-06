@@ -4,7 +4,7 @@ using System.IO;
 using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 
-namespace PlantPerfomance_AngularCore.Controllers
+namespace FinancialPortfolio_Angular.Controllers
 {
     [Route("api/[controller]")]
     public class ReportsController : Controller

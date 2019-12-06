@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 
-namespace PlantPerfomance_AngularCore
+namespace ReportsGallery_Angular
 {
 	public class Program
 	{

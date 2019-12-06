@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "ReportsGallery_Angular(Core)": {
+    "PlantPerfomance_Angular": {
       "root": "",
       "sourceRoot": "src",
       "projectType": "application",
@@ -49,18 +49,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "ReportsGallery_Angular(Core):build"
+            "browserTarget": "PlantPerfomance_Angular:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "ReportsGallery_Angular(Core):build:production"
+              "browserTarget": "PlantPerfomance_Angular:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "ReportsGallery_Angular(Core):build"
+            "browserTarget": "PlantPerfomance_Angular:build"
           }
         },
         "lint": {
@@ -77,13 +77,13 @@
         }
       }
     },
-    "ReportsGallery_Angular(Core)-e2e": {
+    "PlantPerfomance_Angular-e2e": {
       "root": "e2e",
       "sourceRoot": "e2e",
       "projectType": "application"
     }
   },
-  "defaultProject": "ReportsGallery_Angular(Core)",
+  "defaultProject": "PlantPerfomance_Angular",
   "schematics": {
     "@schematics/angular:component": {
       "prefix": "app",

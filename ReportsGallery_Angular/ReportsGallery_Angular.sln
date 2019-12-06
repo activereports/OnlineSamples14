@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReportsGallery_Angular(Core)", "ReportsGallery_Angular(Core).csproj", "{EAFBD9CE-DDA9-4AD0-9862-CAF1A778E2FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReportsGallery_Angular", "ReportsGallery_Angular.csproj", "{EAFBD9CE-DDA9-4AD0-9862-CAF1A778E2FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

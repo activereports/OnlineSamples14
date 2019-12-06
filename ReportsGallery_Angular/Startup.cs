@@ -9,11 +9,11 @@ using Microsoft.Extensions.DependencyInjection;
 using GrapeCity.ActiveReports.Aspnetcore.Viewer;
 using Microsoft.Extensions.Logging;
 
-namespace ReportsGallery_AngularCore
+namespace ReportsGallery_Angular
 {
     public class Startup
     {
-        public static string EmbeddedReportsPrefix = "ReportsGallery_Angular(Core).Reports";
+        public static string EmbeddedReportsPrefix = "ReportsGallery_Angular.Reports";
 
         public Startup(IConfiguration configuration)
         {
