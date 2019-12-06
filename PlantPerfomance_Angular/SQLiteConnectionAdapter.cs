@@ -3,7 +3,7 @@ using System;
 using System.Globalization;
 using System.Linq;
 
-namespace PlantPerfomance_AngularCore
+namespace PlantPerfomance_Angular
 {
 	public sealed class SQLiteConnectionAdapter : DbConnectionAdapter
 	{

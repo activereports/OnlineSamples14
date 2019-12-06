@@ -1,12 +1,12 @@
-# Reports Gallery Sample
+# Manufacturing Plant Performance Sample
 
-This sample view examples of WPF spreadsheet apps, and experience Excel-like 
-features like Excel import/export, charts, app themes, and adding skins to spreadsheets.
+This sample demonstrates how plants perform on a map. Drill down by city 
+and view backlog percentage, machine capacity, labor utilization, and projected material usage.
 
 ## System requirements
 
 This sample requires
-[Visual Studio 2019](https://visualstudio.microsoft.com/vs/) 16.3 or newer, and
+[Visual Studio 2017](https://visualstudio.microsoft.com/vs/) 15.7 or newer, and
 the [.NET Core](https://www.microsoft.com/net/download) 2.1 SDK or later.
 
 Angular requires [Node.js](https://nodejs.org) 8.x or 10.x.
@@ -19,7 +19,7 @@ Angular requires [Node.js](https://nodejs.org) 8.x or 10.x.
 3. Right-click the solution in Solution Explorer and select **Restore NuGet
    Packages**.
 4. Press Ctrl+Shift+B, or select **Build → Build Solution**.
-5. Open Command Prompt and go to the ReportsGallery_Angular(Core)\ClientApp folder.
+5. Open Command Prompt and go to the PlantPerfomance_Angular\ClientApp folder.
 6. Run the `npm install` command.
 
 ## Run the sample

@@ -1,10 +1,9 @@
 using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 
-namespace FinancialPortfolio_AngularCore.Controllers
+namespace ReportsGallery_Angular.Controllers
 {
     [Route("api/[controller]")]
     public class ReportsController : Controller

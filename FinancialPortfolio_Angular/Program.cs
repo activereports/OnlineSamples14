@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 
-namespace FinancialPortfolio_AngularCore
+namespace FinancialPortfolio_Angular
 {
 	public class Program
 	{

@@ -8,14 +8,12 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using GrapeCity.ActiveReports.Aspnetcore.Viewer;
 using Microsoft.Extensions.Logging;
-using GrapeCity.ActiveReports.Web.Viewer;
-using System.Data.SQLite.EF6;
 
-namespace PlantPerfomance_AngularCore
+namespace FinancialPortfolio_Angular
 {
     public class Startup
     {
-        public static string EmbeddedReportsPrefix = "PlantPerfomance_Angular(Core).Reports";
+        public static string EmbeddedReportsPrefix = "FinancialPortfolio_Angular.Reports";
 
         public Startup(IConfiguration configuration)
         {
@@ -61,16 +59,7 @@ namespace PlantPerfomance_AngularCore
             //Configure reporting to get reports from folder.
             //You can also use the reports embedded into the assembly (UseEmbeddedTemplates method)
             //or your own reports store (UseCustomStore method).
-            app.UseReporting(config =>
-			{
-				config.UseEmbeddedTemplates(EmbeddedReportsPrefix, Assembly.GetAssembly(GetType()));
-				config.UseDataProviders(new DataProviderInfo[]
-				{
-					new DataProviderInfo("SQLite", 
-						typeof(SQLiteProviderFactory).AssemblyQualifiedName,
-						typeof(SQLiteConnectionAdapter).AssemblyQualifiedName)
-				});
-			});
+            app.UseReporting(config => config.UseEmbeddedTemplates(EmbeddedReportsPrefix, Assembly.GetAssembly(GetType())));
 
             app.UseMvc(routes =>
             {
@@ -85,6 +74,7 @@ namespace PlantPerfomance_AngularCore
 
                 if (env.IsDevelopment())
                 {
+                    spa.Options.StartupTimeout = new TimeSpan(0, 0, 120);
                     spa.UseAngularCliServer(npmScript: "start");
                 }
             });
