@@ -7,7 +7,7 @@ features like Excel import/export, charts, app themes, and adding skins to sprea
 
 This sample requires
 [Visual Studio 2017](https://visualstudio.microsoft.com/vs/) 15.7 or newer, and
-the [.NET Core](https://www.microsoft.com/net/download) 2.1 SDK or later.
+the [.NET Framework Dev Pack](https://www.microsoft.com/net/download) 4.6.2 or later.
 
 Angular requires [Node.js](https://nodejs.org) 8.x or 10.x.
 
