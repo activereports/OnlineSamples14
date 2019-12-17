@@ -28,10 +28,16 @@
     <None Include="$(SpaRoot)**" Exclude="$(SpaRoot)node_modules\**" />
   </ItemGroup>
   <ItemGroup>
+    <None Remove="PlantPerformance.db" />
     <None Remove="Reports\PlantPerformance.rdlx" />
   </ItemGroup>
   <ItemGroup>
     <_ContentIncludedByDefault Remove="ClientApp\e2e\tsconfig.e2e.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="PlantPerformance.db">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="GrapeCity.ActiveReports.Aspnetcore.Viewer" Version="14.0.1429" />
