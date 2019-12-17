@@ -29,27 +29,12 @@
     <None Include="$(SpaRoot)**" Exclude="$(SpaRoot)node_modules\**" />
   </ItemGroup>
   <ItemGroup>
-    <Content Remove="wwwroot\data\reports.json" />
-    <Content Remove="wwwroot\data\thumbs.json" />
-    <Content Remove="wwwroot\data\tree.json" />
-    <Content Remove="wwwroot\img\BandedListControl.jpg" />
-    <Content Remove="wwwroot\img\BarCodes.jpg" />
-    <Content Remove="wwwroot\img\CalendarControl.jpg" />
-    <Content Remove="wwwroot\img\Dashboards.jpg" />
-    <Content Remove="wwwroot\img\default.jpg" />
-    <Content Remove="wwwroot\img\DocumentMapAndTOC.jpg" />
-    <Content Remove="wwwroot\img\DrillDownReports.jpg" />
-    <Content Remove="wwwroot\img\DummyReport.jpg" />
-    <Content Remove="wwwroot\img\DuplicateCopyReport.jpg" />
-    <Content Remove="wwwroot\img\LabelsWithBarCodes.jpg" />
-    <Content Remove="wwwroot\img\MapControl.jpg" />
-    <Content Remove="wwwroot\img\MatrixControl.jpg" />
-    <Content Remove="wwwroot\img\PageReportsOther.jpg" />
-    <Content Remove="wwwroot\img\PreprintedLayouts.jpg" />
-    <Content Remove="wwwroot\img\RDLOthers.jpg" />
-    <Content Remove="wwwroot\img\SLOther.jpg" />
-    <Content Remove="wwwroot\img\SLPreprintedLayouts.jpg" />
-    <Content Remove="wwwroot\img\TOC.jpg" />
+    <Content Include="wwwroot\data\*.*">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="wwwroot\img\*.*">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <_ContentIncludedByDefault Remove="ClientApp\e2e\tsconfig.e2e.json" />
