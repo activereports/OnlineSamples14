@@ -230,10 +230,10 @@
   dependencies:
     tslib "^1.9.0"
 
-"@grapecity/ar-viewer@14.2.2495":
-  version "14.2.2495"
-  resolved "https://registry.yarnpkg.com/@grapecity/ar-viewer/-/ar-viewer-14.2.2495.tgz#ab6b035a16de1cf3e047878bf68320f093eea231"
-  integrity sha512-xV2KlY5znFmVrAJSWZpcyyJJHFzjrahmw8eUgvT7kxlZ+pv9NNBLj0eyaWnEOckS9ULBaaijhi8mAMlNjIFSjA==
+"@grapecity/ar-viewer@14.3.2797":
+  version "14.3.2797"
+  resolved "https://registry.yarnpkg.com/@grapecity/ar-viewer/-/ar-viewer-14.3.2797.tgz#c158357ad1ec0f242d8908870c4dcf0d880c8e80"
+  integrity sha512-qfHFkArH8ZiC7WBgqay8URjsc6Od5jVq81XI1/afoLQ3GBg4rL3RBypiF5/rF+Ygo5qLLdWocFu/HWoPBdo25g==
 
 "@ngtools/webpack@7.0.7":
   version "7.0.7"
@@ -6090,9 +6090,9 @@ path-key@^2.0.0, path-key@^2.0.1:
   integrity sha1-QRyttXTFoUDTpLGRDUDYDMn0C0A=
 
 path-parse@^1.0.5, path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-proxy@~1.0.0:
   version "1.0.0"
