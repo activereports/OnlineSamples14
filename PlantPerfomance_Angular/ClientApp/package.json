@@ -54,6 +54,6 @@
     "@grapecity/ar-viewer": "14.3.2797"
   },
   "optionalDependencies": {
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.0"
   }
 }
