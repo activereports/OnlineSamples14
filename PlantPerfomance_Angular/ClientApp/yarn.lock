@@ -230,10 +230,10 @@
   dependencies:
     tslib "^1.9.0"
 
-"@grapecity/ar-viewer@14.2.2495":
-  version "14.2.2495"
-  resolved "https://registry.yarnpkg.com/@grapecity/ar-viewer/-/ar-viewer-14.2.2495.tgz#ab6b035a16de1cf3e047878bf68320f093eea231"
-  integrity sha512-xV2KlY5znFmVrAJSWZpcyyJJHFzjrahmw8eUgvT7kxlZ+pv9NNBLj0eyaWnEOckS9ULBaaijhi8mAMlNjIFSjA==
+"@grapecity/ar-viewer@14.3.2797":
+  version "14.3.2797"
+  resolved "https://registry.yarnpkg.com/@grapecity/ar-viewer/-/ar-viewer-14.3.2797.tgz#c158357ad1ec0f242d8908870c4dcf0d880c8e80"
+  integrity sha512-qfHFkArH8ZiC7WBgqay8URjsc6Od5jVq81XI1/afoLQ3GBg4rL3RBypiF5/rF+Ygo5qLLdWocFu/HWoPBdo25g==
 
 "@ngtools/webpack@7.0.7":
   version "7.0.7"
@@ -6449,9 +6449,9 @@ qs@6.7.0:
   integrity sha512-VCdBRNFTX1fyE7Nb6FYoURo/SPe62QCaAyzJvUjwRaIsc+NePBEniHlvxFmmX56+HZphIGtV0XeCirBtpDrTyQ==
 
 qs@~6.2.0:
-  version "6.2.3"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.2.3.tgz#1cfcb25c10a9b2b483053ff39f5dfc9233908cfe"
-  integrity sha1-HPyyXBCpsrSDBT/zn138kjOQjP4=
+  version "6.2.4"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.2.4.tgz#d90821bb8537cecc140e6c34f54ec76e54b39b22"
+  integrity sha512-E57gmgKXqDda+qWTkUJgIwgJICK7zgMfqZZopTRKZ6mY9gzLlmJN9EpXNnDrTxXFlOM/a+I28kJkF/60rqgnYw==
 
 qs@~6.5.1, qs@~6.5.2:
   version "6.5.2"
